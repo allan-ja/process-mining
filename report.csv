@@ -1,0 +1,501 @@
+Patient,All Paths,Outcome,Time (hr),Cost (GBP)
+1,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+2,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+3,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+4,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+5,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+6,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+7,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+8,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+9,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+10,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+11,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+12,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+13,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+14,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+15,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+16,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+17,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+18,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+19,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+20,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+21,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+22,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+23,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+24,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+25,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+26,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+27,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+28,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+29,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+30,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+31,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+32,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+33,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+34,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+35,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+36,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+37,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+38,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+39,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+40,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+41,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+42,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+43,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+44,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+45,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+46,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+47,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+48,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+49,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+50,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+51,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+52,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+53,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+54,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+55,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+56,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+57,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+58,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+59,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+60,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+61,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+62,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+63,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+64,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+65,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+66,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+67,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+68,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+69,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+70,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+71,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+72,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+73,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+74,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+75,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+76,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+77,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+78,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+79,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+80,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+81,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+82,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+83,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+84,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+85,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+86,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+87,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+88,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+89,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+90,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+91,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+92,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+93,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+94,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+95,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+96,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+97,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+98,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+99,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+100,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+101,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+102,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+103,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+104,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+105,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+106,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+107,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+108,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+109,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+110,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+111,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+112,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+113,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+114,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+115,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+116,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+117,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+118,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+119,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+120,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+121,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+122,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+123,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+124,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+125,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+126,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+127,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+128,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+129,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+130,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+131,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+132,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+133,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+134,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+135,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+136,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+137,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+138,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+139,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+140,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+141,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+142,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+143,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+144,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+145,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+146,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+147,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+148,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+149,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+150,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+151,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+152,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+153,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+154,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+155,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+156,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+157,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+158,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+159,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+160,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+161,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+162,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+163,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+164,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+165,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+166,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+167,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+168,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+169,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+170,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+171,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+172,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+173,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+174,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+175,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+176,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+177,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+178,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+179,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+180,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+181,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+182,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+183,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+184,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+185,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+186,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+187,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+188,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+189,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+190,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+191,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+192,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+193,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+194,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+195,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+196,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+197,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+198,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+199,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+200,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+201,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+202,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+203,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+204,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+205,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+206,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+207,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+208,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+209,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+210,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+211,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+212,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+213,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+214,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+215,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+216,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+217,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+218,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+219,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+220,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+221,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+222,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+223,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+224,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+225,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+226,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+227,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+228,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+229,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+230,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+231,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+232,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+233,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+234,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+235,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+236,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+237,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+238,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+239,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+240,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+241,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+242,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+243,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+244,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+245,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+246,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+247,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+248,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+249,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+250,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+251,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+252,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+253,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+254,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+255,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+256,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+257,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+258,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+259,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+260,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+261,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+262,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+263,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+264,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+265,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+266,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+267,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+268,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+269,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+270,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+271,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+272,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+273,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+274,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+275,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+276,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+277,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+278,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+279,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+280,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+281,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+282,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+283,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+284,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+285,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+286,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+287,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+288,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+289,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+290,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+291,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+292,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+293,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+294,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+295,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+296,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+297,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+298,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+299,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+300,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+301,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+302,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+303,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+304,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+305,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+306,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+307,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+308,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+309,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+310,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+311,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+312,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+313,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+314,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+315,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+316,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+317,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+318,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+319,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+320,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+321,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+322,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+323,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+324,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+325,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+326,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+327,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+328,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+329,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+330,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+331,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+332,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+333,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+334,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+335,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+336,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+337,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+338,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+339,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+340,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+341,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+342,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+343,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+344,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+345,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+346,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+347,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+348,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+349,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+350,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+351,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+352,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+353,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+354,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+355,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+356,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+357,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+358,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+359,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+360,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+361,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+362,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+363,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+364,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+365,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+366,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+367,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+368,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+369,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+370,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+371,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+372,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+373,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+374,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+375,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+376,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+377,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+378,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+379,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+380,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+381,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+382,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+383,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+384,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+385,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+386,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+387,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+388,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+389,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+390,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+391,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+392,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+393,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+394,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+395,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+396,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+397,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+398,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+399,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+400,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+401,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+402,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+403,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+404,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+405,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+406,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+407,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+408,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+409,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+410,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+411,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+412,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+413,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+414,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+415,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+416,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+417,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+418,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+419,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+420,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+421,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+422,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+423,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+424,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+425,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+426,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+427,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+428,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+429,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+430,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+431,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+432,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+433,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+434,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+435,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+436,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+437,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+438,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+439,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+440,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+441,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+442,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+443,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+444,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+445,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+446,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+447,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+448,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+449,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+450,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+451,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+452,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+453,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+454,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+455,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+456,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+457,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+458,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+459,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+460,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+461,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+462,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+463,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+464,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+465,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+466,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+467,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+468,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+469,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+470,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+471,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+472,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+473,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+474,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+475,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+476,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+477,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+478,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+479,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+480,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+481,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+482,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+483,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+484,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+485,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+486,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+487,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+488,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+489,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+490,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+491,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+492,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+493,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+494,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 7, Path 12",Outcome 2,0,0
+495,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+496,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+497,"Path 1, Path 3, Path 4, Path 5, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+498,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0
+499,"Path 1, Path 2, Path 6, Path 7, Path 12",Outcome 2,0,0
+500,"Path 1, Path 2, Path 6, Path 8, Path 9, Path 10, Path 11",Outcome 1,0,0

@@ -1,0 +1,3689 @@
+FOLLOW UP,PNO,CUE,TIME IN SECONDS,Time_stamped
+3,2057,Babbling,91,01/01/1900 00:01:31
+3,2057,Babbling,588,01/01/1900 00:09:48
+3,2057,Babbling,592,01/01/1900 00:09:52
+3,2057,Mutual Gaze,225,01/01/1900 00:03:45
+3,2057,Turning head to caregiver,208,01/01/1900 00:03:28
+3,2057,Turning head to caregiver,217,01/01/1900 00:03:37
+3,2057,Turning head to caregiver,277,01/01/1900 00:04:37
+3,2057,Turning head to caregiver,293,01/01/1900 00:04:53
+3,2057,Turning head to caregiver,825,01/01/1900 00:13:45
+3,2057,Turning head to caregiver,949,01/01/1900 00:15:49
+3,2057,Reaching towards food,61,01/01/1900 00:01:01
+3,2057,Reaching towards food,76,01/01/1900 00:01:16
+3,2057,Reaching towards food,80,01/01/1900 00:01:20
+3,2057,Reaching towards food,119,01/01/1900 00:01:59
+3,2057,Reaching towards food,133,01/01/1900 00:02:13
+3,2057,Reaching towards food,155,01/01/1900 00:02:35
+3,2057,Reaching towards food,177,01/01/1900 00:02:57
+3,2057,Reaching towards food,306,01/01/1900 00:05:06
+3,2057,Reaching towards food,314,01/01/1900 00:05:14
+3,2057,Reaching towards food,327,01/01/1900 00:05:27
+3,2057,Reaching towards food,339,01/01/1900 00:05:39
+3,2057,Reaching towards food,349,01/01/1900 00:05:49
+3,2057,Reaching towards food,361,01/01/1900 00:06:01
+3,2057,Reaching towards food,374,01/01/1900 00:06:14
+3,2057,Reaching towards food,384,01/01/1900 00:06:24
+3,2057,Reaching towards food,397,01/01/1900 00:06:37
+3,2057,Reaching towards food,402,01/01/1900 00:06:42
+3,2057,Reaching towards food,411,01/01/1900 00:06:51
+3,2057,Reaching towards food,424,01/01/1900 00:07:04
+3,2057,Reaching towards food,427,01/01/1900 00:07:07
+3,2057,Reaching towards food,433,01/01/1900 00:07:13
+3,2057,Reaching towards food,456,01/01/1900 00:07:36
+3,2057,Reaching towards food,464,01/01/1900 00:07:44
+3,2057,Reaching towards food,477,01/01/1900 00:07:57
+3,2057,Reaching towards food,488,01/01/1900 00:08:08
+3,2057,Reaching towards food,497,01/01/1900 00:08:17
+3,2057,Reaching towards food,503,01/01/1900 00:08:23
+3,2057,Reaching towards food,521,01/01/1900 00:08:41
+3,2057,Reaching towards food,527,01/01/1900 00:08:47
+3,2057,Reaching towards food,529,01/01/1900 00:08:49
+3,2057,Reaching towards food,533,01/01/1900 00:08:53
+3,2057,Reaching towards food,550,01/01/1900 00:09:10
+3,2057,Reaching towards food,556,01/01/1900 00:09:16
+3,2057,Reaching towards food,505,01/01/1900 00:08:25
+3,2057,Reaching towards food,511,01/01/1900 00:08:31
+3,2057,Reaching towards food,605,01/01/1900 00:10:05
+3,2057,Reaching towards food,631,01/01/1900 00:10:31
+3,2057,Reaching towards food,640,01/01/1900 00:10:40
+3,2057,Reaching towards food,644,01/01/1900 00:10:44
+3,2057,Reaching towards food,722,01/01/1900 00:12:02
+3,2057,Reaching towards food,758,01/01/1900 00:12:38
+3,2057,Reaching towards food,774,01/01/1900 00:12:54
+3,2057,Reaching towards food,786,01/01/1900 00:13:06
+3,2057,Reaching towards food,804,01/01/1900 00:13:24
+3,2057,Reaching towards food,808,01/01/1900 00:13:28
+3,2057,Reaching towards food,830,01/01/1900 00:13:50
+3,2057,Reaching towards food,858,01/01/1900 00:14:18
+3,2057,Reaching towards food,872,01/01/1900 00:14:32
+3,2057,Reaching towards food,886,01/01/1900 00:14:46
+3,2057,Reaching towards food,896,01/01/1900 00:14:56
+3,2057,Reaching towards food,944,01/01/1900 00:15:44
+3,2057,Reaching towards food,958,01/01/1900 00:15:58
+3,2057,Reaching towards food,963,01/01/1900 00:16:03
+3,2057,Reaching towards food,990,01/01/1900 00:16:30
+3,2057,Back arching,937,01/01/1900 00:15:37
+3,2057,Hand to stomach/mouth,65,01/01/1900 00:01:05
+3,2057,Hand to stomach/mouth,81,01/01/1900 00:01:21
+3,2057,Hand to stomach/mouth,139,01/01/1900 00:02:19
+3,2057,Hand to stomach/mouth,144,01/01/1900 00:02:24
+3,2057,Hand to stomach/mouth,150,01/01/1900 00:02:30
+3,2057,Hand to stomach/mouth,160,01/01/1900 00:02:40
+3,2057,Hand to stomach/mouth,182,01/01/1900 00:03:02
+3,2057,Hand to stomach/mouth,309,01/01/1900 00:05:09
+3,2057,Hand to stomach/mouth,327,01/01/1900 00:05:27
+3,2057,Hand to stomach/mouth,924,01/01/1900 00:15:24
+3,2057,Hand to stomach/mouth,330,01/01/1900 00:05:30
+3,2057,Hand to stomach/mouth,335,01/01/1900 00:05:35
+3,2057,Hand to stomach/mouth,341,01/01/1900 00:05:41
+3,2057,Hand to stomach/mouth,347,01/01/1900 00:05:47
+3,2057,Hand to stomach/mouth,355,01/01/1900 00:05:55
+3,2057,Hand to stomach/mouth,362,01/01/1900 00:06:02
+3,2057,Hand to stomach/mouth,366,01/01/1900 00:06:06
+3,2057,Hand to stomach/mouth,371,01/01/1900 00:06:11
+3,2057,Hand to stomach/mouth,378,01/01/1900 00:06:18
+3,2057,Hand to stomach/mouth,386,01/01/1900 00:06:26
+3,2057,Hand to stomach/mouth,393,01/01/1900 00:06:33
+3,2057,Hand to stomach/mouth,404,01/01/1900 00:06:44
+3,2057,Hand to stomach/mouth,415,01/01/1900 00:06:55
+3,2057,Hand to stomach/mouth,460,01/01/1900 00:07:40
+3,2057,Hand to stomach/mouth,471,01/01/1900 00:07:51
+3,2057,Hand to stomach/mouth,482,01/01/1900 00:08:02
+3,2057,Hand to stomach/mouth,493,01/01/1900 00:08:13
+3,2057,Hand to stomach/mouth,506,01/01/1900 00:08:26
+3,2057,Hand to stomach/mouth,515,01/01/1900 00:08:35
+3,2057,Hand to stomach/mouth,517,01/01/1900 00:08:37
+3,2057,Hand to stomach/mouth,538,01/01/1900 00:08:58
+3,2057,Hand to stomach/mouth,558,01/01/1900 00:09:18
+3,2057,Hand to stomach/mouth,572,01/01/1900 00:09:32
+3,2057,Hand to stomach/mouth,607,01/01/1900 00:10:07
+3,2057,Hand to stomach/mouth,635,01/01/1900 00:10:35
+3,2057,Hand to stomach/mouth,647,01/01/1900 00:10:47
+3,2057,Hand to stomach/mouth,657,01/01/1900 00:10:57
+3,2057,Hand to stomach/mouth,667,01/01/1900 00:11:07
+3,2057,Hand to stomach/mouth,685,01/01/1900 00:11:25
+3,2057,Hand to stomach/mouth,790,01/01/1900 00:13:10
+3,2057,Hand to stomach/mouth,799,01/01/1900 00:13:19
+3,2057,Hand to stomach/mouth,805,01/01/1900 00:13:25
+3,2057,Hand to stomach/mouth,813,01/01/1900 00:13:33
+3,2057,Hand to stomach/mouth,835,01/01/1900 00:13:55
+3,2057,Hand to stomach/mouth,859,01/01/1900 00:14:19
+3,2057,Hand to stomach/mouth,866,01/01/1900 00:14:26
+3,2057,Hand to stomach/mouth,873,01/01/1900 00:14:33
+3,2057,Hand to stomach/mouth,887,01/01/1900 00:14:47
+3,2057,Hand to stomach/mouth,903,01/01/1900 00:15:03
+3,2057,Hand to stomach/mouth,945,01/01/1900 00:15:45
+3,2057,Hand to stomach/mouth,992,01/01/1900 00:16:32
+3,2057,Head lowering,739,01/01/1900 00:12:19
+3,2057,Head lowering,818,01/01/1900 00:13:38
+3,2057,Looking away,104,01/01/1900 00:01:44
+3,2057,Looking away,110,01/01/1900 00:01:50
+3,2057,Looking away,115,01/01/1900 00:01:55
+3,2057,Looking away,189,01/01/1900 00:03:09
+3,2057,Looking away,193,01/01/1900 00:03:13
+3,2057,Looking away,198,01/01/1900 00:03:18
+3,2057,Looking away,213,01/01/1900 00:03:33
+3,2057,Looking away,218,01/01/1900 00:03:38
+3,2057,Looking away,234,01/01/1900 00:03:54
+3,2057,Looking away,249,01/01/1900 00:04:09
+3,2057,Looking away,256,01/01/1900 00:04:16
+3,2057,Looking away,263,01/01/1900 00:04:23
+3,2057,Looking away,270,01/01/1900 00:04:30
+3,2057,Looking away,284,01/01/1900 00:04:44
+3,2057,Looking away,545,01/01/1900 00:09:05
+3,2057,Looking away,580,01/01/1900 00:09:40
+3,2057,Looking away,596,01/01/1900 00:09:56
+3,2057,Looking away,611,01/01/1900 00:10:11
+3,2057,Looking away,619,01/01/1900 00:10:19
+3,2057,Looking away,660,01/01/1900 00:11:00
+3,2057,Looking away,675,01/01/1900 00:11:15
+3,2057,Looking away,688,01/01/1900 00:11:28
+3,2057,Looking away,696,01/01/1900 00:11:36
+3,2057,Looking away,702,01/01/1900 00:11:42
+3,2057,Looking away,708,01/01/1900 00:11:48
+3,2057,Looking away,713,01/01/1900 00:11:53
+3,2057,Looking away,765,01/01/1900 00:12:45
+3,2057,Looking away,794,01/01/1900 00:13:14
+3,2057,Looking away,892,01/01/1900 00:14:52
+3,2057,Looking away,910,01/01/1900 00:15:10
+3,2057,Looking away,918,01/01/1900 00:15:18
+3,2057,Looking away,934,01/01/1900 00:15:34
+3,2057,Looking away,973,01/01/1900 00:16:13
+3,2057,Choking,450,01/01/1900 00:07:30
+3,2057,Choking,1005,01/01/1900 00:16:45
+3,2057,Overhand beating movements of arms,1019,01/01/1900 00:16:59
+3,1001,Babbling,142,01/01/1900 00:02:22
+3,1001,Babbling,145,01/01/1900 00:02:25
+3,1001,Babbling,236,01/01/1900 00:03:56
+3,1001,Babbling,262,01/01/1900 00:04:22
+3,1001,Babbling,340,01/01/1900 00:05:40
+3,1001,Babbling,397,01/01/1900 00:06:37
+3,1001,Babbling,403,01/01/1900 00:06:43
+3,1001,Mutual Gaze,70,01/01/1900 00:01:10
+3,1001,Reaching towards caregiver,206,01/01/1900 00:03:26
+3,1001,Turning head to caregiver,69,01/01/1900 00:01:09
+3,1001,Turning head to caregiver,92,01/01/1900 00:01:32
+3,1001,Turning head to caregiver,101,01/01/1900 00:01:41
+3,1001,Turning head to caregiver,125,01/01/1900 00:02:05
+3,1001,Turning head to caregiver,132,01/01/1900 00:02:12
+3,1001,Turning head to caregiver,155,01/01/1900 00:02:35
+3,1001,Turning head to caregiver,162,01/01/1900 00:02:42
+3,1001,Turning head to caregiver,185,01/01/1900 00:03:05
+3,1001,Turning head to caregiver,190,01/01/1900 00:03:10
+3,1001,Turning head to caregiver,200,01/01/1900 00:03:20
+3,1001,Turning head to caregiver,224,01/01/1900 00:03:44
+3,1001,Turning head to caregiver,228,01/01/1900 00:03:48
+3,1001,Turning head to caregiver,237,01/01/1900 00:03:57
+3,1001,Turning head to caregiver,254,01/01/1900 00:04:14
+3,1001,Turning head to caregiver,260,01/01/1900 00:04:20
+3,1001,Turning head to caregiver,267,01/01/1900 00:04:27
+3,1001,Turning head to caregiver,286,01/01/1900 00:04:46
+3,1001,Turning head to caregiver,306,01/01/1900 00:05:06
+3,1001,Turning head to caregiver,313,01/01/1900 00:05:13
+3,1001,Turning head to caregiver,323,01/01/1900 00:05:23
+3,1001,Turning head to caregiver,339,01/01/1900 00:05:39
+3,1001,Turning head to caregiver,389.5,01/01/1900 00:06:30
+3,1001,Turning head to caregiver,397.5,01/01/1900 00:06:38
+3,1001,Reaching towards food,32,01/01/1900 00:00:32
+3,1001,Reaching towards food,39,01/01/1900 00:00:39
+3,1001,Reaching towards food,55,01/01/1900 00:00:55
+3,1001,Reaching towards food,64,01/01/1900 00:01:04
+3,1001,Reaching towards food,78,01/01/1900 00:01:18
+3,1001,Reaching towards food,98,01/01/1900 00:01:38
+3,1001,Reaching towards food,111,01/01/1900 00:01:51
+3,1001,Reaching towards food,118,01/01/1900 00:01:58
+3,1001,Reaching towards food,127,01/01/1900 00:02:07
+3,1001,Reaching towards food,168,01/01/1900 00:02:48
+3,1001,Reaching towards food,186,01/01/1900 00:03:06
+3,1001,Reaching towards food,246,01/01/1900 00:04:06
+3,1001,Reaching towards food,252,01/01/1900 00:04:12
+3,1001,Reaching towards food,275,01/01/1900 00:04:35
+3,1001,Reaching towards food,280,01/01/1900 00:04:40
+3,1001,Reaching towards food,296,01/01/1900 00:04:56
+3,1001,Reaching towards food,301,01/01/1900 00:05:01
+3,1001,Reaching towards food,311,01/01/1900 00:05:11
+3,1001,Reaching towards food,326,01/01/1900 00:05:26
+3,1001,Reaching towards food,343,01/01/1900 00:05:43
+3,1001,Reaching towards food,356,01/01/1900 00:05:56
+3,1001,Reaching towards food,363,01/01/1900 00:06:03
+3,1001,Reaching towards food,370,01/01/1900 00:06:10
+3,1001,Reaching towards food,375,01/01/1900 00:06:15
+3,1001,Reaching towards food,389,01/01/1900 00:06:29
+3,1001,Hand to stomach/mouth,33,01/01/1900 00:00:33
+3,1001,Hand to stomach/mouth,44,01/01/1900 00:00:44
+3,1001,Hand to stomach/mouth,56,01/01/1900 00:00:56
+3,1001,Hand to stomach/mouth,65,01/01/1900 00:01:05
+3,1001,Hand to stomach/mouth,79,01/01/1900 00:01:19
+3,1001,Hand to stomach/mouth,130,01/01/1900 00:02:10
+3,1001,Hand to stomach/mouth,140,01/01/1900 00:02:20
+3,1001,Hand to stomach/mouth,151,01/01/1900 00:02:31
+3,1001,Hand to stomach/mouth,158,01/01/1900 00:02:38
+3,1001,Hand to stomach/mouth,174,01/01/1900 00:02:54
+3,1001,Hand to stomach/mouth,181,01/01/1900 00:03:01
+3,1001,Hand to stomach/mouth,211,01/01/1900 00:03:31
+3,1001,Hand to stomach/mouth,213,01/01/1900 00:03:33
+3,1001,Hand to stomach/mouth,219,01/01/1900 00:03:39
+3,1001,Hand to stomach/mouth,277,01/01/1900 00:04:37
+3,1001,Hand to stomach/mouth,318,01/01/1900 00:05:18
+3,1001,Hand to stomach/mouth,331,01/01/1900 00:05:31
+3,1001,Hand to stomach/mouth,344,01/01/1900 00:05:44
+3,1001,Hand to stomach/mouth,357,01/01/1900 00:05:57
+3,1001,Spoon/fork to mouth,46,01/01/1900 00:00:46
+3,1001,Spoon/fork to mouth,383,01/01/1900 00:06:23
+3,1001,Head lowering,335,01/01/1900 00:05:35
+3,1001,Looking away,60,01/01/1900 00:01:00
+3,1009,Babbling,264,01/01/1900 00:04:24
+3,1009,Babbling,116,01/01/1900 00:01:56
+3,1009,Babbling,130,01/01/1900 00:02:10
+3,1009,Babbling,204,01/01/1900 00:03:24
+3,1009,Babbling,255,01/01/1900 00:04:15
+3,1009,Babbling,392,01/01/1900 00:06:32
+3,1009,Babbling,410,01/01/1900 00:06:50
+3,1009,Babbling,613,01/01/1900 00:10:13
+3,1009,Babbling,617,01/01/1900 00:10:17
+3,1009,Babbling,622,01/01/1900 00:10:22
+3,1009,Babbling,627,01/01/1900 00:10:27
+3,1009,Babbling,664,01/01/1900 00:11:04
+3,1009,Babbling,702,01/01/1900 00:11:42
+3,1009,Babbling,724,01/01/1900 00:12:04
+3,1009,Babbling,729,01/01/1900 00:12:09
+3,1009,Babbling,784,01/01/1900 00:13:04
+3,1009,Babbling,802,01/01/1900 00:13:22
+3,1009,Mutual Gaze,12.5,01/01/1900 00:00:12
+3,1009,Mutual Gaze,39.5,01/01/1900 00:00:40
+3,1009,Mutual Gaze,53.5,01/01/1900 00:00:54
+3,1009,Mutual Gaze,68.5,01/01/1900 00:01:09
+3,1009,Mutual Gaze,195,01/01/1900 00:03:15
+3,1009,Mutual Gaze,213.5,01/01/1900 00:03:34
+3,1009,Mutual Gaze,249.7,01/01/1900 00:04:10
+3,1009,Mutual Gaze,292.5,01/01/1900 00:04:53
+3,1009,Mutual Gaze,319.6,01/01/1900 00:05:20
+3,1009,Reaching towards caregiver,649,01/01/1900 00:10:49
+3,1009,Reaching towards caregiver,657,01/01/1900 00:10:57
+3,1009,Reaching towards caregiver,764,01/01/1900 00:12:44
+3,1009,Turning head to caregiver,12,01/01/1900 00:00:12
+3,1009,Turning head to caregiver,39,01/01/1900 00:00:39
+3,1009,Turning head to caregiver,53,01/01/1900 00:00:53
+3,1009,Turning head to caregiver,60,01/01/1900 00:01:00
+3,1009,Turning head to caregiver,68,01/01/1900 00:01:08
+3,1009,Turning head to caregiver,84,01/01/1900 00:01:24
+3,1009,Turning head to caregiver,194,01/01/1900 00:03:14
+3,1009,Turning head to caregiver,213,01/01/1900 00:03:33
+3,1009,Turning head to caregiver,249.5,01/01/1900 00:04:10
+3,1009,Turning head to caregiver,292,01/01/1900 00:04:52
+3,1009,Turning head to caregiver,319.5,01/01/1900 00:05:20
+3,1009,Turning head to caregiver,637,01/01/1900 00:10:37
+3,1009,Turning head to caregiver,645,01/01/1900 00:10:45
+3,1009,Turning head to caregiver,672,01/01/1900 00:11:12
+3,1009,Turning head to caregiver,675,01/01/1900 00:11:15
+3,1009,Reaching towards food,8,01/01/1900 00:00:08
+3,1009,Reaching towards food,71,01/01/1900 00:01:11
+3,1009,Reaching towards food,89,01/01/1900 00:01:29
+3,1009,Reaching towards food,106,01/01/1900 00:01:46
+3,1009,Reaching towards food,191,01/01/1900 00:03:11
+3,1009,Reaching towards food,233,01/01/1900 00:03:53
+3,1009,Reaching towards food,258,01/01/1900 00:04:18
+3,1009,Reaching towards food,270,01/01/1900 00:04:30
+3,1009,Reaching towards food,300,01/01/1900 00:05:00
+3,1009,Reaching towards food,314,01/01/1900 00:05:14
+3,1009,Reaching towards food,327,01/01/1900 00:05:27
+3,1009,Reaching towards food,337,01/01/1900 00:05:37
+3,1009,Reaching towards food,342,01/01/1900 00:05:42
+3,1009,Reaching towards food,350,01/01/1900 00:05:50
+3,1009,Reaching towards food,376,01/01/1900 00:06:16
+3,1009,Reaching towards food,382,01/01/1900 00:06:22
+3,1009,Reaching towards food,386,01/01/1900 00:06:26
+3,1009,Reaching towards food,603,01/01/1900 00:10:03
+3,1009,Reaching towards food,657.5,01/01/1900 00:10:58
+3,1009,Reaching towards food,670,01/01/1900 00:11:10
+3,1009,Reaching towards food,766,01/01/1900 00:12:46
+3,1009,Reaching towards food,800,01/01/1900 00:13:20
+3,1009,Hand to stomach/mouth,9,01/01/1900 00:00:09
+3,1009,Hand to stomach/mouth,14,01/01/1900 00:00:14
+3,1009,Hand to stomach/mouth,34,01/01/1900 00:00:34
+3,1009,Hand to stomach/mouth,47,01/01/1900 00:00:47
+3,1009,Hand to stomach/mouth,65,01/01/1900 00:01:05
+3,1009,Hand to stomach/mouth,82,01/01/1900 00:01:22
+3,1009,Hand to stomach/mouth,103,01/01/1900 00:01:43
+3,1009,Hand to stomach/mouth,108,01/01/1900 00:01:48
+3,1009,Hand to stomach/mouth,128,01/01/1900 00:02:08
+3,1009,Hand to stomach/mouth,252,01/01/1900 00:04:12
+3,1009,Hand to stomach/mouth,259,01/01/1900 00:04:19
+3,1009,Hand to stomach/mouth,283,01/01/1900 00:04:43
+3,1009,Hand to stomach/mouth,346,01/01/1900 00:05:46
+3,1009,Hand to stomach/mouth,351,01/01/1900 00:05:51
+3,1009,Hand to stomach/mouth,604,01/01/1900 00:10:04
+3,1009,Hand to stomach/mouth,608,01/01/1900 00:10:08
+3,1009,Hand to stomach/mouth,619,01/01/1900 00:10:19
+3,1009,Hand to stomach/mouth,624,01/01/1900 00:10:24
+3,1009,Hand to stomach/mouth,629,01/01/1900 00:10:29
+3,1009,Hand to stomach/mouth,639,01/01/1900 00:10:39
+3,1009,Hand to stomach/mouth,652,01/01/1900 00:10:52
+3,1009,Hand to stomach/mouth,758,01/01/1900 00:12:38
+3,1009,Hand to stomach/mouth,772,01/01/1900 00:12:52
+3,1009,Spoon/fork to mouth,103,01/01/1900 00:01:43
+3,1009,Spoon/fork to mouth,152,01/01/1900 00:02:32
+3,1009,Spoon/fork to mouth,162,01/01/1900 00:02:42
+3,1009,Spoon/fork to mouth,178,01/01/1900 00:02:58
+3,1009,Spoon/fork to mouth,186,01/01/1900 00:03:06
+3,1009,Spoon/fork to mouth,192,01/01/1900 00:03:12
+3,1009,Spoon/fork to mouth,226,01/01/1900 00:03:46
+3,1009,Spoon/fork to mouth,249,01/01/1900 00:04:09
+3,1009,Spoon/fork to mouth,276,01/01/1900 00:04:36
+3,1009,Spoon/fork to mouth,290,01/01/1900 00:04:50
+3,1009,Spoon/fork to mouth,298,01/01/1900 00:04:58
+3,1009,Spoon/fork to mouth,310,01/01/1900 00:05:10
+3,1009,Spoon/fork to mouth,319,01/01/1900 00:05:19
+3,1009,Spoon/fork to mouth,353,01/01/1900 00:05:53
+3,1009,Spoon/fork to mouth,363,01/01/1900 00:06:03
+3,1009,Spoon/fork to mouth,379,01/01/1900 00:06:19
+3,1009,Spoon/fork to mouth,388,01/01/1900 00:06:28
+3,1009,Spoon/fork to mouth,404,01/01/1900 00:06:44
+3,1009,Spoon/fork to mouth,417,01/01/1900 00:06:57
+3,1009,Spoon/fork to mouth,432,01/01/1900 00:07:12
+3,1009,Spoon/fork to mouth,443,01/01/1900 00:07:23
+3,1009,Spoon/fork to mouth,458,01/01/1900 00:07:38
+3,1009,Spoon/fork to mouth,468,01/01/1900 00:07:48
+3,1009,Spoon/fork to mouth,509,01/01/1900 00:08:29
+3,1009,Spoon/fork to mouth,514,01/01/1900 00:08:34
+3,1009,Looking away,57,01/01/1900 00:00:57
+3,1009,Looking away,61,01/01/1900 00:01:01
+3,1009,Looking away,101,01/01/1900 00:01:41
+3,1009,Looking away,120,01/01/1900 00:02:00
+3,1009,Looking away,150,01/01/1900 00:02:30
+3,1009,Looking away,368,01/01/1900 00:06:08
+3,1009,Looking away,393,01/01/1900 00:06:33
+3,1009,Looking away,429,01/01/1900 00:07:09
+3,1009,Looking away,487,01/01/1900 00:08:07
+3,1009,Looking away,673,01/01/1900 00:11:13
+3,1009,Looking away,676,01/01/1900 00:11:16
+3,1009,Looking away,714,01/01/1900 00:11:54
+3,1009,Crying,595.5,01/01/1900 00:09:56
+3,1009,Fussing,504,01/01/1900 00:08:24
+3,1009,Lateral head shake,187,01/01/1900 00:03:07
+3,1009,Lateral head shake,509.5,01/01/1900 00:08:30
+3,1009,Spitting,516,01/01/1900 00:08:36
+3,1040,Babbling,702,01/01/1900 00:11:42
+3,1040,Reaching towards caregiver,6,01/01/1900 00:00:06
+3,1040,Reaching towards caregiver,641,01/01/1900 00:10:41
+3,1040,Turning head to caregiver,524,01/01/1900 00:08:44
+3,1040,Turning head to caregiver,553,01/01/1900 00:09:13
+3,1040,Reaching towards food,71,01/01/1900 00:01:11
+3,1040,Reaching towards food,84,01/01/1900 00:01:24
+3,1040,Reaching towards food,130,01/01/1900 00:02:10
+3,1040,Reaching towards food,225,01/01/1900 00:03:45
+3,1040,Reaching towards food,235,01/01/1900 00:03:55
+3,1040,Reaching towards food,266,01/01/1900 00:04:26
+3,1040,Reaching towards food,283,01/01/1900 00:04:43
+3,1040,Reaching towards food,293,01/01/1900 00:04:53
+3,1040,Reaching towards food,386,01/01/1900 00:06:26
+3,1040,Reaching towards food,391,01/01/1900 00:06:31
+3,1040,Reaching towards food,421,01/01/1900 00:07:01
+3,1040,Reaching towards food,445,01/01/1900 00:07:25
+3,1040,Reaching towards food,480,01/01/1900 00:08:00
+3,1040,Reaching towards food,503,01/01/1900 00:08:23
+3,1040,Reaching towards food,506,01/01/1900 00:08:26
+3,1040,Reaching towards food,516,01/01/1900 00:08:36
+3,1040,Reaching towards food,579,01/01/1900 00:09:39
+3,1040,Reaching towards food,601,01/01/1900 00:10:01
+3,1040,Reaching towards food,606,01/01/1900 00:10:06
+3,1040,Reaching towards food,609,01/01/1900 00:10:09
+3,1040,Reaching towards food,614,01/01/1900 00:10:14
+3,1040,Reaching towards food,633,01/01/1900 00:10:33
+3,1040,Reaching towards food,671,01/01/1900 00:11:11
+3,1040,Reaching towards food,679,01/01/1900 00:11:19
+3,1040,Reaching towards food,745,01/01/1900 00:12:25
+3,1040,Hand to stomach/mouth,131,01/01/1900 00:02:11
+3,1040,Hand to stomach/mouth,269,01/01/1900 00:04:29
+3,1040,Hand to stomach/mouth,285,01/01/1900 00:04:45
+3,1040,Hand to stomach/mouth,392,01/01/1900 00:06:32
+3,1040,Hand to stomach/mouth,422,01/01/1900 00:07:02
+3,1040,Hand to stomach/mouth,447,01/01/1900 00:07:27
+3,1040,Hand to stomach/mouth,461,01/01/1900 00:07:41
+3,1040,Hand to stomach/mouth,467,01/01/1900 00:07:47
+3,1040,Hand to stomach/mouth,481,01/01/1900 00:08:01
+3,1040,Hand to stomach/mouth,507,01/01/1900 00:08:27
+3,1040,Hand to stomach/mouth,517,01/01/1900 00:08:37
+3,1040,Hand to stomach/mouth,580,01/01/1900 00:09:40
+3,1040,Hand to stomach/mouth,588,01/01/1900 00:09:48
+3,1040,Hand to stomach/mouth,601.5,01/01/1900 00:10:02
+3,1040,Hand to stomach/mouth,606.5,01/01/1900 00:10:07
+3,1040,Hand to stomach/mouth,611,01/01/1900 00:10:11
+3,1040,Hand to stomach/mouth,615,01/01/1900 00:10:15
+3,1040,Hand to stomach/mouth,616,01/01/1900 00:10:16
+3,1040,Hand to stomach/mouth,682,01/01/1900 00:11:22
+3,1040,Hand to stomach/mouth,746,01/01/1900 00:12:26
+3,1040,Hand to stomach/mouth,758,01/01/1900 00:12:38
+3,1040,Hand to stomach/mouth,778,01/01/1900 00:12:58
+3,1040,Hand to stomach/mouth,860,01/01/1900 00:14:20
+3,1040,Hand to stomach/mouth,886,01/01/1900 00:14:46
+3,1040,Hand to stomach/mouth,908,01/01/1900 00:15:08
+3,1040,Hand to stomach/mouth,941,01/01/1900 00:15:41
+3,1040,Hand to stomach/mouth,972,01/01/1900 00:16:12
+3,1040,Hand to stomach/mouth,994,01/01/1900 00:16:34
+3,1040,Crying,122,01/01/1900 00:02:02
+3,1040,Lateral head shake,120,01/01/1900 00:02:00
+3,1040,Spoon/fork to mouth,26,01/01/1900 00:00:26
+3,1040,Spoon/fork to mouth,73,01/01/1900 00:01:13
+3,1040,Spoon/fork to mouth,119,01/01/1900 00:01:59
+3,1040,Spoon/fork to mouth,237,01/01/1900 00:03:57
+3,1040,Spoon/fork to mouth,322,01/01/1900 00:05:22
+3,1040,Spoon/fork to mouth,634,01/01/1900 00:10:34
+3,1040,Spoon/fork to mouth,672,01/01/1900 00:11:12
+3,1040,Join hands,665,01/01/1900 00:11:05
+3,1043,Babbling,98,01/01/1900 00:01:38
+3,1043,Mutual Gaze,4.5,01/01/1900 00:00:05
+3,1043,Turning head to caregiver,3,01/01/1900 00:00:03
+3,1043,Reaching towards food,2,01/01/1900 00:00:02
+3,1043,Reaching towards food,182,01/01/1900 00:03:02
+3,1043,Hand to stomach/mouth,4,01/01/1900 00:00:04
+3,1043,Hand to stomach/mouth,184,01/01/1900 00:03:04
+3,1043,Hand to stomach/mouth,202,01/01/1900 00:03:22
+3,1043,Hand to stomach/mouth,207,01/01/1900 00:03:27
+3,1043,Spoon/fork to mouth,102,01/01/1900 00:01:42
+3,1043,Spoon/fork to mouth,141,01/01/1900 00:02:21
+3,1043,Spoon/fork to mouth,273,01/01/1900 00:04:33
+3,1043,Spoon/fork to mouth,277,01/01/1900 00:04:37
+3,1043,Spoon/fork to mouth,305,01/01/1900 00:05:05
+3,1043,Spoon/fork to mouth,330,01/01/1900 00:05:30
+3,1043,Spoon/fork to mouth,335,01/01/1900 00:05:35
+3,1043,Spoon/fork to mouth,338,01/01/1900 00:05:38
+3,1043,Overhand beating movements of arms,24,01/01/1900 00:00:24
+3,1043,Overhand beating movements of arms,29,01/01/1900 00:00:29
+3,1043,Overhand beating movements of arms,35,01/01/1900 00:00:35
+3,1043,Overhand beating movements of arms,40,01/01/1900 00:00:40
+3,1043,Overhand beating movements of arms,71,01/01/1900 00:01:11
+3,1043,Overhand beating movements of arms,80,01/01/1900 00:01:20
+3,1043,Overhand beating movements of arms,198,01/01/1900 00:03:18
+3,1045,Babbling,42,01/01/1900 00:00:42
+3,1045,Babbling,49,01/01/1900 00:00:49
+3,1045,Babbling,55,01/01/1900 00:00:55
+3,1045,Babbling,92,01/01/1900 00:01:32
+3,1045,Babbling,176,01/01/1900 00:02:56
+3,1045,Babbling,217,01/01/1900 00:03:37
+3,1045,Babbling,524.5,01/01/1900 00:08:45
+3,1045,Babbling,615,01/01/1900 00:10:15
+3,1045,Mutual Gaze,10.5,01/01/1900 00:00:11
+3,1045,Mutual Gaze,55.2,01/01/1900 00:00:55
+3,1045,Mutual Gaze,96,01/01/1900 00:01:36
+3,1045,Mutual Gaze,497.5,01/01/1900 00:08:18
+3,1045,Mutual Gaze,637,01/01/1900 00:10:37
+3,1045,Reaching towards caregiver,123,01/01/1900 00:02:03
+3,1045,Reaching towards caregiver,184,01/01/1900 00:03:04
+3,1045,Reaching towards caregiver,486,01/01/1900 00:08:06
+3,1045,Reaching towards caregiver,524,01/01/1900 00:08:44
+3,1045,Reaching towards caregiver,631,01/01/1900 00:10:31
+3,1045,Turning head to caregiver,10,01/01/1900 00:00:10
+3,1045,Turning head to caregiver,27,01/01/1900 00:00:27
+3,1045,Turning head to caregiver,43,01/01/1900 00:00:43
+3,1045,Turning head to caregiver,55.1,01/01/1900 00:00:55
+3,1045,Turning head to caregiver,60,01/01/1900 00:01:00
+3,1045,Turning head to caregiver,83,01/01/1900 00:01:23
+3,1045,Turning head to caregiver,108,01/01/1900 00:01:48
+3,1045,Turning head to caregiver,133,01/01/1900 00:02:13
+3,1045,Turning head to caregiver,195,01/01/1900 00:03:15
+3,1045,Turning head to caregiver,226,01/01/1900 00:03:46
+3,1045,Turning head to caregiver,497,01/01/1900 00:08:17
+3,1045,Reaching towards food,4,01/01/1900 00:00:04
+3,1045,Reaching towards food,37,01/01/1900 00:00:37
+3,1045,Reaching towards food,99,01/01/1900 00:01:39
+3,1045,Reaching towards food,110,01/01/1900 00:01:50
+3,1045,Reaching towards food,147,01/01/1900 00:02:27
+3,1045,Reaching towards food,171,01/01/1900 00:02:51
+3,1045,Reaching towards food,187,01/01/1900 00:03:07
+3,1045,Reaching towards food,193,01/01/1900 00:03:13
+3,1045,Reaching towards food,198,01/01/1900 00:03:18
+3,1045,Reaching towards food,200,01/01/1900 00:03:20
+3,1045,Reaching towards food,206,01/01/1900 00:03:26
+3,1045,Reaching towards food,221,01/01/1900 00:03:41
+3,1045,Reaching towards food,480,01/01/1900 00:08:00
+3,1045,Reaching towards food,492,01/01/1900 00:08:12
+3,1045,Reaching towards food,505,01/01/1900 00:08:25
+3,1045,Reaching towards food,514,01/01/1900 00:08:34
+3,1045,Reaching towards food,517,01/01/1900 00:08:37
+3,1045,Reaching towards food,536,01/01/1900 00:08:56
+3,1045,Reaching towards food,557,01/01/1900 00:09:17
+3,1045,Reaching towards food,623,01/01/1900 00:10:23
+3,1045,Hand to stomach/mouth,18,01/01/1900 00:00:18
+3,1045,Hand to stomach/mouth,66,01/01/1900 00:01:06
+3,1045,Hand to stomach/mouth,106,01/01/1900 00:01:46
+3,1045,Hand to stomach/mouth,116,01/01/1900 00:01:56
+3,1045,Hand to stomach/mouth,134,01/01/1900 00:02:14
+3,1045,Hand to stomach/mouth,151,01/01/1900 00:02:31
+3,1045,Hand to stomach/mouth,159,01/01/1900 00:02:39
+3,1045,Hand to stomach/mouth,173,01/01/1900 00:02:53
+3,1045,Hand to stomach/mouth,191,01/01/1900 00:03:11
+3,1045,Hand to stomach/mouth,199,01/01/1900 00:03:19
+3,1045,Hand to stomach/mouth,201,01/01/1900 00:03:21
+3,1045,Hand to stomach/mouth,211,01/01/1900 00:03:31
+3,1045,Hand to stomach/mouth,222,01/01/1900 00:03:42
+3,1045,Hand to stomach/mouth,482,01/01/1900 00:08:02
+3,1045,Hand to stomach/mouth,495,01/01/1900 00:08:15
+3,1045,Hand to stomach/mouth,499,01/01/1900 00:08:19
+3,1045,Hand to stomach/mouth,508,01/01/1900 00:08:28
+3,1045,Hand to stomach/mouth,516,01/01/1900 00:08:36
+3,1045,Hand to stomach/mouth,522,01/01/1900 00:08:42
+3,1045,Hand to stomach/mouth,539,01/01/1900 00:08:59
+3,1045,Hand to stomach/mouth,544,01/01/1900 00:09:04
+3,1045,Hand to stomach/mouth,599,01/01/1900 00:09:59
+3,1045,Hand to stomach/mouth,606,01/01/1900 00:10:06
+3,1045,Hand to stomach/mouth,624,01/01/1900 00:10:24
+3,1045,Looking away,232,01/01/1900 00:03:52
+3,1045,Crawling/walking away,236,01/01/1900 00:03:56
+3,1045,Crawling/walking away,243,01/01/1900 00:04:03
+3,1045,Crying,272,01/01/1900 00:04:32
+3,1045,Overhand beating movements of arms,13,01/01/1900 00:00:13
+3,1047,Babbling,55,01/01/1900 00:00:55
+3,1047,Babbling,75,01/01/1900 00:01:15
+3,1047,Babbling,132,01/01/1900 00:02:12
+3,1047,Babbling,346,01/01/1900 00:05:46
+3,1047,Babbling,1056,01/01/1900 00:17:36
+3,1047,Babbling,1295,01/01/1900 00:21:35
+3,1047,Halt hand,216.5,01/01/1900 00:03:37
+3,1047,Halt hand,228.5,01/01/1900 00:03:49
+3,1047,Halt hand,252,01/01/1900 00:04:12
+3,1047,Halt hand,468.5,01/01/1900 00:07:49
+3,1047,Halt hand,478.5,01/01/1900 00:07:59
+3,1047,Halt hand,617.5,01/01/1900 00:10:18
+3,1047,Halt hand,763.5,01/01/1900 00:12:44
+3,1047,Halt hand,762,01/01/1900 00:12:42
+3,1047,Halt hand,1409.5,01/01/1900 00:23:30
+3,1047,Mutual Gaze,1004.5,01/01/1900 00:16:45
+3,1047,Reaching towards caregiver,185,01/01/1900 00:03:05
+3,1047,Turning head to caregiver,122,01/01/1900 00:02:02
+3,1047,Turning head to caregiver,68,01/01/1900 00:01:08
+3,1047,Turning head to caregiver,118,01/01/1900 00:01:58
+3,1047,Turning head to caregiver,721.5,01/01/1900 00:12:02
+3,1047,Turning head to caregiver,1017,01/01/1900 00:16:57
+3,1047,Turning head to caregiver,1004,01/01/1900 00:16:44
+3,1047,Reaching towards food,3,01/01/1900 00:00:03
+3,1047,Reaching towards food,9,01/01/1900 00:00:09
+3,1047,Reaching towards food,12,01/01/1900 00:00:12
+3,1047,Reaching towards food,205,01/01/1900 00:03:25
+3,1047,Reaching towards food,667,01/01/1900 00:11:07
+3,1047,Reaching towards food,1172,01/01/1900 00:19:32
+3,1047,Tray pounding,202,01/01/1900 00:03:22
+3,1047,Back arching,151,01/01/1900 00:02:31
+3,1047,Hand to stomach/mouth,5,01/01/1900 00:00:05
+3,1047,Hand to stomach/mouth,9.1,01/01/1900 00:00:09
+3,1047,Hand to stomach/mouth,13,01/01/1900 00:00:13
+3,1047,Hand to stomach/mouth,26,01/01/1900 00:00:26
+3,1047,Hand to stomach/mouth,188,01/01/1900 00:03:08
+3,1047,Hand to stomach/mouth,192,01/01/1900 00:03:12
+3,1047,Hand to stomach/mouth,207,01/01/1900 00:03:27
+3,1047,Hand to stomach/mouth,251,01/01/1900 00:04:11
+3,1047,Hand to stomach/mouth,668,01/01/1900 00:11:08
+3,1047,Hand to stomach/mouth,1395,01/01/1900 00:23:15
+3,1047,Spoon/fork to mouth,216,01/01/1900 00:03:36
+3,1047,Spoon/fork to mouth,227,01/01/1900 00:03:47
+3,1047,Spoon/fork to mouth,336,01/01/1900 00:05:36
+3,1047,Spoon/fork to mouth,342,01/01/1900 00:05:42
+3,1047,Spoon/fork to mouth,350,01/01/1900 00:05:50
+3,1047,Spoon/fork to mouth,394,01/01/1900 00:06:34
+3,1047,Spoon/fork to mouth,420,01/01/1900 00:07:00
+3,1047,Spoon/fork to mouth,453,01/01/1900 00:07:33
+3,1047,Spoon/fork to mouth,470,01/01/1900 00:07:50
+3,1047,Spoon/fork to mouth,478,01/01/1900 00:07:58
+3,1047,Spoon/fork to mouth,568,01/01/1900 00:09:28
+3,1047,Spoon/fork to mouth,574,01/01/1900 00:09:34
+3,1047,Spoon/fork to mouth,583,01/01/1900 00:09:43
+3,1047,Spoon/fork to mouth,593,01/01/1900 00:09:53
+3,1047,Spoon/fork to mouth,617,01/01/1900 00:10:17
+3,1047,Spoon/fork to mouth,629,01/01/1900 00:10:29
+3,1047,Spoon/fork to mouth,647,01/01/1900 00:10:47
+3,1047,Spoon/fork to mouth,654,01/01/1900 00:10:54
+3,1047,Spoon/fork to mouth,661,01/01/1900 00:11:01
+3,1047,Spoon/fork to mouth,679,01/01/1900 00:11:19
+3,1047,Spoon/fork to mouth,687,01/01/1900 00:11:27
+3,1047,Spoon/fork to mouth,695,01/01/1900 00:11:35
+3,1047,Spoon/fork to mouth,704,01/01/1900 00:11:44
+3,1047,Spoon/fork to mouth,712,01/01/1900 00:11:52
+3,1047,Spoon/fork to mouth,721,01/01/1900 00:12:01
+3,1047,Spoon/fork to mouth,729,01/01/1900 00:12:09
+3,1047,Spoon/fork to mouth,738,01/01/1900 00:12:18
+3,1047,Spoon/fork to mouth,744,01/01/1900 00:12:24
+3,1047,Spoon/fork to mouth,752,01/01/1900 00:12:32
+3,1047,Spoon/fork to mouth,763,01/01/1900 00:12:43
+3,1047,Spoon/fork to mouth,772,01/01/1900 00:12:52
+3,1047,Spoon/fork to mouth,781,01/01/1900 00:13:01
+3,1047,Spoon/fork to mouth,791,01/01/1900 00:13:11
+3,1047,Spoon/fork to mouth,808,01/01/1900 00:13:28
+3,1047,Spoon/fork to mouth,829,01/01/1900 00:13:49
+3,1047,Spoon/fork to mouth,836,01/01/1900 00:13:56
+3,1047,Spoon/fork to mouth,844,01/01/1900 00:14:04
+3,1047,Spoon/fork to mouth,856,01/01/1900 00:14:16
+3,1047,Spoon/fork to mouth,866,01/01/1900 00:14:26
+3,1047,Spoon/fork to mouth,874,01/01/1900 00:14:34
+3,1047,Spoon/fork to mouth,887,01/01/1900 00:14:47
+3,1047,Spoon/fork to mouth,906,01/01/1900 00:15:06
+3,1047,Spoon/fork to mouth,940,01/01/1900 00:15:40
+3,1047,Spoon/fork to mouth,947,01/01/1900 00:15:47
+3,1047,Spoon/fork to mouth,962,01/01/1900 00:16:02
+3,1047,Spoon/fork to mouth,968,01/01/1900 00:16:08
+3,1047,Spoon/fork to mouth,976,01/01/1900 00:16:16
+3,1047,Spoon/fork to mouth,981,01/01/1900 00:16:21
+3,1047,Spoon/fork to mouth,988,01/01/1900 00:16:28
+3,1047,Spoon/fork to mouth,996,01/01/1900 00:16:36
+3,1047,Spoon/fork to mouth,1005,01/01/1900 00:16:45
+3,1047,Spoon/fork to mouth,1016,01/01/1900 00:16:56
+3,1047,Spoon/fork to mouth,1022,01/01/1900 00:17:02
+3,1047,Spoon/fork to mouth,1028,01/01/1900 00:17:08
+3,1047,Spoon/fork to mouth,1035,01/01/1900 00:17:15
+3,1047,Spoon/fork to mouth,1043,01/01/1900 00:17:23
+3,1047,Spoon/fork to mouth,1054,01/01/1900 00:17:34
+3,1047,Spoon/fork to mouth,1162,01/01/1900 00:19:22
+3,1047,Spoon/fork to mouth,1180,01/01/1900 00:19:40
+3,1047,Spoon/fork to mouth,1190,01/01/1900 00:19:50
+3,1047,Spoon/fork to mouth,1200,01/01/1900 00:20:00
+3,1047,Spoon/fork to mouth,1213,01/01/1900 00:20:13
+3,1047,Spoon/fork to mouth,1220,01/01/1900 00:20:20
+3,1047,Spoon/fork to mouth,1231,01/01/1900 00:20:31
+3,1047,Spoon/fork to mouth,1239,01/01/1900 00:20:39
+3,1047,Spoon/fork to mouth,1247,01/01/1900 00:20:47
+3,1047,Spoon/fork to mouth,1285,01/01/1900 00:21:25
+3,1047,Spoon/fork to mouth,1291,01/01/1900 00:21:31
+3,1047,Spoon/fork to mouth,1299,01/01/1900 00:21:39
+3,1047,Spoon/fork to mouth,1304,01/01/1900 00:21:44
+3,1047,Spoon/fork to mouth,1311,01/01/1900 00:21:51
+3,1047,Spoon/fork to mouth,1318,01/01/1900 00:21:58
+3,1047,Spoon/fork to mouth,1327,01/01/1900 00:22:07
+3,1047,Spoon/fork to mouth,1339,01/01/1900 00:22:19
+3,1047,Spoon/fork to mouth,1347,01/01/1900 00:22:27
+3,1047,Spoon/fork to mouth,1357,01/01/1900 00:22:37
+3,1047,Spoon/fork to mouth,1366,01/01/1900 00:22:46
+3,1047,Spoon/fork to mouth,1385,01/01/1900 00:23:05
+3,1047,Spoon/fork to mouth,1400,01/01/1900 00:23:20
+3,1047,Spoon/fork to mouth,1409,01/01/1900 00:23:29
+3,1047,Looking away,115,01/01/1900 00:01:55
+3,1047,Crying,68.1,01/01/1900 00:01:08
+3,1047,Lateral head shake,228,01/01/1900 00:03:48
+3,1047,Lateral head shake,336.5,01/01/1900 00:05:37
+3,1047,Lateral head shake,342.5,01/01/1900 00:05:43
+3,1047,Lateral head shake,350.5,01/01/1900 00:05:51
+3,1047,Lateral head shake,454,01/01/1900 00:07:34
+3,1047,Lateral head shake,679.5,01/01/1900 00:11:20
+3,1047,Lateral head shake,721.5,01/01/1900 00:12:02
+3,1047,Lateral head shake,763.3,01/01/1900 00:12:43
+3,1047,Lateral head shake,791.3,01/01/1900 00:13:11
+3,1047,Lateral head shake,808.5,01/01/1900 00:13:29
+3,1047,Lateral head shake,1022.5,01/01/1900 00:17:03
+3,1047,Lateral head shake,1292,01/01/1900 00:21:32
+3,1047,Lateral head shake,1299.5,01/01/1900 00:21:39
+3,1047,Lateral head shake,1385.5,01/01/1900 00:23:06
+3,1047,Lateral head shake,1400.5,01/01/1900 00:23:21
+3,1047,Hand behind head/ear/eye,79,01/01/1900 00:01:19
+3,1050,Babbling,95,01/01/1900 00:01:35
+3,1050,Babbling,106,01/01/1900 00:01:46
+3,1050,Babbling,109,01/01/1900 00:01:49
+3,1050,Babbling,171,01/01/1900 00:02:51
+3,1050,Babbling,172.3,01/01/1900 00:02:52
+3,1050,Babbling,176,01/01/1900 00:02:56
+3,1050,Babbling,185,01/01/1900 00:03:05
+3,1050,Babbling,190.2,01/01/1900 00:03:10
+3,1050,Babbling,200,01/01/1900 00:03:20
+3,1050,Babbling,227,01/01/1900 00:03:47
+3,1050,Babbling,317,01/01/1900 00:05:17
+3,1050,Babbling,329,01/01/1900 00:05:29
+3,1050,Babbling,390,01/01/1900 00:06:30
+3,1050,Babbling,474,01/01/1900 00:07:54
+3,1050,Babbling,576,01/01/1900 00:09:36
+3,1050,Babbling,768,01/01/1900 00:12:48
+3,1050,Babbling,780,01/01/1900 00:13:00
+3,1050,Babbling,796,01/01/1900 00:13:16
+3,1050,Babbling,929,01/01/1900 00:15:29
+3,1050,Babbling,958,01/01/1900 00:15:58
+3,1050,Mutual Gaze,450.5,01/01/1900 00:07:31
+3,1050,Mutual Gaze,542,01/01/1900 00:09:02
+3,1050,Mutual Gaze,563,01/01/1900 00:09:23
+3,1050,Mutual Gaze,570,01/01/1900 00:09:30
+3,1050,Reaching towards caregiver,172.5,01/01/1900 00:02:53
+3,1050,Reaching towards caregiver,210,01/01/1900 00:03:30
+3,1050,Reaching towards caregiver,217,01/01/1900 00:03:37
+3,1050,Reaching towards caregiver,456.5,01/01/1900 00:07:37
+3,1050,Reaching towards caregiver,940,01/01/1900 00:15:40
+3,1050,Turning head to caregiver,15,01/01/1900 00:00:15
+3,1050,Turning head to caregiver,83,01/01/1900 00:01:23
+3,1050,Turning head to caregiver,139,01/01/1900 00:02:19
+3,1050,Turning head to caregiver,172,01/01/1900 00:02:52
+3,1050,Turning head to caregiver,190,01/01/1900 00:03:10
+3,1050,Turning head to caregiver,199.5,01/01/1900 00:03:20
+3,1050,Turning head to caregiver,273,01/01/1900 00:04:33
+3,1050,Turning head to caregiver,280,01/01/1900 00:04:40
+3,1050,Turning head to caregiver,367,01/01/1900 00:06:07
+3,1050,Turning head to caregiver,382,01/01/1900 00:06:22
+3,1050,Turning head to caregiver,365,01/01/1900 00:06:05
+3,1050,Turning head to caregiver,429,01/01/1900 00:07:09
+3,1050,Turning head to caregiver,436,01/01/1900 00:07:16
+3,1050,Turning head to caregiver,450,01/01/1900 00:07:30
+3,1050,Turning head to caregiver,541,01/01/1900 00:09:01
+3,1050,Turning head to caregiver,557,01/01/1900 00:09:17
+3,1050,Turning head to caregiver,681,01/01/1900 00:11:21
+3,1050,Turning head to caregiver,928,01/01/1900 00:15:28
+3,1050,Turning head to caregiver,935,01/01/1900 00:15:35
+3,1050,Reaching towards food,5,01/01/1900 00:00:05
+3,1050,Reaching towards food,21,01/01/1900 00:00:21
+3,1050,Reaching towards food,26,01/01/1900 00:00:26
+3,1050,Reaching towards food,32,01/01/1900 00:00:32
+3,1050,Reaching towards food,41,01/01/1900 00:00:41
+3,1050,Reaching towards food,51,01/01/1900 00:00:51
+3,1050,Reaching towards food,57,01/01/1900 00:00:57
+3,1050,Reaching towards food,77,01/01/1900 00:01:17
+3,1050,Reaching towards food,91,01/01/1900 00:01:31
+3,1050,Reaching towards food,101,01/01/1900 00:01:41
+3,1050,Reaching towards food,114,01/01/1900 00:01:54
+3,1050,Reaching towards food,119,01/01/1900 00:01:59
+3,1050,Reaching towards food,128,01/01/1900 00:02:08
+3,1050,Reaching towards food,138,01/01/1900 00:02:18
+3,1050,Reaching towards food,148,01/01/1900 00:02:28
+3,1050,Reaching towards food,152,01/01/1900 00:02:32
+3,1050,Reaching towards food,157,01/01/1900 00:02:37
+3,1050,Reaching towards food,162,01/01/1900 00:02:42
+3,1050,Reaching towards food,168,01/01/1900 00:02:48
+3,1050,Reaching towards food,240,01/01/1900 00:04:00
+3,1050,Reaching towards food,244,01/01/1900 00:04:04
+3,1050,Reaching towards food,253,01/01/1900 00:04:13
+3,1050,Reaching towards food,263,01/01/1900 00:04:23
+3,1050,Reaching towards food,285,01/01/1900 00:04:45
+3,1050,Reaching towards food,298,01/01/1900 00:04:58
+3,1050,Reaching towards food,305,01/01/1900 00:05:05
+3,1050,Reaching towards food,334,01/01/1900 00:05:34
+3,1050,Reaching towards food,343,01/01/1900 00:05:43
+3,1050,Reaching towards food,363,01/01/1900 00:06:03
+3,1050,Reaching towards food,376,01/01/1900 00:06:16
+3,1050,Reaching towards food,384,01/01/1900 00:06:24
+3,1050,Reaching towards food,402,01/01/1900 00:06:42
+3,1050,Reaching towards food,421,01/01/1900 00:07:01
+3,1050,Reaching towards food,435,01/01/1900 00:07:15
+3,1050,Reaching towards food,444,01/01/1900 00:07:24
+3,1050,Reaching towards food,456,01/01/1900 00:07:36
+3,1050,Reaching towards food,478,01/01/1900 00:07:58
+3,1050,Reaching towards food,489,01/01/1900 00:08:09
+3,1050,Reaching towards food,514,01/01/1900 00:08:34
+3,1050,Reaching towards food,526,01/01/1900 00:08:46
+3,1050,Reaching towards food,529,01/01/1900 00:08:49
+3,1050,Reaching towards food,533,01/01/1900 00:08:53
+3,1050,Reaching towards food,544,01/01/1900 00:09:04
+3,1050,Reaching towards food,586,01/01/1900 00:09:46
+3,1050,Reaching towards food,610,01/01/1900 00:10:10
+3,1050,Reaching towards food,627,01/01/1900 00:10:27
+3,1050,Reaching towards food,635,01/01/1900 00:10:35
+3,1050,Reaching towards food,665,01/01/1900 00:11:05
+3,1050,Reaching towards food,696,01/01/1900 00:11:36
+3,1050,Reaching towards food,711,01/01/1900 00:11:51
+3,1050,Reaching towards food,720,01/01/1900 00:12:00
+3,1050,Reaching towards food,734,01/01/1900 00:12:14
+3,1050,Reaching towards food,742,01/01/1900 00:12:22
+3,1050,Reaching towards food,758,01/01/1900 00:12:38
+3,1050,Reaching towards food,769,01/01/1900 00:12:49
+3,1050,Reaching towards food,774,01/01/1900 00:12:54
+3,1050,Reaching towards food,782,01/01/1900 00:13:02
+3,1050,Reaching towards food,811,01/01/1900 00:13:31
+3,1050,Reaching towards food,816,01/01/1900 00:13:36
+3,1050,Reaching towards food,830,01/01/1900 00:13:50
+3,1050,Reaching towards food,835,01/01/1900 00:13:55
+3,1050,Reaching towards food,867,01/01/1900 00:14:27
+3,1050,Reaching towards food,884,01/01/1900 00:14:44
+3,1050,Reaching towards food,912,01/01/1900 00:15:12
+3,1050,Reaching towards food,947,01/01/1900 00:15:47
+3,1050,Tray pounding,824,01/01/1900 00:13:44
+3,1050,Tray pounding,828,01/01/1900 00:13:48
+3,1050,Hand to stomach/mouth,6,01/01/1900 00:00:06
+3,1050,Hand to stomach/mouth,22,01/01/1900 00:00:22
+3,1050,Hand to stomach/mouth,27,01/01/1900 00:00:27
+3,1050,Hand to stomach/mouth,34,01/01/1900 00:00:34
+3,1050,Hand to stomach/mouth,44,01/01/1900 00:00:44
+3,1050,Hand to stomach/mouth,54,01/01/1900 00:00:54
+3,1050,Hand to stomach/mouth,62,01/01/1900 00:01:02
+3,1050,Hand to stomach/mouth,78,01/01/1900 00:01:18
+3,1050,Hand to stomach/mouth,98,01/01/1900 00:01:38
+3,1050,Hand to stomach/mouth,102,01/01/1900 00:01:42
+3,1050,Hand to stomach/mouth,117,01/01/1900 00:01:57
+3,1050,Hand to stomach/mouth,124,01/01/1900 00:02:04
+3,1050,Hand to stomach/mouth,133,01/01/1900 00:02:13
+3,1050,Hand to stomach/mouth,141,01/01/1900 00:02:21
+3,1050,Hand to stomach/mouth,151,01/01/1900 00:02:31
+3,1050,Hand to stomach/mouth,153,01/01/1900 00:02:33
+3,1050,Hand to stomach/mouth,161,01/01/1900 00:02:41
+3,1050,Hand to stomach/mouth,166,01/01/1900 00:02:46
+3,1050,Hand to stomach/mouth,169,01/01/1900 00:02:49
+3,1050,Hand to stomach/mouth,241,01/01/1900 00:04:01
+3,1050,Hand to stomach/mouth,247,01/01/1900 00:04:07
+3,1050,Hand to stomach/mouth,255,01/01/1900 00:04:15
+3,1050,Hand to stomach/mouth,266,01/01/1900 00:04:26
+3,1050,Hand to stomach/mouth,288,01/01/1900 00:04:48
+3,1050,Hand to stomach/mouth,299,01/01/1900 00:04:59
+3,1050,Hand to stomach/mouth,307,01/01/1900 00:05:07
+3,1050,Hand to stomach/mouth,311,01/01/1900 00:05:11
+3,1050,Hand to stomach/mouth,335,01/01/1900 00:05:35
+3,1050,Hand to stomach/mouth,342,01/01/1900 00:05:42
+3,1050,Hand to stomach/mouth,364,01/01/1900 00:06:04
+3,1050,Hand to stomach/mouth,368,01/01/1900 00:06:08
+3,1050,Hand to stomach/mouth,378,01/01/1900 00:06:18
+3,1050,Hand to stomach/mouth,386,01/01/1900 00:06:26
+3,1050,Hand to stomach/mouth,403,01/01/1900 00:06:43
+3,1050,Hand to stomach/mouth,426,01/01/1900 00:07:06
+3,1050,Hand to stomach/mouth,437,01/01/1900 00:07:17
+3,1050,Hand to stomach/mouth,446,01/01/1900 00:07:26
+3,1050,Hand to stomach/mouth,459,01/01/1900 00:07:39
+3,1050,Hand to stomach/mouth,479,01/01/1900 00:07:59
+3,1050,Hand to stomach/mouth,493,01/01/1900 00:08:13
+3,1050,Hand to stomach/mouth,498,01/01/1900 00:08:18
+3,1050,Hand to stomach/mouth,516,01/01/1900 00:08:36
+3,1050,Hand to stomach/mouth,531,01/01/1900 00:08:51
+3,1050,Hand to stomach/mouth,539,01/01/1900 00:08:59
+3,1050,Hand to stomach/mouth,546,01/01/1900 00:09:06
+3,1050,Hand to stomach/mouth,558,01/01/1900 00:09:18
+3,1050,Hand to stomach/mouth,589,01/01/1900 00:09:49
+3,1050,Hand to stomach/mouth,611,01/01/1900 00:10:11
+3,1050,Hand to stomach/mouth,632,01/01/1900 00:10:32
+3,1050,Hand to stomach/mouth,670,01/01/1900 00:11:10
+3,1050,Hand to stomach/mouth,699,01/01/1900 00:11:39
+3,1050,Hand to stomach/mouth,713,01/01/1900 00:11:53
+3,1050,Hand to stomach/mouth,722,01/01/1900 00:12:02
+3,1050,Hand to stomach/mouth,735,01/01/1900 00:12:15
+3,1050,Hand to stomach/mouth,745,01/01/1900 00:12:25
+3,1050,Hand to stomach/mouth,749,01/01/1900 00:12:29
+3,1050,Hand to stomach/mouth,759,01/01/1900 00:12:39
+3,1050,Hand to stomach/mouth,770,01/01/1900 00:12:50
+3,1050,Hand to stomach/mouth,775,01/01/1900 00:12:55
+3,1050,Hand to stomach/mouth,793,01/01/1900 00:13:13
+3,1050,Hand to stomach/mouth,810,01/01/1900 00:13:30
+3,1050,Hand to stomach/mouth,831,01/01/1900 00:13:51
+3,1050,Hand to stomach/mouth,837,01/01/1900 00:13:57
+3,1050,Hand to stomach/mouth,845,01/01/1900 00:14:05
+3,1050,Hand to stomach/mouth,888,01/01/1900 00:14:48
+3,1050,Hand to stomach/mouth,913,01/01/1900 00:15:13
+3,1050,Hand to stomach/mouth,950,01/01/1900 00:15:50
+3,1050,Looking away,544,01/01/1900 00:09:04
+3,1050,Pushing away,212,01/01/1900 00:03:32
+3,1055,Babbling,135,01/01/1900 00:02:15
+3,1055,Babbling,233,01/01/1900 00:03:53
+3,1055,Babbling,264,01/01/1900 00:04:24
+3,1055,Babbling,436,01/01/1900 00:07:16
+3,1055,Babbling,444,01/01/1900 00:07:24
+3,1055,Babbling,558,01/01/1900 00:09:18
+3,1055,Babbling,993,01/01/1900 00:16:33
+3,1055,Mutual Gaze,490,01/01/1900 00:08:10
+3,1055,Mutual Gaze,498.5,01/01/1900 00:08:19
+3,1055,Reaching towards caregiver,109,01/01/1900 00:01:49
+3,1055,Reaching towards caregiver,232.5,01/01/1900 00:03:53
+3,1055,Reaching towards caregiver,819,01/01/1900 00:13:39
+3,1055,Turning head to caregiver,108.5,01/01/1900 00:01:49
+3,1055,Turning head to caregiver,232,01/01/1900 00:03:52
+3,1055,Turning head to caregiver,373,01/01/1900 00:06:13
+3,1055,Turning head to caregiver,489,01/01/1900 00:08:09
+3,1055,Turning head to caregiver,498,01/01/1900 00:08:18
+3,1055,Turning head to caregiver,818.5,01/01/1900 00:13:39
+3,1055,Turning head to caregiver,832,01/01/1900 00:13:52
+3,1055,Turning head to caregiver,1024,01/01/1900 00:17:04
+3,1055,Reaching towards food,167,01/01/1900 00:02:47
+3,1055,Reaching towards food,186,01/01/1900 00:03:06
+3,1055,Reaching towards food,202,01/01/1900 00:03:22
+3,1055,Reaching towards food,217,01/01/1900 00:03:37
+3,1055,Reaching towards food,354,01/01/1900 00:05:54
+3,1055,Reaching towards food,365,01/01/1900 00:06:05
+3,1055,Reaching towards food,404,01/01/1900 00:06:44
+3,1055,Reaching towards food,512,01/01/1900 00:08:32
+3,1055,Reaching towards food,536,01/01/1900 00:08:56
+3,1055,Reaching towards food,698,01/01/1900 00:11:38
+3,1055,Reaching towards food,772,01/01/1900 00:12:52
+3,1055,Reaching towards food,802,01/01/1900 00:13:22
+3,1055,Reaching towards food,854,01/01/1900 00:14:14
+3,1055,Reaching towards food,862,01/01/1900 00:14:22
+3,1055,Reaching towards food,874,01/01/1900 00:14:34
+3,1055,Reaching towards food,897,01/01/1900 00:14:57
+3,1055,Reaching towards food,922,01/01/1900 00:15:22
+3,1055,Reaching towards food,948,01/01/1900 00:15:48
+3,1055,Reaching towards food,1020,01/01/1900 00:17:00
+3,1055,Hand to stomach/mouth,169,01/01/1900 00:02:49
+3,1055,Hand to stomach/mouth,187,01/01/1900 00:03:07
+3,1055,Hand to stomach/mouth,205,01/01/1900 00:03:25
+3,1055,Hand to stomach/mouth,331,01/01/1900 00:05:31
+3,1055,Hand to stomach/mouth,514,01/01/1900 00:08:34
+3,1055,Hand to stomach/mouth,538,01/01/1900 00:08:58
+3,1055,Hand to stomach/mouth,699,01/01/1900 00:11:39
+3,1055,Hand to stomach/mouth,855,01/01/1900 00:14:15
+3,1055,Hand to stomach/mouth,1027,01/01/1900 00:17:07
+3,1055,Hand to stomach/mouth,1066,01/01/1900 00:17:46
+3,1055,Spoon/fork to mouth,11,01/01/1900 00:00:11
+3,1055,Spoon/fork to mouth,58,01/01/1900 00:00:58
+3,1055,Spoon/fork to mouth,91,01/01/1900 00:01:31
+3,1055,Spoon/fork to mouth,126,01/01/1900 00:02:06
+3,1055,Spoon/fork to mouth,254,01/01/1900 00:04:14
+3,1055,Spoon/fork to mouth,266,01/01/1900 00:04:26
+3,1055,Spoon/fork to mouth,280,01/01/1900 00:04:40
+3,1055,Spoon/fork to mouth,293,01/01/1900 00:04:53
+3,1055,Spoon/fork to mouth,319,01/01/1900 00:05:19
+3,1055,Spoon/fork to mouth,339,01/01/1900 00:05:39
+3,1055,Spoon/fork to mouth,367,01/01/1900 00:06:07
+3,1055,Spoon/fork to mouth,386,01/01/1900 00:06:26
+3,1055,Spoon/fork to mouth,394,01/01/1900 00:06:34
+3,1055,Spoon/fork to mouth,396,01/01/1900 00:06:36
+3,1055,Spoon/fork to mouth,398,01/01/1900 00:06:38
+3,1055,Spoon/fork to mouth,401,01/01/1900 00:06:41
+3,1055,Spoon/fork to mouth,405,01/01/1900 00:06:45
+3,1055,Spoon/fork to mouth,411,01/01/1900 00:06:51
+3,1055,Spoon/fork to mouth,431,01/01/1900 00:07:11
+3,1055,Spoon/fork to mouth,451,01/01/1900 00:07:31
+3,1055,Spoon/fork to mouth,580,01/01/1900 00:09:40
+3,1055,Spoon/fork to mouth,644,01/01/1900 00:10:44
+3,1055,Spoon/fork to mouth,657,01/01/1900 00:10:57
+3,1055,Spoon/fork to mouth,691,01/01/1900 00:11:31
+3,1055,Spoon/fork to mouth,773,01/01/1900 00:12:53
+3,1055,Spoon/fork to mouth,803,01/01/1900 00:13:23
+3,1055,Fussing,141,01/01/1900 00:02:21
+3,1055,Lateral head shake,126.5,01/01/1900 00:02:07
+3,1055,Spoon/fork to mouth,864,01/01/1900 00:14:24
+3,1055,Spoon/fork to mouth,876,01/01/1900 00:14:36
+3,1055,Spoon/fork to mouth,898,01/01/1900 00:14:58
+3,1055,Spoon/fork to mouth,923,01/01/1900 00:15:23
+3,1055,Spoon/fork to mouth,949,01/01/1900 00:15:49
+3,1055,Join hands,713,01/01/1900 00:11:53
+3,1055,Join hands,753,01/01/1900 00:12:33
+3,1067,Babbling,56,01/01/1900 00:00:56
+3,1067,Halt hand,331.5,01/01/1900 00:05:32
+3,1067,Mutual Gaze,96,01/01/1900 00:01:36
+3,1067,Turning head to caregiver,85,01/01/1900 00:01:25
+3,1067,Turning head to caregiver,95,01/01/1900 00:01:35
+3,1067,Turning head to caregiver,114,01/01/1900 00:01:54
+3,1067,Turning head to caregiver,129,01/01/1900 00:02:09
+3,1067,Turning head to caregiver,179,01/01/1900 00:02:59
+3,1067,Tray pounding,215,01/01/1900 00:03:35
+3,1067,Tray pounding,418,01/01/1900 00:06:58
+3,1067,Back arching,360,01/01/1900 00:06:00
+3,1067,Spoon/fork to mouth,6,01/01/1900 00:00:06
+3,1067,Spoon/fork to mouth,22,01/01/1900 00:00:22
+3,1067,Spoon/fork to mouth,34,01/01/1900 00:00:34
+3,1067,Spoon/fork to mouth,40,01/01/1900 00:00:40
+3,1067,Spoon/fork to mouth,48,01/01/1900 00:00:48
+3,1067,Spoon/fork to mouth,52,01/01/1900 00:00:52
+3,1067,Spoon/fork to mouth,67,01/01/1900 00:01:07
+3,1067,Spoon/fork to mouth,75,01/01/1900 00:01:15
+3,1067,Spoon/fork to mouth,88,01/01/1900 00:01:28
+3,1067,Spoon/fork to mouth,101.5,01/01/1900 00:01:42
+3,1067,Spoon/fork to mouth,104,01/01/1900 00:01:44
+3,1067,Spoon/fork to mouth,109,01/01/1900 00:01:49
+3,1067,Spoon/fork to mouth,120,01/01/1900 00:02:00
+3,1067,Spoon/fork to mouth,133,01/01/1900 00:02:13
+3,1067,Spoon/fork to mouth,145,01/01/1900 00:02:25
+3,1067,Spoon/fork to mouth,155,01/01/1900 00:02:35
+3,1067,Spoon/fork to mouth,159,01/01/1900 00:02:39
+3,1067,Spoon/fork to mouth,164,01/01/1900 00:02:44
+3,1067,Spoon/fork to mouth,180,01/01/1900 00:03:00
+3,1067,Spoon/fork to mouth,200,01/01/1900 00:03:20
+3,1067,Spoon/fork to mouth,220,01/01/1900 00:03:40
+3,1067,Spoon/fork to mouth,233,01/01/1900 00:03:53
+3,1067,Spoon/fork to mouth,245,01/01/1900 00:04:05
+3,1067,Spoon/fork to mouth,251,01/01/1900 00:04:11
+3,1067,Spoon/fork to mouth,269,01/01/1900 00:04:29
+3,1067,Spoon/fork to mouth,287,01/01/1900 00:04:47
+3,1067,Spoon/fork to mouth,314,01/01/1900 00:05:14
+3,1067,Spoon/fork to mouth,321,01/01/1900 00:05:21
+3,1067,Spoon/fork to mouth,331,01/01/1900 00:05:31
+3,1067,Spoon/fork to mouth,332,01/01/1900 00:05:32
+3,1067,Spoon/fork to mouth,348,01/01/1900 00:05:48
+3,1067,Spoon/fork to mouth,364,01/01/1900 00:06:04
+3,1067,Spoon/fork to mouth,399,01/01/1900 00:06:39
+3,1067,Spoon/fork to mouth,404,01/01/1900 00:06:44
+3,1067,Spoon/fork to mouth,423,01/01/1900 00:07:03
+3,1067,Lateral head shake,34.5,01/01/1900 00:00:35
+3,1067,Lateral head shake,52.5,01/01/1900 00:00:53
+3,1067,Lateral head shake,102,01/01/1900 00:01:42
+3,1067,Lateral head shake,84.5,01/01/1900 00:01:25
+3,1067,Lateral head shake,145.5,01/01/1900 00:02:26
+3,1067,Lateral head shake,155.5,01/01/1900 00:02:36
+3,1067,Lateral head shake,159.5,01/01/1900 00:02:40
+3,1067,Lateral head shake,245.5,01/01/1900 00:04:06
+3,1067,Lateral head shake,314.5,01/01/1900 00:05:15
+3,1067,Lateral head shake,321.5,01/01/1900 00:05:21
+3,1067,Lateral head shake,399.5,01/01/1900 00:06:40
+3,1067,Lateral head shake,404.5,01/01/1900 00:06:45
+3,1067,Lateral head shake,423.5,01/01/1900 00:07:04
+3,1067,Overhand beating movements of arms,301,01/01/1900 00:05:01
+3,1067,Overhand beating movements of arms,305,01/01/1900 00:05:05
+3,1067,Overhand beating movements of arms,311,01/01/1900 00:05:11
+3,1018,Babbling,51,01/01/1900 00:00:51
+3,1018,Babbling,60,01/01/1900 00:01:00
+3,1018,Babbling,101,01/01/1900 00:01:41
+3,1018,Babbling,102,01/01/1900 00:01:42
+3,1018,Babbling,106,01/01/1900 00:01:46
+3,1018,Babbling,125,01/01/1900 00:02:05
+3,1018,Babbling,335,01/01/1900 00:05:35
+3,1018,Babbling,338,01/01/1900 00:05:38
+3,1018,Babbling,351,01/01/1900 00:05:51
+3,1018,Babbling,386,01/01/1900 00:06:26
+3,1018,Babbling,543,01/01/1900 00:09:03
+3,1018,Babbling,558,01/01/1900 00:09:18
+3,1018,Babbling,574,01/01/1900 00:09:34
+3,1018,Babbling,583,01/01/1900 00:09:43
+3,1018,Babbling,586,01/01/1900 00:09:46
+3,1018,Babbling,589,01/01/1900 00:09:49
+3,1018,Babbling,604,01/01/1900 00:10:04
+3,1018,Babbling,609,01/01/1900 00:10:09
+3,1018,Babbling,732,01/01/1900 00:12:12
+3,1018,Babbling,738,01/01/1900 00:12:18
+3,1018,Babbling,741,01/01/1900 00:12:21
+3,1018,Babbling,751,01/01/1900 00:12:31
+3,1018,Babbling,755,01/01/1900 00:12:35
+3,1018,Babbling,758,01/01/1900 00:12:38
+3,1018,Babbling,764,01/01/1900 00:12:44
+3,1018,Babbling,789,01/01/1900 00:13:09
+3,1018,Babbling,798,01/01/1900 00:13:18
+3,1018,Babbling,895,01/01/1900 00:14:55
+3,1018,Babbling,927,01/01/1900 00:15:27
+3,1018,Babbling,940,01/01/1900 00:15:40
+3,1018,Babbling,993,01/01/1900 00:16:33
+3,1018,Babbling,996,01/01/1900 00:16:36
+3,1018,Babbling,1056,01/01/1900 00:17:36
+3,1018,Babbling,1060,01/01/1900 00:17:40
+3,1018,Babbling,1073,01/01/1900 00:17:53
+3,1018,Babbling,1078,01/01/1900 00:17:58
+3,1018,Babbling,1116,01/01/1900 00:18:36
+3,1018,Babbling,1125,01/01/1900 00:18:45
+3,1018,Babbling,1127,01/01/1900 00:18:47
+3,1018,Babbling,1134,01/01/1900 00:18:54
+3,1018,Babbling,1144,01/01/1900 00:19:04
+3,1018,Babbling,1149,01/01/1900 00:19:09
+3,1018,Babbling,1158,01/01/1900 00:19:18
+3,1018,Babbling,1160,01/01/1900 00:19:20
+3,1018,Babbling,1175,01/01/1900 00:19:35
+3,1018,Babbling,1178,01/01/1900 00:19:38
+3,1018,Babbling,1184,01/01/1900 00:19:44
+3,1018,Babbling,1194,01/01/1900 00:19:54
+3,1018,Babbling,1228,01/01/1900 00:20:28
+3,1018,Babbling,1235,01/01/1900 00:20:35
+3,1018,Babbling,1243,01/01/1900 00:20:43
+3,1018,Babbling,1248,01/01/1900 00:20:48
+3,1018,Turning head to caregiver,12,01/01/1900 00:00:12
+3,1018,Turning head to caregiver,732,01/01/1900 00:12:12
+3,1018,Turning head to caregiver,880,01/01/1900 00:14:40
+3,1018,Reaching towards food,28,01/01/1900 00:00:28
+3,1018,Reaching towards food,202,01/01/1900 00:03:22
+3,1018,Reaching towards food,365,01/01/1900 00:06:05
+3,1018,Reaching towards food,373,01/01/1900 00:06:13
+3,1018,Reaching towards food,425,01/01/1900 00:07:05
+3,1018,Reaching towards food,595,01/01/1900 00:09:55
+3,1018,Reaching towards food,792,01/01/1900 00:13:12
+3,1018,Reaching towards food,797,01/01/1900 00:13:17
+3,1018,Reaching towards food,884,01/01/1900 00:14:44
+3,1018,Reaching towards food,1124,01/01/1900 00:18:44
+3,1018,Reaching towards food,1140,01/01/1900 00:19:00
+3,1018,Back arching,1216,01/01/1900 00:20:16
+3,1018,Hand to stomach/mouth,71,01/01/1900 00:01:11
+3,1018,Hand to stomach/mouth,90,01/01/1900 00:01:30
+3,1018,Hand to stomach/mouth,96,01/01/1900 00:01:36
+3,1018,Hand to stomach/mouth,109,01/01/1900 00:01:49
+3,1018,Hand to stomach/mouth,121,01/01/1900 00:02:01
+3,1018,Hand to stomach/mouth,129,01/01/1900 00:02:09
+3,1018,Hand to stomach/mouth,147,01/01/1900 00:02:27
+3,1018,Hand to stomach/mouth,159,01/01/1900 00:02:39
+3,1018,Hand to stomach/mouth,177,01/01/1900 00:02:57
+3,1018,Hand to stomach/mouth,188,01/01/1900 00:03:08
+3,1018,Hand to stomach/mouth,200,01/01/1900 00:03:20
+3,1018,Hand to stomach/mouth,223,01/01/1900 00:03:43
+3,1018,Hand to stomach/mouth,246,01/01/1900 00:04:06
+3,1018,Hand to stomach/mouth,292,01/01/1900 00:04:52
+3,1018,Hand to stomach/mouth,327,01/01/1900 00:05:27
+3,1018,Hand to stomach/mouth,458,01/01/1900 00:07:38
+3,1018,Hand to stomach/mouth,619,01/01/1900 00:10:19
+3,1018,Hand to stomach/mouth,628,01/01/1900 00:10:28
+3,1018,Hand to stomach/mouth,638,01/01/1900 00:10:38
+3,1018,Hand to stomach/mouth,657,01/01/1900 00:10:57
+3,1018,Hand to stomach/mouth,669,01/01/1900 00:11:09
+3,1018,Hand to stomach/mouth,685,01/01/1900 00:11:25
+3,1018,Hand to stomach/mouth,695,01/01/1900 00:11:35
+3,1018,Hand to stomach/mouth,712,01/01/1900 00:11:52
+3,1018,Hand to stomach/mouth,722,01/01/1900 00:12:02
+3,1018,Hand to stomach/mouth,1047,01/01/1900 00:17:27
+3,1018,Hand to stomach/mouth,1050,01/01/1900 00:17:30
+3,1018,Hand to stomach/mouth,1095,01/01/1900 00:18:15
+3,1018,Hand to stomach/mouth,1097,01/01/1900 00:18:17
+3,1018,Hand to stomach/mouth,1105,01/01/1900 00:18:25
+3,1018,Hand to stomach/mouth,1121,01/01/1900 00:18:41
+3,1018,Hand to stomach/mouth,1155,01/01/1900 00:19:15
+3,1018,Hand to stomach/mouth,1215,01/01/1900 00:20:15
+3,1018,Spoon/fork to mouth,18,01/01/1900 00:00:18
+3,1018,Spoon/fork to mouth,359,01/01/1900 00:05:59
+3,1018,Spoon/fork to mouth,395,01/01/1900 00:06:35
+3,1018,Spoon/fork to mouth,409,01/01/1900 00:06:49
+3,1018,Spoon/fork to mouth,471,01/01/1900 00:07:51
+3,1018,Spoon/fork to mouth,805,01/01/1900 00:13:25
+3,1018,Spoon/fork to mouth,814,01/01/1900 00:13:34
+3,1018,Spoon/fork to mouth,822,01/01/1900 00:13:42
+3,1018,Spoon/fork to mouth,829,01/01/1900 00:13:49
+3,1018,Spoon/fork to mouth,841,01/01/1900 00:14:01
+3,1018,Spoon/fork to mouth,846,01/01/1900 00:14:06
+3,1018,Spoon/fork to mouth,865,01/01/1900 00:14:25
+3,1018,Spoon/fork to mouth,871,01/01/1900 00:14:31
+3,1018,Spoon/fork to mouth,903,01/01/1900 00:15:03
+3,1018,Spoon/fork to mouth,915,01/01/1900 00:15:15
+3,1018,Spoon/fork to mouth,931,01/01/1900 00:15:31
+3,1018,Spoon/fork to mouth,950,01/01/1900 00:15:50
+3,1018,Spoon/fork to mouth,974,01/01/1900 00:16:14
+3,1018,Spoon/fork to mouth,1026,01/01/1900 00:17:06
+3,1018,Spoon/fork to mouth,1039,01/01/1900 00:17:19
+3,1018,Spoon/fork to mouth,1200,01/01/1900 00:20:00
+3,1018,Looking away,357,01/01/1900 00:05:57
+3,1018,Feeding sounds,1170,01/01/1900 00:19:30
+3,1018,Choking,965,01/01/1900 00:16:05
+3,1018,Choking,1012,01/01/1900 00:16:52
+3,1018,Choking,1014,01/01/1900 00:16:54
+3,1018,Crying,393,01/01/1900 00:06:33
+3,1018,Lateral head shake,41,01/01/1900 00:00:41
+3,1018,Lateral head shake,347,01/01/1900 00:05:47
+3,1018,Lateral head shake,738,01/01/1900 00:12:18
+3,1018,Pulling away,41,01/01/1900 00:00:41
+3,1018,Pulling away,347,01/01/1900 00:05:47
+3,1018,Pulling away,353,01/01/1900 00:05:53
+3,1018,Pulling away,907,01/01/1900 00:15:07
+3,1018,Pushing away,1219,01/01/1900 00:20:19
+3,1018,Saying no,373,01/01/1900 00:06:13
+3,1018,Saying no,907,01/01/1900 00:15:07
+3,1018,Hand behind head/ear/eye,411,01/01/1900 00:06:51
+3,1018,Hand behind head/ear/eye,760,01/01/1900 00:12:40
+3,1018,Join hands,324,01/01/1900 00:05:24
+3,1018,Tongue show,517,01/01/1900 00:08:37
+3,1018,Tongue show,520,01/01/1900 00:08:40
+3,1018,Tongue show,525,01/01/1900 00:08:45
+3,1022,Babbling,67,01/01/1900 00:01:07
+3,1022,Babbling,69,01/01/1900 00:01:09
+3,1022,Babbling,79,01/01/1900 00:01:19
+3,1022,Babbling,81,01/01/1900 00:01:21
+3,1022,Babbling,110,01/01/1900 00:01:50
+3,1022,Babbling,147,01/01/1900 00:02:27
+3,1022,Babbling,168,01/01/1900 00:02:48
+3,1022,Babbling,174,01/01/1900 00:02:54
+3,1022,Babbling,177,01/01/1900 00:02:57
+3,1022,Babbling,212,01/01/1900 00:03:32
+3,1022,Babbling,429,01/01/1900 00:07:09
+3,1022,Babbling,535,01/01/1900 00:08:55
+3,1022,Babbling,647,01/01/1900 00:10:47
+3,1022,Babbling,651,01/01/1900 00:10:51
+3,1022,Babbling,908,01/01/1900 00:15:08
+3,1022,Babbling,911,01/01/1900 00:15:11
+3,1022,Reaching towards food,653,01/01/1900 00:10:53
+3,1022,Back arching,936,01/01/1900 00:15:36
+3,1022,Hand to stomach/mouth,183,01/01/1900 00:03:03
+3,1022,Hand to stomach/mouth,206,01/01/1900 00:03:26
+3,1022,Hand to stomach/mouth,258,01/01/1900 00:04:18
+3,1022,Hand to stomach/mouth,273,01/01/1900 00:04:33
+3,1022,Hand to stomach/mouth,291,01/01/1900 00:04:51
+3,1022,Hand to stomach/mouth,297,01/01/1900 00:04:57
+3,1022,Hand to stomach/mouth,307,01/01/1900 00:05:07
+3,1022,Hand to stomach/mouth,477,01/01/1900 00:07:57
+3,1022,Hand to stomach/mouth,493,01/01/1900 00:08:13
+3,1022,Hand to stomach/mouth,523,01/01/1900 00:08:43
+3,1022,Hand to stomach/mouth,587,01/01/1900 00:09:47
+3,1022,Hand to stomach/mouth,596,01/01/1900 00:09:56
+3,1022,Hand to stomach/mouth,639,01/01/1900 00:10:39
+3,1022,Hand to stomach/mouth,694,01/01/1900 00:11:34
+3,1022,Hand to stomach/mouth,707,01/01/1900 00:11:47
+3,1022,Hand to stomach/mouth,712,01/01/1900 00:11:52
+3,1022,Hand to stomach/mouth,723,01/01/1900 00:12:03
+3,1022,Hand to stomach/mouth,725,01/01/1900 00:12:05
+3,1022,Hand to stomach/mouth,730,01/01/1900 00:12:10
+3,1022,Hand to stomach/mouth,770,01/01/1900 00:12:50
+3,1022,Hand to stomach/mouth,780,01/01/1900 00:13:00
+3,1022,Hand to stomach/mouth,839,01/01/1900 00:13:59
+3,1022,Hand to stomach/mouth,865,01/01/1900 00:14:25
+3,1022,Hand to stomach/mouth,899,01/01/1900 00:14:59
+3,1022,Hand to stomach/mouth,933,01/01/1900 00:15:33
+3,1022,Spoon/fork to mouth,49,01/01/1900 00:00:49
+3,1022,Spoon/fork to mouth,64,01/01/1900 00:01:04
+3,1022,Spoon/fork to mouth,91,01/01/1900 00:01:31
+3,1022,Spoon/fork to mouth,104,01/01/1900 00:01:44
+3,1022,Spoon/fork to mouth,145,01/01/1900 00:02:25
+3,1022,Spoon/fork to mouth,180,01/01/1900 00:03:00
+3,1022,Spoon/fork to mouth,219,01/01/1900 00:03:39
+3,1022,Spoon/fork to mouth,234,01/01/1900 00:03:54
+3,1022,Spoon/fork to mouth,305,01/01/1900 00:05:05
+3,1022,Spoon/fork to mouth,374,01/01/1900 00:06:14
+3,1022,Spoon/fork to mouth,390,01/01/1900 00:06:30
+3,1022,Spoon/fork to mouth,411,01/01/1900 00:06:51
+3,1022,Spoon/fork to mouth,437,01/01/1900 00:07:17
+3,1022,Spoon/fork to mouth,462,01/01/1900 00:07:42
+3,1022,Spoon/fork to mouth,490,01/01/1900 00:08:10
+3,1022,Spoon/fork to mouth,681,01/01/1900 00:11:21
+3,1022,Spoon/fork to mouth,749,01/01/1900 00:12:29
+3,1022,Spoon/fork to mouth,787,01/01/1900 00:13:07
+3,1022,Spoon/fork to mouth,828,01/01/1900 00:13:48
+3,1022,Spoon/fork to mouth,849,01/01/1900 00:14:09
+3,1022,Looking away,229,01/01/1900 00:03:49
+3,1022,Feeding sounds,249,01/01/1900 00:04:09
+3,1022,Feeding sounds,302,01/01/1900 00:05:02
+3,1022,Feeding sounds,402,01/01/1900 00:06:42
+3,1022,Feeding sounds,423,01/01/1900 00:07:03
+3,1022,Feeding sounds,736,01/01/1900 00:12:16
+3,1022,Choking,327,01/01/1900 00:05:27
+3,1022,Choking,329,01/01/1900 00:05:29
+3,1022,Choking,332,01/01/1900 00:05:32
+3,1022,Choking,334,01/01/1900 00:05:34
+3,1022,Choking,336,01/01/1900 00:05:36
+3,1022,Choking,345,01/01/1900 00:05:45
+3,1022,Choking,357,01/01/1900 00:05:57
+3,1022,Choking,362,01/01/1900 00:06:02
+3,1022,Choking,364,01/01/1900 00:06:04
+3,1022,Choking,366,01/01/1900 00:06:06
+3,1022,Choking,383,01/01/1900 00:06:23
+3,1022,Choking,385,01/01/1900 00:06:25
+3,1022,Choking,394,01/01/1900 00:06:34
+3,1022,Crying,0,01/01/1900 00:00:00
+3,1022,Crying,20,01/01/1900 00:00:20
+3,1022,Crying,29,01/01/1900 00:00:29
+3,1022,Fussing,16,01/01/1900 00:00:16
+3,1022,Lateral head shake,87,01/01/1900 00:01:27
+3,1022,Lateral head shake,334,01/01/1900 00:05:34
+3,1022,Lateral head shake,362,01/01/1900 00:06:02
+3,1022,Lateral head shake,518,01/01/1900 00:08:38
+3,1022,Lateral head shake,556,01/01/1900 00:09:16
+3,1022,Pulling away,362,01/01/1900 00:06:02
+3,1022,Pulling away,556,01/01/1900 00:09:16
+3,1028,Babbling,116,01/01/1900 00:01:56
+3,1028,Babbling,174,01/01/1900 00:02:54
+3,1028,Babbling,176,01/01/1900 00:02:56
+3,1028,Babbling,188,01/01/1900 00:03:08
+3,1028,Babbling,196,01/01/1900 00:03:16
+3,1028,Babbling,359,01/01/1900 00:05:59
+3,1028,Babbling,361,01/01/1900 00:06:01
+3,1028,Babbling,421,01/01/1900 00:07:01
+3,1028,Babbling,432,01/01/1900 00:07:12
+3,1028,Babbling,436,01/01/1900 00:07:16
+3,1028,Mutual Gaze,511,01/01/1900 00:08:31
+3,1028,Reaching towards caregiver,61,01/01/1900 00:01:01
+3,1028,Reaching towards caregiver,97,01/01/1900 00:01:37
+3,1028,Reaching towards caregiver,99,01/01/1900 00:01:39
+3,1028,Reaching towards caregiver,381,01/01/1900 00:06:21
+3,1028,Reaching towards caregiver,569,01/01/1900 00:09:29
+3,1028,Turning head to caregiver,20,01/01/1900 00:00:20
+3,1028,Reaching towards food,273,01/01/1900 00:04:33
+3,1028,Reaching towards food,293,01/01/1900 00:04:53
+3,1028,Reaching towards food,395,01/01/1900 00:06:35
+3,1028,Reaching towards food,432,01/01/1900 00:07:12
+3,1028,Reaching towards food,447,01/01/1900 00:07:27
+3,1028,Reaching towards food,573,01/01/1900 00:09:33
+3,1028,Back arching,347,01/01/1900 00:05:47
+3,1028,Hand to stomach/mouth,16,01/01/1900 00:00:16
+3,1028,Hand to stomach/mouth,34,01/01/1900 00:00:34
+3,1028,Hand to stomach/mouth,48,01/01/1900 00:00:48
+3,1028,Hand to stomach/mouth,51,01/01/1900 00:00:51
+3,1028,Hand to stomach/mouth,59,01/01/1900 00:00:59
+3,1028,Hand to stomach/mouth,73,01/01/1900 00:01:13
+3,1028,Hand to stomach/mouth,76,01/01/1900 00:01:16
+3,1028,Hand to stomach/mouth,86,01/01/1900 00:01:26
+3,1028,Hand to stomach/mouth,92,01/01/1900 00:01:32
+3,1028,Hand to stomach/mouth,138,01/01/1900 00:02:18
+3,1028,Hand to stomach/mouth,157,01/01/1900 00:02:37
+3,1028,Hand to stomach/mouth,179,01/01/1900 00:02:59
+3,1028,Hand to stomach/mouth,196,01/01/1900 00:03:16
+3,1028,Hand to stomach/mouth,212,01/01/1900 00:03:32
+3,1028,Hand to stomach/mouth,225,01/01/1900 00:03:45
+3,1028,Hand to stomach/mouth,277,01/01/1900 00:04:37
+3,1028,Hand to stomach/mouth,319,01/01/1900 00:05:19
+3,1028,Hand to stomach/mouth,326,01/01/1900 00:05:26
+3,1028,Hand to stomach/mouth,333,01/01/1900 00:05:33
+3,1028,Hand to stomach/mouth,342,01/01/1900 00:05:42
+3,1028,Hand to stomach/mouth,359,01/01/1900 00:05:59
+3,1028,Hand to stomach/mouth,362,01/01/1900 00:06:02
+3,1028,Hand to stomach/mouth,366,01/01/1900 00:06:06
+3,1028,Hand to stomach/mouth,370,01/01/1900 00:06:10
+3,1028,Hand to stomach/mouth,376,01/01/1900 00:06:16
+3,1028,Hand to stomach/mouth,402,01/01/1900 00:06:42
+3,1028,Hand to stomach/mouth,407,01/01/1900 00:06:47
+3,1028,Hand to stomach/mouth,415,01/01/1900 00:06:55
+3,1028,Hand to stomach/mouth,439,01/01/1900 00:07:19
+3,1028,Hand to stomach/mouth,452,01/01/1900 00:07:32
+3,1028,Hand to stomach/mouth,466,01/01/1900 00:07:46
+3,1028,Hand to stomach/mouth,474,01/01/1900 00:07:54
+3,1028,Hand to stomach/mouth,476,01/01/1900 00:07:56
+3,1028,Hand to stomach/mouth,482,01/01/1900 00:08:02
+3,1028,Hand to stomach/mouth,508,01/01/1900 00:08:28
+3,1028,Hand to stomach/mouth,510,01/01/1900 00:08:30
+3,1028,Hand to stomach/mouth,531,01/01/1900 00:08:51
+3,1028,Hand to stomach/mouth,542,01/01/1900 00:09:02
+3,1028,Hand to stomach/mouth,548,01/01/1900 00:09:08
+3,1028,Hand to stomach/mouth,558,01/01/1900 00:09:18
+3,1028,Hand to stomach/mouth,561,01/01/1900 00:09:21
+3,1028,Spoon/fork to mouth,6,01/01/1900 00:00:06
+3,1028,Spoon/fork to mouth,523,01/01/1900 00:08:43
+3,1028,Head lowering,464,01/01/1900 00:07:44
+3,1028,Feeding sounds,208,01/01/1900 00:03:28
+3,1028,Feeding sounds,224,01/01/1900 00:03:44
+3,1028,Feeding sounds,471,01/01/1900 00:07:51
+3,1028,Choking,388,01/01/1900 00:06:28
+3,1028,Choking,400,01/01/1900 00:06:40
+3,1028,Crawling/walking away,124,01/01/1900 00:02:04
+3,1028,Crawling/walking away,202,01/01/1900 00:03:22
+3,1028,Crawling/walking away,217,01/01/1900 00:03:37
+3,1028,Crawling/walking away,231,01/01/1900 00:03:51
+3,1028,Crawling/walking away,284,01/01/1900 00:04:44
+3,1028,Fussing,122,01/01/1900 00:02:02
+3,1028,Overhand beating movements of arms,29,01/01/1900 00:00:29
+3,1031,Babbling,976,01/01/1900 00:16:16
+3,1031,Mutual Gaze,210,01/01/1900 00:03:30
+3,1031,Mutual Gaze,272,01/01/1900 00:04:32
+3,1031,Mutual Gaze,327,01/01/1900 00:05:27
+3,1031,Mutual Gaze,1473,01/01/1900 00:24:33
+3,1031,Reaching towards caregiver,354,01/01/1900 00:05:54
+3,1031,Reaching towards caregiver,356,01/01/1900 00:05:56
+3,1031,Reaching towards caregiver,385,01/01/1900 00:06:25
+3,1031,Reaching towards caregiver,433,01/01/1900 00:07:13
+3,1031,Reaching towards caregiver,1447,01/01/1900 00:24:07
+3,1031,Reaching towards caregiver,1481,01/01/1900 00:24:41
+3,1031,Reaching towards caregiver,1499,01/01/1900 00:24:59
+3,1031,Reaching towards caregiver,1541,01/01/1900 00:25:41
+3,1031,Reaching towards caregiver,1554,01/01/1900 00:25:54
+3,1031,Reaching towards caregiver,1573,01/01/1900 00:26:13
+3,1031,Reaching towards caregiver,1578,01/01/1900 00:26:18
+3,1031,Turning head to caregiver,677,01/01/1900 00:11:17
+3,1031,Turning head to caregiver,995,01/01/1900 00:16:35
+3,1031,Turning head to caregiver,1437,01/01/1900 00:23:57
+3,1031,Reaching towards food,23,01/01/1900 00:00:23
+3,1031,Reaching towards food,235,01/01/1900 00:03:55
+3,1031,Reaching towards food,310,01/01/1900 00:05:10
+3,1031,Hand to stomach/mouth,9,01/01/1900 00:00:09
+3,1031,Hand to stomach/mouth,51,01/01/1900 00:00:51
+3,1031,Hand to stomach/mouth,68,01/01/1900 00:01:08
+3,1031,Hand to stomach/mouth,73,01/01/1900 00:01:13
+3,1031,Hand to stomach/mouth,94,01/01/1900 00:01:34
+3,1031,Hand to stomach/mouth,110,01/01/1900 00:01:50
+3,1031,Hand to stomach/mouth,120,01/01/1900 00:02:00
+3,1031,Hand to stomach/mouth,123,01/01/1900 00:02:03
+3,1031,Hand to stomach/mouth,127,01/01/1900 00:02:07
+3,1031,Hand to stomach/mouth,137,01/01/1900 00:02:17
+3,1031,Hand to stomach/mouth,143,01/01/1900 00:02:23
+3,1031,Hand to stomach/mouth,145,01/01/1900 00:02:25
+3,1031,Hand to stomach/mouth,149,01/01/1900 00:02:29
+3,1031,Hand to stomach/mouth,154,01/01/1900 00:02:34
+3,1031,Hand to stomach/mouth,158,01/01/1900 00:02:38
+3,1031,Hand to stomach/mouth,163,01/01/1900 00:02:43
+3,1031,Hand to stomach/mouth,175,01/01/1900 00:02:55
+3,1031,Hand to stomach/mouth,251,01/01/1900 00:04:11
+3,1031,Hand to stomach/mouth,264,01/01/1900 00:04:24
+3,1031,Hand to stomach/mouth,292,01/01/1900 00:04:52
+3,1031,Hand to stomach/mouth,301,01/01/1900 00:05:01
+3,1031,Hand to stomach/mouth,324,01/01/1900 00:05:24
+3,1031,Hand to stomach/mouth,345,01/01/1900 00:05:45
+3,1031,Hand to stomach/mouth,408,01/01/1900 00:06:48
+3,1031,Hand to stomach/mouth,426,01/01/1900 00:07:06
+3,1031,Hand to stomach/mouth,442,01/01/1900 00:07:22
+3,1031,Hand to stomach/mouth,464,01/01/1900 00:07:44
+3,1031,Hand to stomach/mouth,476,01/01/1900 00:07:56
+3,1031,Hand to stomach/mouth,486,01/01/1900 00:08:06
+3,1031,Hand to stomach/mouth,491,01/01/1900 00:08:11
+3,1031,Hand to stomach/mouth,507,01/01/1900 00:08:27
+3,1031,Hand to stomach/mouth,514,01/01/1900 00:08:34
+3,1031,Hand to stomach/mouth,524,01/01/1900 00:08:44
+3,1031,Hand to stomach/mouth,532,01/01/1900 00:08:52
+3,1031,Hand to stomach/mouth,540,01/01/1900 00:09:00
+3,1031,Hand to stomach/mouth,545,01/01/1900 00:09:05
+3,1031,Hand to stomach/mouth,550,01/01/1900 00:09:10
+3,1031,Hand to stomach/mouth,563,01/01/1900 00:09:23
+3,1031,Hand to stomach/mouth,573,01/01/1900 00:09:33
+3,1031,Hand to stomach/mouth,578,01/01/1900 00:09:38
+3,1031,Hand to stomach/mouth,581,01/01/1900 00:09:41
+3,1031,Hand to stomach/mouth,586,01/01/1900 00:09:46
+3,1031,Hand to stomach/mouth,593,01/01/1900 00:09:53
+3,1031,Hand to stomach/mouth,614,01/01/1900 00:10:14
+3,1031,Hand to stomach/mouth,631,01/01/1900 00:10:31
+3,1031,Hand to stomach/mouth,634,01/01/1900 00:10:34
+3,1031,Hand to stomach/mouth,639,01/01/1900 00:10:39
+3,1031,Hand to stomach/mouth,652,01/01/1900 00:10:52
+3,1031,Hand to stomach/mouth,658,01/01/1900 00:10:58
+3,1031,Hand to stomach/mouth,667,01/01/1900 00:11:07
+3,1031,Hand to stomach/mouth,672,01/01/1900 00:11:12
+3,1031,Hand to stomach/mouth,683,01/01/1900 00:11:23
+3,1031,Hand to stomach/mouth,716,01/01/1900 00:11:56
+3,1031,Hand to stomach/mouth,753,01/01/1900 00:12:33
+3,1031,Hand to stomach/mouth,759,01/01/1900 00:12:39
+3,1031,Hand to stomach/mouth,784,01/01/1900 00:13:04
+3,1031,Hand to stomach/mouth,796,01/01/1900 00:13:16
+3,1031,Hand to stomach/mouth,801,01/01/1900 00:13:21
+3,1031,Hand to stomach/mouth,850,01/01/1900 00:14:10
+3,1031,Hand to stomach/mouth,867,01/01/1900 00:14:27
+3,1031,Hand to stomach/mouth,883,01/01/1900 00:14:43
+3,1031,Hand to stomach/mouth,901,01/01/1900 00:15:01
+3,1031,Hand to stomach/mouth,910,01/01/1900 00:15:10
+3,1031,Hand to stomach/mouth,917,01/01/1900 00:15:17
+3,1031,Hand to stomach/mouth,919,01/01/1900 00:15:19
+3,1031,Hand to stomach/mouth,929,01/01/1900 00:15:29
+3,1031,Hand to stomach/mouth,935,01/01/1900 00:15:35
+3,1031,Hand to stomach/mouth,962,01/01/1900 00:16:02
+3,1031,Hand to stomach/mouth,963,01/01/1900 00:16:03
+3,1031,Hand to stomach/mouth,971,01/01/1900 00:16:11
+3,1031,Hand to stomach/mouth,1006,01/01/1900 00:16:46
+3,1031,Hand to stomach/mouth,1012,01/01/1900 00:16:52
+3,1031,Hand to stomach/mouth,1021,01/01/1900 00:17:01
+3,1031,Hand to stomach/mouth,1167,01/01/1900 00:19:27
+3,1031,Hand to stomach/mouth,1215,01/01/1900 00:20:15
+3,1031,Hand to stomach/mouth,1220,01/01/1900 00:20:20
+3,1031,Hand to stomach/mouth,1222,01/01/1900 00:20:22
+3,1031,Hand to stomach/mouth,1238,01/01/1900 00:20:38
+3,1031,Hand to stomach/mouth,1261,01/01/1900 00:21:01
+3,1031,Hand to stomach/mouth,1269,01/01/1900 00:21:09
+3,1031,Hand to stomach/mouth,1293,01/01/1900 00:21:33
+3,1031,Hand to stomach/mouth,1303,01/01/1900 00:21:43
+3,1031,Hand to stomach/mouth,1358,01/01/1900 00:22:38
+3,1031,Hand to stomach/mouth,1377,01/01/1900 00:22:57
+3,1031,Hand to stomach/mouth,1398,01/01/1900 00:23:18
+3,1031,Hand to stomach/mouth,1407,01/01/1900 00:23:27
+3,1031,Hand to stomach/mouth,1426,01/01/1900 00:23:46
+3,1031,Hand to stomach/mouth,1442,01/01/1900 00:24:02
+3,1031,Hand to stomach/mouth,1453,01/01/1900 00:24:13
+3,1031,Hand to stomach/mouth,1494,01/01/1900 00:24:54
+3,1031,Hand to stomach/mouth,1526,01/01/1900 00:25:26
+3,1031,Hand to stomach/mouth,1541,01/01/1900 00:25:41
+3,1031,Hand to stomach/mouth,1543,01/01/1900 00:25:43
+3,1031,Hand to stomach/mouth,1546,01/01/1900 00:25:46
+3,1031,Hand to stomach/mouth,1549,01/01/1900 00:25:49
+3,1031,Hand to stomach/mouth,1550,01/01/1900 00:25:50
+3,1031,Spoon/fork to mouth,33,01/01/1900 00:00:33
+3,1031,Spoon/fork to mouth,195,01/01/1900 00:03:15
+3,1031,Spoon/fork to mouth,257,01/01/1900 00:04:17
+3,1031,Spoon/fork to mouth,1061,01/01/1900 00:17:41
+3,1031,Spoon/fork to mouth,1086,01/01/1900 00:18:06
+3,1031,Spoon/fork to mouth,1105,01/01/1900 00:18:25
+3,1031,Spoon/fork to mouth,1117,01/01/1900 00:18:37
+3,1031,Spoon/fork to mouth,1132,01/01/1900 00:18:52
+3,1031,Looking away,1202,01/01/1900 00:20:02
+3,1031,Choking,400,01/01/1900 00:06:40
+3,1031,Choking,882,01/01/1900 00:14:42
+3,1031,Choking,1578,01/01/1900 00:26:18
+3,1031,Overhand beating movements of arms,845,01/01/1900 00:14:05
+3,1031,Pushing away,1531,01/01/1900 00:25:31
+3,1032,Babbling,20,01/01/1900 00:00:20
+3,1032,Babbling,94,01/01/1900 00:01:34
+3,1032,Babbling,111,01/01/1900 00:01:51
+3,1032,Babbling,145,01/01/1900 00:02:25
+3,1032,Babbling,178,01/01/1900 00:02:58
+3,1032,Babbling,252,01/01/1900 00:04:12
+3,1032,Babbling,368,01/01/1900 00:06:08
+3,1032,Babbling,376,01/01/1900 00:06:16
+3,1032,Babbling,409,01/01/1900 00:06:49
+3,1032,Babbling,449,01/01/1900 00:07:29
+3,1032,Babbling,512,01/01/1900 00:08:32
+3,1032,Babbling,530,01/01/1900 00:08:50
+3,1032,Babbling,542,01/01/1900 00:09:02
+3,1032,Babbling,639,01/01/1900 00:10:39
+3,1032,Babbling,646,01/01/1900 00:10:46
+3,1032,Babbling,680,01/01/1900 00:11:20
+3,1032,Babbling,869,01/01/1900 00:14:29
+3,1032,Babbling,987,01/01/1900 00:16:27
+3,1032,Babbling,1348,01/01/1900 00:22:28
+3,1032,Babbling,1592,01/01/1900 00:26:32
+3,1032,Babbling,1654,01/01/1900 00:27:34
+3,1032,Babbling,1845,01/01/1900 00:30:45
+3,1032,Halt hand,1346,01/01/1900 00:22:26
+3,1032,Halt hand,1349,01/01/1900 00:22:29
+3,1032,Halt hand,1354,01/01/1900 00:22:34
+3,1032,Mutual Gaze,145,01/01/1900 00:02:25
+3,1032,Mutual Gaze,168,01/01/1900 00:02:48
+3,1032,Mutual Gaze,325,01/01/1900 00:05:25
+3,1032,Mutual Gaze,331,01/01/1900 00:05:31
+3,1032,Mutual Gaze,336,01/01/1900 00:05:36
+3,1032,Mutual Gaze,349,01/01/1900 00:05:49
+3,1032,Mutual Gaze,364,01/01/1900 00:06:04
+3,1032,Mutual Gaze,380,01/01/1900 00:06:20
+3,1032,Mutual Gaze,409,01/01/1900 00:06:49
+3,1032,Mutual Gaze,652,01/01/1900 00:10:52
+3,1032,Reaching towards caregiver,358,01/01/1900 00:05:58
+3,1032,Reaching towards caregiver,607,01/01/1900 00:10:07
+3,1032,Reaching towards caregiver,646,01/01/1900 00:10:46
+3,1032,Reaching towards food,50,01/01/1900 00:00:50
+3,1032,Reaching towards food,133,01/01/1900 00:02:13
+3,1032,Reaching towards food,240,01/01/1900 00:04:00
+3,1032,Reaching towards food,252,01/01/1900 00:04:12
+3,1032,Reaching towards food,449,01/01/1900 00:07:29
+3,1032,Reaching towards food,545,01/01/1900 00:09:05
+3,1032,Tray pounding,1100,01/01/1900 00:18:20
+3,1032,Tray pounding,1140,01/01/1900 00:19:00
+3,1032,Hand to stomach/mouth,5,01/01/1900 00:00:05
+3,1032,Hand to stomach/mouth,34,01/01/1900 00:00:34
+3,1032,Hand to stomach/mouth,75,01/01/1900 00:01:15
+3,1032,Hand to stomach/mouth,90,01/01/1900 00:01:30
+3,1032,Hand to stomach/mouth,121,01/01/1900 00:02:01
+3,1032,Hand to stomach/mouth,160,01/01/1900 00:02:40
+3,1032,Hand to stomach/mouth,163,01/01/1900 00:02:43
+3,1032,Hand to stomach/mouth,182,01/01/1900 00:03:02
+3,1032,Hand to stomach/mouth,190,01/01/1900 00:03:10
+3,1032,Hand to stomach/mouth,206,01/01/1900 00:03:26
+3,1032,Hand to stomach/mouth,223,01/01/1900 00:03:43
+3,1032,Hand to stomach/mouth,244,01/01/1900 00:04:04
+3,1032,Hand to stomach/mouth,495,01/01/1900 00:08:15
+3,1032,Hand to stomach/mouth,499,01/01/1900 00:08:19
+3,1032,Hand to stomach/mouth,508,01/01/1900 00:08:28
+3,1032,Hand to stomach/mouth,515,01/01/1900 00:08:35
+3,1032,Hand to stomach/mouth,520,01/01/1900 00:08:40
+3,1032,Hand to stomach/mouth,535,01/01/1900 00:08:55
+3,1032,Hand to stomach/mouth,545,01/01/1900 00:09:05
+3,1032,Hand to stomach/mouth,557,01/01/1900 00:09:17
+3,1032,Hand to stomach/mouth,602,01/01/1900 00:10:02
+3,1032,Hand to stomach/mouth,614,01/01/1900 00:10:14
+3,1032,Hand to stomach/mouth,644,01/01/1900 00:10:44
+3,1032,Hand to stomach/mouth,658,01/01/1900 00:10:58
+3,1032,Hand to stomach/mouth,672,01/01/1900 00:11:12
+3,1032,Hand to stomach/mouth,692,01/01/1900 00:11:32
+3,1032,Hand to stomach/mouth,719,01/01/1900 00:11:59
+3,1032,Hand to stomach/mouth,732,01/01/1900 00:12:12
+3,1032,Hand to stomach/mouth,762,01/01/1900 00:12:42
+3,1032,Hand to stomach/mouth,773,01/01/1900 00:12:53
+3,1032,Hand to stomach/mouth,796,01/01/1900 00:13:16
+3,1032,Hand to stomach/mouth,807,01/01/1900 00:13:27
+3,1032,Hand to stomach/mouth,831,01/01/1900 00:13:51
+3,1032,Hand to stomach/mouth,843,01/01/1900 00:14:03
+3,1032,Hand to stomach/mouth,866,01/01/1900 00:14:26
+3,1032,Hand to stomach/mouth,871,01/01/1900 00:14:31
+3,1032,Hand to stomach/mouth,900,01/01/1900 00:15:00
+3,1032,Hand to stomach/mouth,916,01/01/1900 00:15:16
+3,1032,Hand to stomach/mouth,926,01/01/1900 00:15:26
+3,1032,Hand to stomach/mouth,1238,01/01/1900 00:20:38
+3,1032,Hand to stomach/mouth,1261,01/01/1900 00:21:01
+3,1032,Hand to stomach/mouth,1274,01/01/1900 00:21:14
+3,1032,Hand to stomach/mouth,1306,01/01/1900 00:21:46
+3,1032,Hand to stomach/mouth,1316,01/01/1900 00:21:56
+3,1032,Hand to stomach/mouth,1324,01/01/1900 00:22:04
+3,1032,Hand to stomach/mouth,1358,01/01/1900 00:22:38
+3,1032,Hand to stomach/mouth,1388,01/01/1900 00:23:08
+3,1032,Hand to stomach/mouth,1841,01/01/1900 00:30:41
+3,1032,Spoon/fork to mouth,99,01/01/1900 00:01:39
+3,1032,Spoon/fork to mouth,139,01/01/1900 00:02:19
+3,1032,Spoon/fork to mouth,261,01/01/1900 00:04:21
+3,1032,Spoon/fork to mouth,269,01/01/1900 00:04:29
+3,1032,Spoon/fork to mouth,272,01/01/1900 00:04:32
+3,1032,Spoon/fork to mouth,279,01/01/1900 00:04:39
+3,1032,Spoon/fork to mouth,290,01/01/1900 00:04:50
+3,1032,Spoon/fork to mouth,297,01/01/1900 00:04:57
+3,1032,Spoon/fork to mouth,305,01/01/1900 00:05:05
+3,1032,Spoon/fork to mouth,334,01/01/1900 00:05:34
+3,1032,Spoon/fork to mouth,339,01/01/1900 00:05:39
+3,1032,Spoon/fork to mouth,361,01/01/1900 00:06:01
+3,1032,Spoon/fork to mouth,383,01/01/1900 00:06:23
+3,1032,Spoon/fork to mouth,397,01/01/1900 00:06:37
+3,1032,Spoon/fork to mouth,411,01/01/1900 00:06:51
+3,1032,Spoon/fork to mouth,418,01/01/1900 00:06:58
+3,1032,Spoon/fork to mouth,430,01/01/1900 00:07:10
+3,1032,Spoon/fork to mouth,467,01/01/1900 00:07:47
+3,1032,Spoon/fork to mouth,484,01/01/1900 00:08:04
+3,1032,Spoon/fork to mouth,489,01/01/1900 00:08:09
+3,1032,Spoon/fork to mouth,971,01/01/1900 00:16:11
+3,1032,Spoon/fork to mouth,995,01/01/1900 00:16:35
+3,1032,Spoon/fork to mouth,1020,01/01/1900 00:17:00
+3,1032,Spoon/fork to mouth,1038,01/01/1900 00:17:18
+3,1032,Spoon/fork to mouth,1082,01/01/1900 00:18:02
+3,1032,Spoon/fork to mouth,1090,01/01/1900 00:18:10
+3,1032,Spoon/fork to mouth,1111,01/01/1900 00:18:31
+3,1032,Spoon/fork to mouth,1113,01/01/1900 00:18:33
+3,1032,Spoon/fork to mouth,1118,01/01/1900 00:18:38
+3,1032,Spoon/fork to mouth,1136,01/01/1900 00:18:56
+3,1032,Spoon/fork to mouth,1144,01/01/1900 00:19:04
+3,1032,Spoon/fork to mouth,1150,01/01/1900 00:19:10
+3,1032,Spoon/fork to mouth,1161,01/01/1900 00:19:21
+3,1032,Spoon/fork to mouth,1172,01/01/1900 00:19:32
+3,1032,Spoon/fork to mouth,1197,01/01/1900 00:19:57
+3,1032,Spoon/fork to mouth,1209,01/01/1900 00:20:09
+3,1032,Spoon/fork to mouth,1470,01/01/1900 00:24:30
+3,1032,Spoon/fork to mouth,1482,01/01/1900 00:24:42
+3,1032,Spoon/fork to mouth,1502,01/01/1900 00:25:02
+3,1032,Spoon/fork to mouth,1508,01/01/1900 00:25:08
+3,1032,Spoon/fork to mouth,1522,01/01/1900 00:25:22
+3,1032,Spoon/fork to mouth,1533,01/01/1900 00:25:33
+3,1032,Spoon/fork to mouth,1538,01/01/1900 00:25:38
+3,1032,Spoon/fork to mouth,1543,01/01/1900 00:25:43
+3,1032,Spoon/fork to mouth,1546,01/01/1900 00:25:46
+3,1032,Spoon/fork to mouth,1551,01/01/1900 00:25:51
+3,1032,Spoon/fork to mouth,1554,01/01/1900 00:25:54
+3,1032,Spoon/fork to mouth,1566,01/01/1900 00:26:06
+3,1032,Spoon/fork to mouth,1584,01/01/1900 00:26:24
+3,1032,Spoon/fork to mouth,1602,01/01/1900 00:26:42
+3,1032,Spoon/fork to mouth,1642,01/01/1900 00:27:22
+3,1032,Spoon/fork to mouth,1664,01/01/1900 00:27:44
+3,1032,Spoon/fork to mouth,1688,01/01/1900 00:28:08
+3,1032,Spoon/fork to mouth,1748,01/01/1900 00:29:08
+3,1032,Feeding sounds,175,01/01/1900 00:02:55
+3,1032,Fussing,61,01/01/1900 00:01:01
+3,1032,Fussing,1610,01/01/1900 00:26:50
+3,1032,Lateral head shake,402,01/01/1900 00:06:42
+3,1032,Head raising,1405,01/01/1900 00:23:25
+3,1049,Babbling,76,01/01/1900 00:01:16
+3,1049,Babbling,90,01/01/1900 00:01:30
+3,1049,Babbling,120,01/01/1900 00:02:00
+3,1049,Babbling,197,01/01/1900 00:03:17
+3,1049,Babbling,212,01/01/1900 00:03:32
+3,1049,Babbling,220,01/01/1900 00:03:40
+3,1049,Babbling,226,01/01/1900 00:03:46
+3,1049,Babbling,233,01/01/1900 00:03:53
+3,1049,Babbling,261,01/01/1900 00:04:21
+3,1049,Babbling,306,01/01/1900 00:05:06
+3,1049,Babbling,316,01/01/1900 00:05:16
+3,1049,Babbling,318,01/01/1900 00:05:18
+3,1049,Babbling,320,01/01/1900 00:05:20
+3,1049,Babbling,330,01/01/1900 00:05:30
+3,1049,Babbling,340,01/01/1900 00:05:40
+3,1049,Babbling,343,01/01/1900 00:05:43
+3,1049,Babbling,451,01/01/1900 00:07:31
+3,1049,Babbling,455,01/01/1900 00:07:35
+3,1049,Babbling,459,01/01/1900 00:07:39
+3,1049,Babbling,495,01/01/1900 00:08:15
+3,1049,Halt hand,348,01/01/1900 00:05:48
+3,1049,Halt hand,461,01/01/1900 00:07:41
+3,1049,Reaching towards caregiver,90,01/01/1900 00:01:30
+3,1049,Reaching towards caregiver,328,01/01/1900 00:05:28
+3,1049,Reaching towards caregiver,343,01/01/1900 00:05:43
+3,1049,Reaching towards caregiver,504,01/01/1900 00:08:24
+3,1049,Turning head to caregiver,119,01/01/1900 00:01:59
+3,1049,Turning head to caregiver,141,01/01/1900 00:02:21
+3,1049,Turning head to caregiver,203,01/01/1900 00:03:23
+3,1049,Turning head to caregiver,351,01/01/1900 00:05:51
+3,1049,Turning head to caregiver,502,01/01/1900 00:08:22
+3,1049,Reaching towards food,224,01/01/1900 00:03:44
+3,1049,Tray pounding,283,01/01/1900 00:04:43
+3,1049,Back arching,312,01/01/1900 00:05:12
+3,1049,Back arching,433,01/01/1900 00:07:13
+3,1049,Back arching,451,01/01/1900 00:07:31
+3,1049,Hand to stomach/mouth,7,01/01/1900 00:00:07
+3,1049,Hand to stomach/mouth,17,01/01/1900 00:00:17
+3,1049,Hand to stomach/mouth,40,01/01/1900 00:00:40
+3,1049,Hand to stomach/mouth,50,01/01/1900 00:00:50
+3,1049,Hand to stomach/mouth,55,01/01/1900 00:00:55
+3,1049,Hand to stomach/mouth,58,01/01/1900 00:00:58
+3,1049,Hand to stomach/mouth,68,01/01/1900 00:01:08
+3,1049,Hand to stomach/mouth,113,01/01/1900 00:01:53
+3,1049,Hand to stomach/mouth,117,01/01/1900 00:01:57
+3,1049,Hand to stomach/mouth,126,01/01/1900 00:02:06
+3,1049,Hand to stomach/mouth,133,01/01/1900 00:02:13
+3,1049,Hand to stomach/mouth,161,01/01/1900 00:02:41
+3,1049,Hand to stomach/mouth,180,01/01/1900 00:03:00
+3,1049,Hand to stomach/mouth,226,01/01/1900 00:03:46
+3,1049,Hand to stomach/mouth,297,01/01/1900 00:04:57
+3,1049,Hand to stomach/mouth,374,01/01/1900 00:06:14
+3,1049,Hand to stomach/mouth,382,01/01/1900 00:06:22
+3,1049,Hand to stomach/mouth,397,01/01/1900 00:06:37
+3,1049,Hand to stomach/mouth,405,01/01/1900 00:06:45
+3,1049,Hand to stomach/mouth,421,01/01/1900 00:07:01
+3,1049,Crying,345,01/01/1900 00:05:45
+3,1049,Crying,484,01/01/1900 00:08:04
+3,1049,Crying,516,01/01/1900 00:08:36
+3,1049,Fussing,285,01/01/1900 00:04:45
+3,1049,Fussing,288,01/01/1900 00:04:48
+3,1049,Fussing,485,01/01/1900 00:08:05
+3,1049,Fussing,540,01/01/1900 00:09:00
+3,1049,Lateral head shake,348,01/01/1900 00:05:48
+3,1049,Lateral head shake,471,01/01/1900 00:07:51
+3,1049,Overhand beating movements of arms,348,01/01/1900 00:05:48
+3,1049,Overhand beating movements of arms,485,01/01/1900 00:08:05
+3,1049,Overhand beating movements of arms,522,01/01/1900 00:08:42
+3,1049,Overhand beating movements of arms,528,01/01/1900 00:08:48
+3,1049,Overhand beating movements of arms,540,01/01/1900 00:09:00
+3,1049,Overhand beating movements of arms,542,01/01/1900 00:09:02
+3,1049,Pushing away,461,01/01/1900 00:07:41
+3,1049,Pushing away,484,01/01/1900 00:08:04
+3,1049,Hand behind head/ear/eye,293,01/01/1900 00:04:53
+3,1049,Hand behind head/ear/eye,451,01/01/1900 00:07:31
+3,1049,Hand behind head/ear/eye,469,01/01/1900 00:07:49
+3,1049,Hand behind head/ear/eye,508,01/01/1900 00:08:28
+3,1053,Babbling,1202,01/01/1900 00:20:02
+3,1053,Halt hand,1103,01/01/1900 00:18:23
+3,1053,Reaching towards caregiver,627,01/01/1900 00:10:27
+3,1053,Reaching towards caregiver,1229,01/01/1900 00:20:29
+3,1053,Hand to stomach/mouth,1024,01/01/1900 00:17:04
+3,1053,Hand to stomach/mouth,1057,01/01/1900 00:17:37
+3,1053,Hand to stomach/mouth,1178,01/01/1900 00:19:38
+3,1053,Hand to stomach/mouth,1216,01/01/1900 00:20:16
+3,1053,Spoon/fork to mouth,15,01/01/1900 00:00:15
+3,1053,Spoon/fork to mouth,35,01/01/1900 00:00:35
+3,1053,Spoon/fork to mouth,49,01/01/1900 00:00:49
+3,1053,Spoon/fork to mouth,69,01/01/1900 00:01:09
+3,1053,Spoon/fork to mouth,93,01/01/1900 00:01:33
+3,1053,Spoon/fork to mouth,111,01/01/1900 00:01:51
+3,1053,Spoon/fork to mouth,123,01/01/1900 00:02:03
+3,1053,Spoon/fork to mouth,135,01/01/1900 00:02:15
+3,1053,Spoon/fork to mouth,152,01/01/1900 00:02:32
+3,1053,Spoon/fork to mouth,168,01/01/1900 00:02:48
+3,1053,Spoon/fork to mouth,181,01/01/1900 00:03:01
+3,1053,Spoon/fork to mouth,194,01/01/1900 00:03:14
+3,1053,Spoon/fork to mouth,203,01/01/1900 00:03:23
+3,1053,Spoon/fork to mouth,217,01/01/1900 00:03:37
+3,1053,Spoon/fork to mouth,229,01/01/1900 00:03:49
+3,1053,Spoon/fork to mouth,242,01/01/1900 00:04:02
+3,1053,Spoon/fork to mouth,257,01/01/1900 00:04:17
+3,1053,Spoon/fork to mouth,272,01/01/1900 00:04:32
+3,1053,Spoon/fork to mouth,284,01/01/1900 00:04:44
+3,1053,Spoon/fork to mouth,294,01/01/1900 00:04:54
+3,1053,Spoon/fork to mouth,304,01/01/1900 00:05:04
+3,1053,Spoon/fork to mouth,317,01/01/1900 00:05:17
+3,1053,Spoon/fork to mouth,328,01/01/1900 00:05:28
+3,1053,Spoon/fork to mouth,341,01/01/1900 00:05:41
+3,1053,Spoon/fork to mouth,355,01/01/1900 00:05:55
+3,1053,Spoon/fork to mouth,367,01/01/1900 00:06:07
+3,1053,Spoon/fork to mouth,380,01/01/1900 00:06:20
+3,1053,Spoon/fork to mouth,395,01/01/1900 00:06:35
+3,1053,Spoon/fork to mouth,415,01/01/1900 00:06:55
+3,1053,Spoon/fork to mouth,430,01/01/1900 00:07:10
+3,1053,Spoon/fork to mouth,444,01/01/1900 00:07:24
+3,1053,Spoon/fork to mouth,458,01/01/1900 00:07:38
+3,1053,Spoon/fork to mouth,474,01/01/1900 00:07:54
+3,1053,Spoon/fork to mouth,491,01/01/1900 00:08:11
+3,1053,Spoon/fork to mouth,529,01/01/1900 00:08:49
+3,1053,Spoon/fork to mouth,542,01/01/1900 00:09:02
+3,1053,Spoon/fork to mouth,559,01/01/1900 00:09:19
+3,1053,Spoon/fork to mouth,582,01/01/1900 00:09:42
+3,1053,Spoon/fork to mouth,736,01/01/1900 00:12:16
+3,1053,Spoon/fork to mouth,746,01/01/1900 00:12:26
+3,1053,Spoon/fork to mouth,762,01/01/1900 00:12:42
+3,1053,Spoon/fork to mouth,779,01/01/1900 00:12:59
+3,1053,Spoon/fork to mouth,804,01/01/1900 00:13:24
+3,1053,Spoon/fork to mouth,820,01/01/1900 00:13:40
+3,1053,Head lowering,1201,01/01/1900 00:20:01
+3,1053,Looking away,35,01/01/1900 00:00:35
+3,1053,Looking away,152,01/01/1900 00:02:32
+3,1053,Looking away,167,01/01/1900 00:02:47
+3,1053,Crying,1229,01/01/1900 00:20:29
+3,1053,Crying,1241,01/01/1900 00:20:41
+3,1053,Fussing,840,01/01/1900 00:14:00
+3,1053,Pulling away,17,01/01/1900 00:00:17
+3,1053,Pulling away,37,01/01/1900 00:00:37
+3,1053,Pulling away,52,01/01/1900 00:00:52
+3,1053,Pulling away,344,01/01/1900 00:05:44
+3,1053,Pulling away,601,01/01/1900 00:10:01
+3,1053,Pulling away,685,01/01/1900 00:11:25
+3,1053,Pulling away,857,01/01/1900 00:14:17
+3,1053,Pulling away,896,01/01/1900 00:14:56
+3,1053,Pulling away,1103,01/01/1900 00:18:23
+3,1053,Pulling away,1201,01/01/1900 00:20:01
+3,1053,Pulling away,1241,01/01/1900 00:20:41
+3,1053,Hand behind head/ear/eye,309,01/01/1900 00:05:09
+3,1053,Hand behind head/ear/eye,312,01/01/1900 00:05:12
+3,1053,Hand behind head/ear/eye,328,01/01/1900 00:05:28
+3,1053,Hand behind head/ear/eye,872,01/01/1900 00:14:32
+3,1053,Hand behind head/ear/eye,876,01/01/1900 00:14:36
+3,1053,Hand behind head/ear/eye,880,01/01/1900 00:14:40
+3,1053,Hand behind head/ear/eye,883,01/01/1900 00:14:43
+3,1053,Hand behind head/ear/eye,893,01/01/1900 00:14:53
+3,1053,Hand behind head/ear/eye,988,01/01/1900 00:16:28
+3,1053,Hand behind head/ear/eye,1105,01/01/1900 00:18:25
+3,1053,Tongue show,246,01/01/1900 00:04:06
+3,1053,Tongue show,332,01/01/1900 00:05:32
+3,1053,Tongue show,806,01/01/1900 00:13:26
+3,1053,Tongue show,1206,01/01/1900 00:20:06
+3,1062,Babbling,44,01/01/1900 00:00:44
+3,1062,Babbling,451,01/01/1900 00:07:31
+3,1062,Babbling,479,01/01/1900 00:07:59
+3,1062,Babbling,519,01/01/1900 00:08:39
+3,1062,Babbling,528,01/01/1900 00:08:48
+3,1062,Babbling,532,01/01/1900 00:08:52
+3,1062,Mutual Gaze,26,01/01/1900 00:00:26
+3,1062,Mutual Gaze,56,01/01/1900 00:00:56
+3,1062,Mutual Gaze,83,01/01/1900 00:01:23
+3,1062,Mutual Gaze,125,01/01/1900 00:02:05
+3,1062,Mutual Gaze,145,01/01/1900 00:02:25
+3,1062,Mutual Gaze,149,01/01/1900 00:02:29
+3,1062,Mutual Gaze,174,01/01/1900 00:02:54
+3,1062,Mutual Gaze,181,01/01/1900 00:03:01
+3,1062,Mutual Gaze,238,01/01/1900 00:03:58
+3,1062,Mutual Gaze,397,01/01/1900 00:06:37
+3,1062,Mutual Gaze,458,01/01/1900 00:07:38
+3,1062,Mutual Gaze,464,01/01/1900 00:07:44
+3,1062,Reaching towards caregiver,160,01/01/1900 00:02:40
+3,1062,Reaching towards caregiver,347,01/01/1900 00:05:47
+3,1062,Reaching towards caregiver,349,01/01/1900 00:05:49
+3,1062,Reaching towards caregiver,438,01/01/1900 00:07:18
+3,1062,Reaching towards caregiver,445,01/01/1900 00:07:25
+3,1062,Reaching towards caregiver,448,01/01/1900 00:07:28
+3,1062,Reaching towards caregiver,483,01/01/1900 00:08:03
+3,1062,Reaching towards caregiver,489,01/01/1900 00:08:09
+3,1062,Tray pounding,364,01/01/1900 00:06:04
+3,1062,Hand to stomach/mouth,379,01/01/1900 00:06:19
+3,1062,Hand to stomach/mouth,406,01/01/1900 00:06:46
+3,1062,Hand to stomach/mouth,420,01/01/1900 00:07:00
+3,1062,Hand to stomach/mouth,548,01/01/1900 00:09:08
+3,1062,Spoon/fork to mouth,13,01/01/1900 00:00:13
+3,1062,Spoon/fork to mouth,22,01/01/1900 00:00:22
+3,1062,Spoon/fork to mouth,30,01/01/1900 00:00:30
+3,1062,Spoon/fork to mouth,37,01/01/1900 00:00:37
+3,1062,Spoon/fork to mouth,76,01/01/1900 00:01:16
+3,1062,Spoon/fork to mouth,83,01/01/1900 00:01:23
+3,1062,Spoon/fork to mouth,96,01/01/1900 00:01:36
+3,1062,Spoon/fork to mouth,104,01/01/1900 00:01:44
+3,1062,Spoon/fork to mouth,116,01/01/1900 00:01:56
+3,1062,Spoon/fork to mouth,120,01/01/1900 00:02:00
+3,1062,Spoon/fork to mouth,145,01/01/1900 00:02:25
+3,1062,Spoon/fork to mouth,150,01/01/1900 00:02:30
+3,1062,Spoon/fork to mouth,156,01/01/1900 00:02:36
+3,1062,Spoon/fork to mouth,176,01/01/1900 00:02:56
+3,1062,Spoon/fork to mouth,181,01/01/1900 00:03:01
+3,1062,Spoon/fork to mouth,191,01/01/1900 00:03:11
+3,1062,Spoon/fork to mouth,199,01/01/1900 00:03:19
+3,1062,Spoon/fork to mouth,205,01/01/1900 00:03:25
+3,1062,Spoon/fork to mouth,218,01/01/1900 00:03:38
+3,1062,Spoon/fork to mouth,235,01/01/1900 00:03:55
+3,1062,Spoon/fork to mouth,251,01/01/1900 00:04:11
+3,1062,Spoon/fork to mouth,279,01/01/1900 00:04:39
+3,1062,Spoon/fork to mouth,284,01/01/1900 00:04:44
+3,1062,Spoon/fork to mouth,289,01/01/1900 00:04:49
+3,1062,Spoon/fork to mouth,296,01/01/1900 00:04:56
+3,1062,Spoon/fork to mouth,300,01/01/1900 00:05:00
+3,1062,Spoon/fork to mouth,312,01/01/1900 00:05:12
+3,1062,Spoon/fork to mouth,324,01/01/1900 00:05:24
+3,1062,Spoon/fork to mouth,356,01/01/1900 00:05:56
+3,1062,Looking away,9,01/01/1900 00:00:09
+3,1062,Looking away,76,01/01/1900 00:01:16
+3,1062,Looking away,218,01/01/1900 00:03:38
+3,1062,Looking away,418,01/01/1900 00:06:58
+3,1062,Looking away,539,01/01/1900 00:08:59
+3,1062,Pulling away,94,01/01/1900 00:01:34
+3,1064,Halt hand,119,01/01/1900 00:01:59
+3,1064,Halt hand,121,01/01/1900 00:02:01
+3,1064,Halt hand,143,01/01/1900 00:02:23
+3,1064,Tray pounding,141,01/01/1900 00:02:21
+3,1064,Tray pounding,149,01/01/1900 00:02:29
+3,1064,Tray pounding,153,01/01/1900 00:02:33
+3,1064,Tray pounding,166,01/01/1900 00:02:46
+3,1064,Tray pounding,171,01/01/1900 00:02:51
+3,1064,Tray pounding,219,01/01/1900 00:03:39
+3,1064,Tray pounding,226,01/01/1900 00:03:46
+3,1064,Tray pounding,238,01/01/1900 00:03:58
+3,1064,Tray pounding,246,01/01/1900 00:04:06
+3,1064,Tray pounding,251,01/01/1900 00:04:11
+3,1064,Tray pounding,257,01/01/1900 00:04:17
+3,1064,Tray pounding,260,01/01/1900 00:04:20
+3,1064,Tray pounding,261,01/01/1900 00:04:21
+3,1064,Tray pounding,265,01/01/1900 00:04:25
+3,1064,Hand to stomach/mouth,267,01/01/1900 00:04:27
+3,1064,Spoon/fork to mouth,6,01/01/1900 00:00:06
+3,1064,Spoon/fork to mouth,26,01/01/1900 00:00:26
+3,1064,Spoon/fork to mouth,36,01/01/1900 00:00:36
+3,1064,Spoon/fork to mouth,45,01/01/1900 00:00:45
+3,1064,Spoon/fork to mouth,51,01/01/1900 00:00:51
+3,1064,Spoon/fork to mouth,58,01/01/1900 00:00:58
+3,1064,Spoon/fork to mouth,71,01/01/1900 00:01:11
+3,1064,Spoon/fork to mouth,79,01/01/1900 00:01:19
+3,1064,Spoon/fork to mouth,91,01/01/1900 00:01:31
+3,1064,Spoon/fork to mouth,99,01/01/1900 00:01:39
+3,1064,Spoon/fork to mouth,112,01/01/1900 00:01:52
+3,1064,Spoon/fork to mouth,126,01/01/1900 00:02:06
+3,1064,Spoon/fork to mouth,133,01/01/1900 00:02:13
+3,1064,Spoon/fork to mouth,145,01/01/1900 00:02:25
+3,1064,Spoon/fork to mouth,161,01/01/1900 00:02:41
+3,1064,Spoon/fork to mouth,169,01/01/1900 00:02:49
+3,1064,Spoon/fork to mouth,178,01/01/1900 00:02:58
+3,1064,Spoon/fork to mouth,187,01/01/1900 00:03:07
+3,1064,Spoon/fork to mouth,199,01/01/1900 00:03:19
+3,1064,Spoon/fork to mouth,209,01/01/1900 00:03:29
+3,1064,Spoon/fork to mouth,223,01/01/1900 00:03:43
+3,1064,Spoon/fork to mouth,232,01/01/1900 00:03:52
+3,1064,Spoon/fork to mouth,243,01/01/1900 00:04:03
+3,1064,Spoon/fork to mouth,258,01/01/1900 00:04:18
+3,1064,Spoon/fork to mouth,272,01/01/1900 00:04:32
+3,1064,Head lowering,138,01/01/1900 00:02:18
+3,1064,Head lowering,256,01/01/1900 00:04:16
+3,1064,Looking away,36,01/01/1900 00:00:36
+3,1064,Looking away,71,01/01/1900 00:01:11
+3,1064,Looking away,79,01/01/1900 00:01:19
+3,1064,Looking away,96,01/01/1900 00:01:36
+3,1064,Looking away,159,01/01/1900 00:02:39
+3,1064,Looking away,178,01/01/1900 00:02:58
+3,1064,Looking away,243,01/01/1900 00:04:03
+3,1064,Pulling away,159,01/01/1900 00:02:39
+3,1069,Babbling,89,01/01/1900 00:01:29
+3,1069,Babbling,102,01/01/1900 00:01:42
+3,1069,Babbling,126,01/01/1900 00:02:06
+3,1069,Babbling,128,01/01/1900 00:02:08
+3,1069,Babbling,186,01/01/1900 00:03:06
+3,1069,Babbling,223,01/01/1900 00:03:43
+3,1069,Babbling,259,01/01/1900 00:04:19
+3,1069,Babbling,269,01/01/1900 00:04:29
+3,1069,Babbling,277,01/01/1900 00:04:37
+3,1069,Babbling,286,01/01/1900 00:04:46
+3,1069,Babbling,290,01/01/1900 00:04:50
+3,1069,Babbling,314,01/01/1900 00:05:14
+3,1069,Babbling,326,01/01/1900 00:05:26
+3,1069,Babbling,348,01/01/1900 00:05:48
+3,1069,Babbling,356,01/01/1900 00:05:56
+3,1069,Babbling,403,01/01/1900 00:06:43
+3,1069,Babbling,419,01/01/1900 00:06:59
+3,1069,Babbling,430,01/01/1900 00:07:10
+3,1069,Babbling,435,01/01/1900 00:07:15
+3,1069,Babbling,452,01/01/1900 00:07:32
+3,1069,Babbling,548,01/01/1900 00:09:08
+3,1069,Babbling,589,01/01/1900 00:09:49
+3,1069,Babbling,594,01/01/1900 00:09:54
+3,1069,Babbling,599,01/01/1900 00:09:59
+3,1069,Babbling,647,01/01/1900 00:10:47
+3,1069,Babbling,652,01/01/1900 00:10:52
+3,1069,Babbling,676,01/01/1900 00:11:16
+3,1069,Babbling,700,01/01/1900 00:11:40
+3,1069,Babbling,705,01/01/1900 00:11:45
+3,1069,Babbling,713,01/01/1900 00:11:53
+3,1069,Babbling,727,01/01/1900 00:12:07
+3,1069,Babbling,730,01/01/1900 00:12:10
+3,1069,Babbling,738,01/01/1900 00:12:18
+3,1069,Babbling,740,01/01/1900 00:12:20
+3,1069,Babbling,747,01/01/1900 00:12:27
+3,1069,Babbling,764,01/01/1900 00:12:44
+3,1069,Babbling,772,01/01/1900 00:12:52
+3,1069,Babbling,778,01/01/1900 00:12:58
+3,1069,Babbling,784,01/01/1900 00:13:04
+3,1069,Babbling,827,01/01/1900 00:13:47
+3,1069,Babbling,840,01/01/1900 00:14:00
+3,1069,Babbling,843,01/01/1900 00:14:03
+3,1069,Babbling,1117,01/01/1900 00:18:37
+3,1069,Babbling,1129,01/01/1900 00:18:49
+3,1069,Babbling,1143,01/01/1900 00:19:03
+3,1069,Babbling,1156,01/01/1900 00:19:16
+3,1069,Babbling,1162,01/01/1900 00:19:22
+3,1069,Babbling,1311,01/01/1900 00:21:51
+3,1069,Babbling,1346,01/01/1900 00:22:26
+3,1069,Babbling,1529,01/01/1900 00:25:29
+3,1069,Babbling,1540,01/01/1900 00:25:40
+3,1069,Babbling,1725,01/01/1900 00:28:45
+3,1069,Babbling,1748,01/01/1900 00:29:08
+3,1069,Babbling,1751,01/01/1900 00:29:11
+3,1069,Halt hand,761,01/01/1900 00:12:41
+3,1069,Halt hand,838,01/01/1900 00:13:58
+3,1069,Mutual Gaze,24,01/01/1900 00:00:24
+3,1069,Mutual Gaze,67,01/01/1900 00:01:07
+3,1069,Mutual Gaze,129,01/01/1900 00:02:09
+3,1069,Mutual Gaze,157,01/01/1900 00:02:37
+3,1069,Mutual Gaze,185,01/01/1900 00:03:05
+3,1069,Mutual Gaze,198,01/01/1900 00:03:18
+3,1069,Mutual Gaze,221,01/01/1900 00:03:41
+3,1069,Mutual Gaze,314,01/01/1900 00:05:14
+3,1069,Mutual Gaze,319,01/01/1900 00:05:19
+3,1069,Mutual Gaze,329,01/01/1900 00:05:29
+3,1069,Mutual Gaze,369,01/01/1900 00:06:09
+3,1069,Mutual Gaze,375,01/01/1900 00:06:15
+3,1069,Mutual Gaze,392,01/01/1900 00:06:32
+3,1069,Mutual Gaze,408,01/01/1900 00:06:48
+3,1069,Mutual Gaze,507,01/01/1900 00:08:27
+3,1069,Mutual Gaze,511,01/01/1900 00:08:31
+3,1069,Mutual Gaze,647,01/01/1900 00:10:47
+3,1069,Mutual Gaze,749,01/01/1900 00:12:29
+3,1069,Mutual Gaze,1309,01/01/1900 00:21:49
+3,1069,Reaching towards caregiver,14,01/01/1900 00:00:14
+3,1069,Reaching towards caregiver,116,01/01/1900 00:01:56
+3,1069,Reaching towards caregiver,122,01/01/1900 00:02:02
+3,1069,Reaching towards caregiver,206,01/01/1900 00:03:26
+3,1069,Reaching towards caregiver,223,01/01/1900 00:03:43
+3,1069,Reaching towards caregiver,329,01/01/1900 00:05:29
+3,1069,Reaching towards caregiver,392,01/01/1900 00:06:32
+3,1069,Reaching towards caregiver,394,01/01/1900 00:06:34
+3,1069,Reaching towards caregiver,507,01/01/1900 00:08:27
+3,1069,Reaching towards caregiver,572,01/01/1900 00:09:32
+3,1069,Reaching towards caregiver,1632,01/01/1900 00:27:12
+3,1069,Reaching towards food,356,01/01/1900 00:05:56
+3,1069,Tray pounding,561,01/01/1900 00:09:21
+3,1069,Tray pounding,562,01/01/1900 00:09:22
+3,1069,Tray pounding,563,01/01/1900 00:09:23
+3,1069,Back arching,838,01/01/1900 00:13:58
+3,1069,Spoon/fork to mouth,860,01/01/1900 00:14:20
+3,1069,Spoon/fork to mouth,870,01/01/1900 00:14:30
+3,1069,Spoon/fork to mouth,884,01/01/1900 00:14:44
+3,1069,Spoon/fork to mouth,895,01/01/1900 00:14:55
+3,1069,Spoon/fork to mouth,904,01/01/1900 00:15:04
+3,1069,Spoon/fork to mouth,914,01/01/1900 00:15:14
+3,1069,Spoon/fork to mouth,920,01/01/1900 00:15:20
+3,1069,Spoon/fork to mouth,922,01/01/1900 00:15:22
+3,1069,Spoon/fork to mouth,954,01/01/1900 00:15:54
+3,1069,Spoon/fork to mouth,967,01/01/1900 00:16:07
+3,1069,Spoon/fork to mouth,977,01/01/1900 00:16:17
+3,1069,Spoon/fork to mouth,1005,01/01/1900 00:16:45
+3,1069,Spoon/fork to mouth,1035,01/01/1900 00:17:15
+3,1069,Spoon/fork to mouth,1049,01/01/1900 00:17:29
+3,1069,Spoon/fork to mouth,1060,01/01/1900 00:17:40
+3,1069,Spoon/fork to mouth,1074,01/01/1900 00:17:54
+3,1069,Hand to stomach/mouth,5,01/01/1900 00:00:05
+3,1069,Hand to stomach/mouth,20,01/01/1900 00:00:20
+3,1069,Hand to stomach/mouth,33,01/01/1900 00:00:33
+3,1069,Hand to stomach/mouth,42,01/01/1900 00:00:42
+3,1069,Hand to stomach/mouth,66,01/01/1900 00:01:06
+3,1069,Hand to stomach/mouth,72,01/01/1900 00:01:12
+3,1069,Hand to stomach/mouth,82,01/01/1900 00:01:22
+3,1069,Hand to stomach/mouth,97,01/01/1900 00:01:37
+3,1069,Hand to stomach/mouth,112,01/01/1900 00:01:52
+3,1069,Hand to stomach/mouth,129,01/01/1900 00:02:09
+3,1069,Hand to stomach/mouth,133,01/01/1900 00:02:13
+3,1069,Hand to stomach/mouth,150,01/01/1900 00:02:30
+3,1069,Hand to stomach/mouth,177,01/01/1900 00:02:57
+3,1069,Hand to stomach/mouth,221,01/01/1900 00:03:41
+3,1069,Hand to stomach/mouth,273,01/01/1900 00:04:33
+3,1069,Hand to stomach/mouth,360,01/01/1900 00:06:00
+3,1069,Hand to stomach/mouth,379,01/01/1900 00:06:19
+3,1069,Hand to stomach/mouth,387,01/01/1900 00:06:27
+3,1069,Hand to stomach/mouth,570,01/01/1900 00:09:30
+3,1069,Hand to stomach/mouth,767,01/01/1900 00:12:47
+3,1069,Hand to stomach/mouth,1591,01/01/1900 00:26:31
+3,1069,Head lowering,872,01/01/1900 00:14:32
+3,1069,Looking away,761,01/01/1900 00:12:41
+3,1069,Looking away,814,01/01/1900 00:13:34
+3,1069,Looking away,848,01/01/1900 00:14:08
+3,1069,Looking away,864,01/01/1900 00:14:24
+3,1069,Looking away,872,01/01/1900 00:14:32
+3,1069,Looking away,939,01/01/1900 00:15:39
+3,1069,Looking away,998,01/01/1900 00:16:38
+3,1069,Looking away,1022,01/01/1900 00:17:02
+3,1069,Looking away,1040,01/01/1900 00:17:20
+3,1069,Looking away,1103,01/01/1900 00:18:23
+3,1069,Feeding sounds,97,01/01/1900 00:01:37
+3,1069,Feeding sounds,213,01/01/1900 00:03:33
+3,1069,Feeding sounds,324,01/01/1900 00:05:24
+3,1069,Feeding sounds,330,01/01/1900 00:05:30
+3,1069,Feeding sounds,362,01/01/1900 00:06:02
+3,1069,Feeding sounds,366,01/01/1900 00:06:06
+3,1069,Feeding sounds,368,01/01/1900 00:06:08
+3,1069,Feeding sounds,389,01/01/1900 00:06:29
+3,1069,Feeding sounds,859,01/01/1900 00:14:19
+3,1069,Feeding sounds,1114,01/01/1900 00:18:34
+3,1069,Crying,838,01/01/1900 00:13:58
+3,1069,Crying,1732,01/01/1900 00:28:52
+3,1069,Crying,1753,01/01/1900 00:29:13
+3,1069,Crying,1763,01/01/1900 00:29:23
+3,1069,Fussing,769,01/01/1900 00:12:49
+3,1069,Fussing,811,01/01/1900 00:13:31
+3,1069,Fussing,831,01/01/1900 00:13:51
+3,1069,Fussing,1095,01/01/1900 00:18:15
+3,1069,Fussing,1471,01/01/1900 00:24:31
+3,1069,Fussing,1726,01/01/1900 00:28:46
+3,1069,Overhand beating movements of arms,283,01/01/1900 00:04:43
+3,1069,Overhand beating movements of arms,594,01/01/1900 00:09:54
+3,1069,Pulling away,335,01/01/1900 00:05:35
+3,1069,Pulling away,761,01/01/1900 00:12:41
+3,1069,Pulling away,769,01/01/1900 00:12:49
+3,1069,Pulling away,806,01/01/1900 00:13:26
+3,1069,Pulling away,811,01/01/1900 00:13:31
+3,1069,Pulling away,839,01/01/1900 00:13:59
+3,1069,Pulling away,939,01/01/1900 00:15:39
+3,1069,Pulling away,1092,01/01/1900 00:18:12
+3,1069,Pulling away,1097,01/01/1900 00:18:17
+3,1069,Pulling away,1103,01/01/1900 00:18:23
+3,1069,Pulling away,1117,01/01/1900 00:18:37
+3,1069,Pulling away,1123,01/01/1900 00:18:43
+3,1069,Pulling away,1129,01/01/1900 00:18:49
+3,1069,Pulling away,1162,01/01/1900 00:19:22
+3,1069,Spitting,1778,01/01/1900 00:29:38
+3,1069,Hand behind head/ear/eye,464,01/01/1900 00:07:44
+3,1069,Hand behind head/ear/eye,470,01/01/1900 00:07:50
+3,1069,Hand behind head/ear/eye,475,01/01/1900 00:07:55
+3,1069,Hand behind head/ear/eye,530,01/01/1900 00:08:50
+3,1069,Head raising,793,01/01/1900 00:13:13
+3,1069,Head raising,860,01/01/1900 00:14:20
+3,1069,Head raising,1026,01/01/1900 00:17:06
+3,1069,Tongue show,1126,01/01/1900 00:18:46
+3,1069,Tongue show,1135,01/01/1900 00:18:55
+3,2016,Babbling,48,01/01/1900 00:00:48
+3,2016,Babbling,342,01/01/1900 00:05:42
+3,2016,Babbling,396,01/01/1900 00:06:36
+3,2016,Babbling,564,01/01/1900 00:09:24
+3,2016,Babbling,641,01/01/1900 00:10:41
+3,2016,Babbling,679,01/01/1900 00:11:19
+3,2016,Babbling,685,01/01/1900 00:11:25
+3,2016,Babbling,691,01/01/1900 00:11:31
+3,2016,Babbling,799,01/01/1900 00:13:19
+3,2016,Babbling,804,01/01/1900 00:13:24
+3,2016,Babbling,846,01/01/1900 00:14:06
+3,2016,Babbling,863,01/01/1900 00:14:23
+3,2016,Babbling,870,01/01/1900 00:14:30
+3,2016,Babbling,1064,01/01/1900 00:17:44
+3,2016,Babbling,1082,01/01/1900 00:18:02
+3,2016,Halt hand,825,01/01/1900 00:13:45
+3,2016,Halt hand,859,01/01/1900 00:14:19
+3,2016,Halt hand,1361,01/01/1900 00:22:41
+3,2016,Mutual Gaze,23,01/01/1900 00:00:23
+3,2016,Mutual Gaze,28,01/01/1900 00:00:28
+3,2016,Mutual Gaze,34,01/01/1900 00:00:34
+3,2016,Mutual Gaze,103,01/01/1900 00:01:43
+3,2016,Mutual Gaze,117,01/01/1900 00:01:57
+3,2016,Mutual Gaze,149,01/01/1900 00:02:29
+3,2016,Mutual Gaze,726,01/01/1900 00:12:06
+3,2016,Mutual Gaze,808,01/01/1900 00:13:28
+3,2016,Mutual Gaze,1020,01/01/1900 00:17:00
+3,2016,Reaching towards caregiver,215,01/01/1900 00:03:35
+3,2016,Reaching towards caregiver,347,01/01/1900 00:05:47
+3,2016,Reaching towards caregiver,449,01/01/1900 00:07:29
+3,2016,Reaching towards caregiver,514,01/01/1900 00:08:34
+3,2016,Reaching towards caregiver,521,01/01/1900 00:08:41
+3,2016,Reaching towards caregiver,529,01/01/1900 00:08:49
+3,2016,Reaching towards caregiver,571,01/01/1900 00:09:31
+3,2016,Reaching towards caregiver,624,01/01/1900 00:10:24
+3,2016,Reaching towards caregiver,1019,01/01/1900 00:16:59
+3,2016,Reaching towards caregiver,1035,01/01/1900 00:17:15
+3,2016,Turning head to caregiver,424,01/01/1900 00:07:04
+3,2016,Turning head to caregiver,471,01/01/1900 00:07:51
+3,2016,Turning head to caregiver,673,01/01/1900 00:11:13
+3,2016,Turning head to caregiver,731,01/01/1900 00:12:11
+3,2016,Turning head to caregiver,793,01/01/1900 00:13:13
+3,2016,Turning head to caregiver,1225,01/01/1900 00:20:25
+3,2016,Reaching towards food,1,01/01/1900 00:00:01
+3,2016,Reaching towards food,14,01/01/1900 00:00:14
+3,2016,Reaching towards food,38,01/01/1900 00:00:38
+3,2016,Reaching towards food,52,01/01/1900 00:00:52
+3,2016,Reaching towards food,167,01/01/1900 00:02:47
+3,2016,Reaching towards food,173,01/01/1900 00:02:53
+3,2016,Reaching towards food,179,01/01/1900 00:02:59
+3,2016,Reaching towards food,183,01/01/1900 00:03:03
+3,2016,Reaching towards food,226,01/01/1900 00:03:46
+3,2016,Reaching towards food,273,01/01/1900 00:04:33
+3,2016,Reaching towards food,292,01/01/1900 00:04:52
+3,2016,Reaching towards food,311,01/01/1900 00:05:11
+3,2016,Reaching towards food,316,01/01/1900 00:05:16
+3,2016,Reaching towards food,381,01/01/1900 00:06:21
+3,2016,Reaching towards food,385,01/01/1900 00:06:25
+3,2016,Reaching towards food,451,01/01/1900 00:07:31
+3,2016,Reaching towards food,461,01/01/1900 00:07:41
+3,2016,Reaching towards food,468,01/01/1900 00:07:48
+3,2016,Reaching towards food,532,01/01/1900 00:08:52
+3,2016,Reaching towards food,537,01/01/1900 00:08:57
+3,2016,Reaching towards food,543,01/01/1900 00:09:03
+3,2016,Reaching towards food,550,01/01/1900 00:09:10
+3,2016,Reaching towards food,555,01/01/1900 00:09:15
+3,2016,Reaching towards food,574,01/01/1900 00:09:34
+3,2016,Reaching towards food,581,01/01/1900 00:09:41
+3,2016,Reaching towards food,598,01/01/1900 00:09:58
+3,2016,Reaching towards food,613,01/01/1900 00:10:13
+3,2016,Reaching towards food,630,01/01/1900 00:10:30
+3,2016,Reaching towards food,639,01/01/1900 00:10:39
+3,2016,Reaching towards food,677,01/01/1900 00:11:17
+3,2016,Reaching towards food,976,01/01/1900 00:16:16
+3,2016,Reaching towards food,1026,01/01/1900 00:17:06
+3,2016,Reaching towards food,1039,01/01/1900 00:17:19
+3,2016,Reaching towards food,1104,01/01/1900 00:18:24
+3,2016,Reaching towards food,1144,01/01/1900 00:19:04
+3,2016,Reaching towards food,1592,01/01/1900 00:26:32
+3,2016,Hand to stomach/mouth,22,01/01/1900 00:00:22
+3,2016,Hand to stomach/mouth,67,01/01/1900 00:01:07
+3,2016,Hand to stomach/mouth,77,01/01/1900 00:01:17
+3,2016,Hand to stomach/mouth,90,01/01/1900 00:01:30
+3,2016,Hand to stomach/mouth,105,01/01/1900 00:01:45
+3,2016,Hand to stomach/mouth,124,01/01/1900 00:02:04
+3,2016,Hand to stomach/mouth,165,01/01/1900 00:02:45
+3,2016,Hand to stomach/mouth,192,01/01/1900 00:03:12
+3,2016,Hand to stomach/mouth,204,01/01/1900 00:03:24
+3,2016,Hand to stomach/mouth,208,01/01/1900 00:03:28
+3,2016,Hand to stomach/mouth,219,01/01/1900 00:03:39
+3,2016,Hand to stomach/mouth,233,01/01/1900 00:03:53
+3,2016,Hand to stomach/mouth,240,01/01/1900 00:04:00
+3,2016,Hand to stomach/mouth,249,01/01/1900 00:04:09
+3,2016,Hand to stomach/mouth,253,01/01/1900 00:04:13
+3,2016,Hand to stomach/mouth,269,01/01/1900 00:04:29
+3,2016,Hand to stomach/mouth,277,01/01/1900 00:04:37
+3,2016,Hand to stomach/mouth,287,01/01/1900 00:04:47
+3,2016,Hand to stomach/mouth,296,01/01/1900 00:04:56
+3,2016,Hand to stomach/mouth,305,01/01/1900 00:05:05
+3,2016,Hand to stomach/mouth,369,01/01/1900 00:06:09
+3,2016,Hand to stomach/mouth,387,01/01/1900 00:06:27
+3,2016,Hand to stomach/mouth,405,01/01/1900 00:06:45
+3,2016,Hand to stomach/mouth,452,01/01/1900 00:07:32
+3,2016,Hand to stomach/mouth,482,01/01/1900 00:08:02
+3,2016,Hand to stomach/mouth,491,01/01/1900 00:08:11
+3,2016,Hand to stomach/mouth,504,01/01/1900 00:08:24
+3,2016,Hand to stomach/mouth,519,01/01/1900 00:08:39
+3,2016,Hand to stomach/mouth,558,01/01/1900 00:09:18
+3,2016,Hand to stomach/mouth,583,01/01/1900 00:09:43
+3,2016,Hand to stomach/mouth,591,01/01/1900 00:09:51
+3,2016,Hand to stomach/mouth,983,01/01/1900 00:16:23
+3,2016,Hand to stomach/mouth,997,01/01/1900 00:16:37
+3,2016,Hand to stomach/mouth,1005,01/01/1900 00:16:45
+3,2016,Hand to stomach/mouth,1029,01/01/1900 00:17:09
+3,2016,Hand to stomach/mouth,1056,01/01/1900 00:17:36
+3,2016,Hand to stomach/mouth,1075,01/01/1900 00:17:55
+3,2016,Hand to stomach/mouth,1096,01/01/1900 00:18:16
+3,2016,Hand to stomach/mouth,1137,01/01/1900 00:18:57
+3,2016,Spoon/fork to mouth,42,01/01/1900 00:00:42
+3,2016,Spoon/fork to mouth,708,01/01/1900 00:11:48
+3,2016,Spoon/fork to mouth,812,01/01/1900 00:13:32
+3,2016,Spoon/fork to mouth,819,01/01/1900 00:13:39
+3,2016,Spoon/fork to mouth,839,01/01/1900 00:13:59
+3,2016,Spoon/fork to mouth,859,01/01/1900 00:14:19
+3,2016,Spoon/fork to mouth,1041,01/01/1900 00:17:21
+3,2016,Spoon/fork to mouth,1127,01/01/1900 00:18:47
+3,2016,Spoon/fork to mouth,1156,01/01/1900 00:19:16
+3,2016,Spoon/fork to mouth,1180,01/01/1900 00:19:40
+3,2016,Spoon/fork to mouth,1188,01/01/1900 00:19:48
+3,2016,Spoon/fork to mouth,1198,01/01/1900 00:19:58
+3,2016,Spoon/fork to mouth,1207,01/01/1900 00:20:07
+3,2016,Spoon/fork to mouth,1216,01/01/1900 00:20:16
+3,2016,Spoon/fork to mouth,1222,01/01/1900 00:20:22
+3,2016,Spoon/fork to mouth,1232,01/01/1900 00:20:32
+3,2016,Spoon/fork to mouth,1250,01/01/1900 00:20:50
+3,2016,Spoon/fork to mouth,1262,01/01/1900 00:21:02
+3,2016,Spoon/fork to mouth,1277,01/01/1900 00:21:17
+3,2016,Spoon/fork to mouth,1293,01/01/1900 00:21:33
+3,2016,Spoon/fork to mouth,1304,01/01/1900 00:21:44
+3,2016,Spoon/fork to mouth,1319,01/01/1900 00:21:59
+3,2016,Spoon/fork to mouth,1333,01/01/1900 00:22:13
+3,2016,Spoon/fork to mouth,1346,01/01/1900 00:22:26
+3,2016,Spoon/fork to mouth,1359,01/01/1900 00:22:39
+3,2016,Spoon/fork to mouth,1372,01/01/1900 00:22:52
+3,2016,Head lowering,65,01/01/1900 00:01:05
+3,2016,Head lowering,191,01/01/1900 00:03:11
+3,2016,Head lowering,321,01/01/1900 00:05:21
+3,2016,Head lowering,330,01/01/1900 00:05:30
+3,2016,Head lowering,336,01/01/1900 00:05:36
+3,2016,Head lowering,353,01/01/1900 00:05:53
+3,2016,Head lowering,359,01/01/1900 00:05:59
+3,2016,Head lowering,411,01/01/1900 00:06:51
+3,2016,Head lowering,419,01/01/1900 00:06:59
+3,2016,Head lowering,426,01/01/1900 00:07:06
+3,2016,Head lowering,434,01/01/1900 00:07:14
+3,2016,Head lowering,443,01/01/1900 00:07:23
+3,2016,Head lowering,695,01/01/1900 00:11:35
+3,2016,Head lowering,700,01/01/1900 00:11:40
+3,2016,Head lowering,705,01/01/1900 00:11:45
+3,2016,Head lowering,716,01/01/1900 00:11:56
+3,2016,Head lowering,722,01/01/1900 00:12:02
+3,2016,Head lowering,741,01/01/1900 00:12:21
+3,2016,Head lowering,749,01/01/1900 00:12:29
+3,2016,Head lowering,755,01/01/1900 00:12:35
+3,2016,Head lowering,766,01/01/1900 00:12:46
+3,2016,Head lowering,778,01/01/1900 00:12:58
+3,2016,Head lowering,783,01/01/1900 00:13:03
+3,2016,Head lowering,790,01/01/1900 00:13:10
+3,2016,Head lowering,990,01/01/1900 00:16:30
+3,2016,Head lowering,1113,01/01/1900 00:18:33
+3,2016,Head lowering,1135,01/01/1900 00:18:55
+3,2016,Looking away,16,01/01/1900 00:00:16
+3,2016,Looking away,113,01/01/1900 00:01:53
+3,2016,Looking away,135,01/01/1900 00:02:15
+3,2016,Looking away,138,01/01/1900 00:02:18
+3,2016,Looking away,153,01/01/1900 00:02:33
+3,2016,Looking away,235,01/01/1900 00:03:55
+3,2016,Looking away,478,01/01/1900 00:07:58
+3,2016,Looking away,486,01/01/1900 00:08:06
+3,2016,Looking away,501,01/01/1900 00:08:21
+3,2016,Looking away,615,01/01/1900 00:10:15
+3,2016,Looking away,649,01/01/1900 00:10:49
+3,2016,Looking away,655,01/01/1900 00:10:55
+3,2016,Looking away,660,01/01/1900 00:11:00
+3,2016,Looking away,666,01/01/1900 00:11:06
+3,2016,Looking away,671,01/01/1900 00:11:11
+3,2016,Looking away,744,01/01/1900 00:12:24
+3,2016,Looking away,772,01/01/1900 00:12:52
+3,2016,Looking away,1052,01/01/1900 00:17:32
+3,2016,Looking away,1238,01/01/1900 00:20:38
+3,2016,Looking away,1248,01/01/1900 00:20:48
+3,2016,Looking away,1257,01/01/1900 00:20:57
+3,2016,Looking away,1310,01/01/1900 00:21:50
+3,2016,Lateral head shake,39,01/01/1900 00:00:39
+3,2016,Lateral head shake,100,01/01/1900 00:01:40
+3,2016,Lateral head shake,685,01/01/1900 00:11:25
+3,2016,Lateral head shake,813,01/01/1900 00:13:33
+3,2016,Lateral head shake,820,01/01/1900 00:13:40
+3,2016,Lateral head shake,832,01/01/1900 00:13:52
+3,2016,Lateral head shake,840,01/01/1900 00:14:00
+3,2016,Lateral head shake,1157,01/01/1900 00:19:17
+3,2016,Lateral head shake,1274,01/01/1900 00:21:14
+3,2016,Lateral head shake,1297,01/01/1900 00:21:37
+3,2016,Pulling away,854,01/01/1900 00:14:14
+3,2016,Saying no,827,01/01/1900 00:13:47
+3,2016,Join hands,6,01/01/1900 00:00:06
+3,2016,Join hands,74,01/01/1900 00:01:14
+3,2016,Join hands,85,01/01/1900 00:01:25
+3,2016,Join hands,248,01/01/1900 00:04:08
+3,2016,Join hands,260,01/01/1900 00:04:20
+3,2016,Join hands,267,01/01/1900 00:04:27
+3,2016,Join hands,303,01/01/1900 00:05:03
+3,2016,Join hands,1091,01/01/1900 00:18:11
+3,2016,Tongue show,851,01/01/1900 00:14:11
+3,2052,Babbling,41,01/01/1900 00:00:41
+3,2052,Babbling,185,01/01/1900 00:03:05
+3,2052,Babbling,280,01/01/1900 00:04:40
+3,2052,Babbling,331,01/01/1900 00:05:31
+3,2052,Babbling,382,01/01/1900 00:06:22
+3,2052,Babbling,570,01/01/1900 00:09:30
+3,2052,Babbling,591,01/01/1900 00:09:51
+3,2052,Babbling,612,01/01/1900 00:10:12
+3,2052,Babbling,632,01/01/1900 00:10:32
+3,2052,Babbling,643,01/01/1900 00:10:43
+3,2052,Babbling,648,01/01/1900 00:10:48
+3,2052,Babbling,691,01/01/1900 00:11:31
+3,2052,Babbling,742,01/01/1900 00:12:22
+3,2052,Babbling,779,01/01/1900 00:12:59
+3,2052,Babbling,787,01/01/1900 00:13:07
+3,2052,Babbling,824,01/01/1900 00:13:44
+3,2052,Babbling,1168,01/01/1900 00:19:28
+3,2052,Babbling,1186,01/01/1900 00:19:46
+3,2052,Babbling,1230,01/01/1900 00:20:30
+3,2052,Babbling,1244,01/01/1900 00:20:44
+3,2052,Mutual Gaze,750,01/01/1900 00:12:30
+3,2052,Mutual Gaze,801,01/01/1900 00:13:21
+3,2052,Mutual Gaze,847,01/01/1900 00:14:07
+3,2052,Reaching towards caregiver,446,01/01/1900 00:07:26
+3,2052,Reaching towards caregiver,508,01/01/1900 00:08:28
+3,2052,Reaching towards caregiver,569,01/01/1900 00:09:29
+3,2052,Reaching towards caregiver,654,01/01/1900 00:10:54
+3,2052,Reaching towards caregiver,679,01/01/1900 00:11:19
+3,2052,Reaching towards caregiver,900,01/01/1900 00:15:00
+3,2052,Reaching towards caregiver,926,01/01/1900 00:15:26
+3,2052,Reaching towards caregiver,950,01/01/1900 00:15:50
+3,2052,Reaching towards caregiver,957,01/01/1900 00:15:57
+3,2052,Reaching towards caregiver,990,01/01/1900 00:16:30
+3,2052,Reaching towards caregiver,994,01/01/1900 00:16:34
+3,2052,Reaching towards caregiver,1020,01/01/1900 00:17:00
+3,2052,Reaching towards caregiver,1044,01/01/1900 00:17:24
+3,2052,Reaching towards caregiver,1065,01/01/1900 00:17:45
+3,2052,Reaching towards caregiver,1069,01/01/1900 00:17:49
+3,2052,Reaching towards caregiver,1103,01/01/1900 00:18:23
+3,2052,Reaching towards caregiver,1113,01/01/1900 00:18:33
+3,2052,Reaching towards caregiver,1141,01/01/1900 00:19:01
+3,2052,Reaching towards caregiver,1150,01/01/1900 00:19:10
+3,2052,Reaching towards caregiver,1157,01/01/1900 00:19:17
+3,2052,Reaching towards caregiver,1162,01/01/1900 00:19:22
+3,2052,Reaching towards caregiver,1176,01/01/1900 00:19:36
+3,2052,Reaching towards caregiver,1203,01/01/1900 00:20:03
+3,2052,Reaching towards caregiver,1214,01/01/1900 00:20:14
+3,2052,Turning head to caregiver,24,01/01/1900 00:00:24
+3,2052,Turning head to caregiver,43,01/01/1900 00:00:43
+3,2052,Turning head to caregiver,50,01/01/1900 00:00:50
+3,2052,Turning head to caregiver,75,01/01/1900 00:01:15
+3,2052,Turning head to caregiver,157,01/01/1900 00:02:37
+3,2052,Turning head to caregiver,194,01/01/1900 00:03:14
+3,2052,Turning head to caregiver,270,01/01/1900 00:04:30
+3,2052,Turning head to caregiver,307,01/01/1900 00:05:07
+3,2052,Turning head to caregiver,321,01/01/1900 00:05:21
+3,2052,Turning head to caregiver,409,01/01/1900 00:06:49
+3,2052,Turning head to caregiver,424,01/01/1900 00:07:04
+3,2052,Turning head to caregiver,501,01/01/1900 00:08:21
+3,2052,Turning head to caregiver,557,01/01/1900 00:09:17
+3,2052,Turning head to caregiver,617,01/01/1900 00:10:17
+3,2052,Turning head to caregiver,652,01/01/1900 00:10:52
+3,2052,Turning head to caregiver,707,01/01/1900 00:11:47
+3,2052,Turning head to caregiver,807,01/01/1900 00:13:27
+3,2052,Turning head to caregiver,842,01/01/1900 00:14:02
+3,2052,Turning head to caregiver,893,01/01/1900 00:14:53
+3,2052,Turning head to caregiver,978,01/01/1900 00:16:18
+3,2052,Turning head to caregiver,1199,01/01/1900 00:19:59
+3,2052,Reaching towards food,11,01/01/1900 00:00:11
+3,2052,Reaching towards food,61,01/01/1900 00:01:01
+3,2052,Reaching towards food,66,01/01/1900 00:01:06
+3,2052,Reaching towards food,76,01/01/1900 00:01:16
+3,2052,Reaching towards food,80,01/01/1900 00:01:20
+3,2052,Reaching towards food,95,01/01/1900 00:01:35
+3,2052,Reaching towards food,104,01/01/1900 00:01:44
+3,2052,Reaching towards food,112,01/01/1900 00:01:52
+3,2052,Reaching towards food,116,01/01/1900 00:01:56
+3,2052,Reaching towards food,145,01/01/1900 00:02:25
+3,2052,Reaching towards food,161,01/01/1900 00:02:41
+3,2052,Reaching towards food,165,01/01/1900 00:02:45
+3,2052,Reaching towards food,173,01/01/1900 00:02:53
+3,2052,Reaching towards food,181,01/01/1900 00:03:01
+3,2052,Reaching towards food,190,01/01/1900 00:03:10
+3,2052,Reaching towards food,218,01/01/1900 00:03:38
+3,2052,Reaching towards food,229,01/01/1900 00:03:49
+3,2052,Reaching towards food,235,01/01/1900 00:03:55
+3,2052,Reaching towards food,237,01/01/1900 00:03:57
+3,2052,Reaching towards food,243,01/01/1900 00:04:03
+3,2052,Reaching towards food,251,01/01/1900 00:04:11
+3,2052,Reaching towards food,259,01/01/1900 00:04:19
+3,2052,Reaching towards food,275,01/01/1900 00:04:35
+3,2052,Reaching towards food,288,01/01/1900 00:04:48
+3,2052,Reaching towards food,298,01/01/1900 00:04:58
+3,2052,Reaching towards food,311,01/01/1900 00:05:11
+3,2052,Reaching towards food,345,01/01/1900 00:05:45
+3,2052,Reaching towards food,350,01/01/1900 00:05:50
+3,2052,Reaching towards food,354,01/01/1900 00:05:54
+3,2052,Reaching towards food,360,01/01/1900 00:06:00
+3,2052,Reaching towards food,376,01/01/1900 00:06:16
+3,2052,Reaching towards food,387,01/01/1900 00:06:27
+3,2052,Reaching towards food,392,01/01/1900 00:06:32
+3,2052,Reaching towards food,428,01/01/1900 00:07:08
+3,2052,Reaching towards food,436,01/01/1900 00:07:16
+3,2052,Reaching towards food,439,01/01/1900 00:07:19
+3,2052,Reaching towards food,441,01/01/1900 00:07:21
+3,2052,Reaching towards food,448,01/01/1900 00:07:28
+3,2052,Reaching towards food,468,01/01/1900 00:07:48
+3,2052,Reaching towards food,487,01/01/1900 00:08:07
+3,2052,Reaching towards food,495,01/01/1900 00:08:15
+3,2052,Reaching towards food,497,01/01/1900 00:08:17
+3,2052,Reaching towards food,510,01/01/1900 00:08:30
+3,2052,Reaching towards food,539,01/01/1900 00:08:59
+3,2052,Reaching towards food,551,01/01/1900 00:09:11
+3,2052,Reaching towards food,563,01/01/1900 00:09:23
+3,2052,Reaching towards food,575,01/01/1900 00:09:35
+3,2052,Reaching towards food,581,01/01/1900 00:09:41
+3,2052,Reaching towards food,612,01/01/1900 00:10:12
+3,2052,Reaching towards food,622,01/01/1900 00:10:22
+3,2052,Reaching towards food,636,01/01/1900 00:10:36
+3,2052,Reaching towards food,661,01/01/1900 00:11:01
+3,2052,Reaching towards food,668,01/01/1900 00:11:08
+3,2052,Reaching towards food,682,01/01/1900 00:11:22
+3,2052,Reaching towards food,689,01/01/1900 00:11:29
+3,2052,Reaching towards food,704,01/01/1900 00:11:44
+3,2052,Reaching towards food,720,01/01/1900 00:12:00
+3,2052,Reaching towards food,725,01/01/1900 00:12:05
+3,2052,Reaching towards food,728,01/01/1900 00:12:08
+3,2052,Reaching towards food,759,01/01/1900 00:12:39
+3,2052,Reaching towards food,828,01/01/1900 00:13:48
+3,2052,Reaching towards food,835,01/01/1900 00:13:55
+3,2052,Reaching towards food,840,01/01/1900 00:14:00
+3,2052,Reaching towards food,876,01/01/1900 00:14:36
+3,2052,Reaching towards food,891,01/01/1900 00:14:51
+3,2052,Reaching towards food,900.5,01/01/1900 00:15:01
+3,2052,Reaching towards food,937,01/01/1900 00:15:37
+3,2052,Reaching towards food,960,01/01/1900 00:16:00
+3,2052,Reaching towards food,1001,01/01/1900 00:16:41
+3,2052,Reaching towards food,1054,01/01/1900 00:17:34
+3,2052,Reaching towards food,1073,01/01/1900 00:17:53
+3,2052,Reaching towards food,1106,01/01/1900 00:18:26
+3,2052,Reaching towards food,1119,01/01/1900 00:18:39
+3,2052,Reaching towards food,1133,01/01/1900 00:18:53
+3,2052,Reaching towards food,1146,01/01/1900 00:19:06
+3,2052,Reaching towards food,1180,01/01/1900 00:19:40
+3,2052,Reaching towards food,1205,01/01/1900 00:20:05
+3,2052,Back arching,859,01/01/1900 00:14:19
+3,2052,Hand to stomach/mouth,12,01/01/1900 00:00:12
+3,2052,Hand to stomach/mouth,21,01/01/1900 00:00:21
+3,2052,Hand to stomach/mouth,29,01/01/1900 00:00:29
+3,2052,Hand to stomach/mouth,37,01/01/1900 00:00:37
+3,2052,Hand to stomach/mouth,51,01/01/1900 00:00:51
+3,2052,Hand to stomach/mouth,57,01/01/1900 00:00:57
+3,2052,Hand to stomach/mouth,62,01/01/1900 00:01:02
+3,2052,Hand to stomach/mouth,70,01/01/1900 00:01:10
+3,2052,Hand to stomach/mouth,77,01/01/1900 00:01:17
+3,2052,Hand to stomach/mouth,81,01/01/1900 00:01:21
+3,2052,Hand to stomach/mouth,87,01/01/1900 00:01:27
+3,2052,Hand to stomach/mouth,96,01/01/1900 00:01:36
+3,2052,Hand to stomach/mouth,106,01/01/1900 00:01:46
+3,2052,Hand to stomach/mouth,113,01/01/1900 00:01:53
+3,2052,Hand to stomach/mouth,117,01/01/1900 00:01:57
+3,2052,Hand to stomach/mouth,162,01/01/1900 00:02:42
+3,2052,Hand to stomach/mouth,174,01/01/1900 00:02:54
+3,2052,Hand to stomach/mouth,226,01/01/1900 00:03:46
+3,2052,Hand to stomach/mouth,230,01/01/1900 00:03:50
+3,2052,Hand to stomach/mouth,236,01/01/1900 00:03:56
+3,2052,Hand to stomach/mouth,238,01/01/1900 00:03:58
+3,2052,Hand to stomach/mouth,244,01/01/1900 00:04:04
+3,2052,Hand to stomach/mouth,254,01/01/1900 00:04:14
+3,2052,Hand to stomach/mouth,264,01/01/1900 00:04:24
+3,2052,Hand to stomach/mouth,276,01/01/1900 00:04:36
+3,2052,Hand to stomach/mouth,289,01/01/1900 00:04:49
+3,2052,Hand to stomach/mouth,301,01/01/1900 00:05:01
+3,2052,Hand to stomach/mouth,315,01/01/1900 00:05:15
+3,2052,Hand to stomach/mouth,346,01/01/1900 00:05:46
+3,2052,Hand to stomach/mouth,351,01/01/1900 00:05:51
+3,2052,Hand to stomach/mouth,356,01/01/1900 00:05:56
+3,2052,Hand to stomach/mouth,361,01/01/1900 00:06:01
+3,2052,Hand to stomach/mouth,377,01/01/1900 00:06:17
+3,2052,Hand to stomach/mouth,389,01/01/1900 00:06:29
+3,2052,Hand to stomach/mouth,394,01/01/1900 00:06:34
+3,2052,Hand to stomach/mouth,419,01/01/1900 00:06:59
+3,2052,Hand to stomach/mouth,429,01/01/1900 00:07:09
+3,2052,Hand to stomach/mouth,437,01/01/1900 00:07:17
+3,2052,Hand to stomach/mouth,440,01/01/1900 00:07:20
+3,2052,Hand to stomach/mouth,442,01/01/1900 00:07:22
+3,2052,Hand to stomach/mouth,449,01/01/1900 00:07:29
+3,2052,Hand to stomach/mouth,469,01/01/1900 00:07:49
+3,2052,Hand to stomach/mouth,488,01/01/1900 00:08:08
+3,2052,Hand to stomach/mouth,496,01/01/1900 00:08:16
+3,2052,Hand to stomach/mouth,498,01/01/1900 00:08:18
+3,2052,Hand to stomach/mouth,521,01/01/1900 00:08:41
+3,2052,Hand to stomach/mouth,528,01/01/1900 00:08:48
+3,2052,Hand to stomach/mouth,541,01/01/1900 00:09:01
+3,2052,Hand to stomach/mouth,546,01/01/1900 00:09:06
+3,2052,Hand to stomach/mouth,552,01/01/1900 00:09:12
+3,2052,Hand to stomach/mouth,565,01/01/1900 00:09:25
+3,2052,Hand to stomach/mouth,576,01/01/1900 00:09:36
+3,2052,Hand to stomach/mouth,582,01/01/1900 00:09:42
+3,2052,Hand to stomach/mouth,587,01/01/1900 00:09:47
+3,2052,Hand to stomach/mouth,613,01/01/1900 00:10:13
+3,2052,Hand to stomach/mouth,623,01/01/1900 00:10:23
+3,2052,Hand to stomach/mouth,638,01/01/1900 00:10:38
+3,2052,Hand to stomach/mouth,662,01/01/1900 00:11:02
+3,2052,Hand to stomach/mouth,669,01/01/1900 00:11:09
+3,2052,Hand to stomach/mouth,685,01/01/1900 00:11:25
+3,2052,Hand to stomach/mouth,690,01/01/1900 00:11:30
+3,2052,Hand to stomach/mouth,705,01/01/1900 00:11:45
+3,2052,Hand to stomach/mouth,711,01/01/1900 00:11:51
+3,2052,Hand to stomach/mouth,721,01/01/1900 00:12:01
+3,2052,Hand to stomach/mouth,726,01/01/1900 00:12:06
+3,2052,Hand to stomach/mouth,732,01/01/1900 00:12:12
+3,2052,Hand to stomach/mouth,737,01/01/1900 00:12:17
+3,2052,Hand to stomach/mouth,746,01/01/1900 00:12:26
+3,2052,Hand to stomach/mouth,760,01/01/1900 00:12:40
+3,2052,Hand to stomach/mouth,797,01/01/1900 00:13:17
+3,2052,Hand to stomach/mouth,829,01/01/1900 00:13:49
+3,2052,Hand to stomach/mouth,836,01/01/1900 00:13:56
+3,2052,Hand to stomach/mouth,843,01/01/1900 00:14:03
+3,2052,Hand to stomach/mouth,878,01/01/1900 00:14:38
+3,2052,Hand to stomach/mouth,895,01/01/1900 00:14:55
+3,2052,Hand to stomach/mouth,902,01/01/1900 00:15:02
+3,2052,Hand to stomach/mouth,913,01/01/1900 00:15:13
+3,2052,Hand to stomach/mouth,938,01/01/1900 00:15:38
+3,2052,Hand to stomach/mouth,961,01/01/1900 00:16:01
+3,2052,Hand to stomach/mouth,1002,01/01/1900 00:16:42
+3,2052,Hand to stomach/mouth,1014,01/01/1900 00:16:54
+3,2052,Hand to stomach/mouth,1028,01/01/1900 00:17:08
+3,2052,Hand to stomach/mouth,1039,01/01/1900 00:17:19
+3,2052,Hand to stomach/mouth,1057,01/01/1900 00:17:37
+3,2052,Hand to stomach/mouth,1066,01/01/1900 00:17:46
+3,2052,Hand to stomach/mouth,1074,01/01/1900 00:17:54
+3,2052,Hand to stomach/mouth,1086,01/01/1900 00:18:06
+3,2052,Hand to stomach/mouth,1093,01/01/1900 00:18:13
+3,2052,Hand to stomach/mouth,1098,01/01/1900 00:18:18
+3,2052,Hand to stomach/mouth,1107,01/01/1900 00:18:27
+3,2052,Hand to stomach/mouth,1206,01/01/1900 00:20:06
+3,2052,Spitting,1140,01/01/1900 00:19:00
+3,2054,Babbling,174,01/01/1900 00:02:54
+3,2054,Babbling,302,01/01/1900 00:05:02
+3,2054,Babbling,359,01/01/1900 00:05:59
+3,2054,Babbling,369,01/01/1900 00:06:09
+3,2054,Babbling,376,01/01/1900 00:06:16
+3,2054,Babbling,447,01/01/1900 00:07:27
+3,2054,Babbling,527,01/01/1900 00:08:47
+3,2054,Mutual Gaze,366,01/01/1900 00:06:06
+3,2054,Reaching towards caregiver,185,01/01/1900 00:03:05
+3,2054,Reaching towards caregiver,247,01/01/1900 00:04:07
+3,2054,Reaching towards caregiver,260,01/01/1900 00:04:20
+3,2054,Reaching towards caregiver,283,01/01/1900 00:04:43
+3,2054,Reaching towards caregiver,310,01/01/1900 00:05:10
+3,2054,Reaching towards caregiver,362,01/01/1900 00:06:02
+3,2054,Reaching towards caregiver,478,01/01/1900 00:07:58
+3,2054,Reaching towards caregiver,523,01/01/1900 00:08:43
+3,2054,Turning head to caregiver,12,01/01/1900 00:00:12
+3,2054,Turning head to caregiver,410,01/01/1900 00:06:50
+3,2054,Reaching towards food,1,01/01/1900 00:00:01
+3,2054,Reaching towards food,32,01/01/1900 00:00:32
+3,2054,Reaching towards food,52,01/01/1900 00:00:52
+3,2054,Reaching towards food,54,01/01/1900 00:00:54
+3,2054,Reaching towards food,59,01/01/1900 00:00:59
+3,2054,Reaching towards food,66,01/01/1900 00:01:06
+3,2054,Reaching towards food,89,01/01/1900 00:01:29
+3,2054,Reaching towards food,96,01/01/1900 00:01:36
+3,2054,Reaching towards food,104,01/01/1900 00:01:44
+3,2054,Reaching towards food,115,01/01/1900 00:01:55
+3,2054,Reaching towards food,119,01/01/1900 00:01:59
+3,2054,Reaching towards food,129,01/01/1900 00:02:09
+3,2054,Reaching towards food,160,01/01/1900 00:02:40
+3,2054,Reaching towards food,168,01/01/1900 00:02:48
+3,2054,Reaching towards food,172,01/01/1900 00:02:52
+3,2054,Reaching towards food,175,01/01/1900 00:02:55
+3,2054,Reaching towards food,191,01/01/1900 00:03:11
+3,2054,Reaching towards food,228,01/01/1900 00:03:48
+3,2054,Reaching towards food,288,01/01/1900 00:04:48
+3,2054,Reaching towards food,318,01/01/1900 00:05:18
+3,2054,Reaching towards food,332,01/01/1900 00:05:32
+3,2054,Reaching towards food,418,01/01/1900 00:06:58
+3,2054,Reaching towards food,443,01/01/1900 00:07:23
+3,2054,Reaching towards food,458,01/01/1900 00:07:38
+3,2054,Reaching towards food,490,01/01/1900 00:08:10
+3,2054,Reaching towards food,499,01/01/1900 00:08:19
+3,2054,Reaching towards food,507,01/01/1900 00:08:27
+3,2054,Reaching towards food,513,01/01/1900 00:08:33
+3,2054,Reaching towards food,531,01/01/1900 00:08:51
+3,2054,Hand to stomach/mouth,2,01/01/1900 00:00:02
+3,2054,Hand to stomach/mouth,34,01/01/1900 00:00:34
+3,2054,Hand to stomach/mouth,78,01/01/1900 00:01:18
+3,2054,Hand to stomach/mouth,90,01/01/1900 00:01:30
+3,2054,Hand to stomach/mouth,98,01/01/1900 00:01:38
+3,2054,Hand to stomach/mouth,105,01/01/1900 00:01:45
+3,2054,Hand to stomach/mouth,116,01/01/1900 00:01:56
+3,2054,Hand to stomach/mouth,121,01/01/1900 00:02:01
+3,2054,Hand to stomach/mouth,130,01/01/1900 00:02:10
+3,2054,Hand to stomach/mouth,161,01/01/1900 00:02:41
+3,2054,Hand to stomach/mouth,170,01/01/1900 00:02:50
+3,2054,Hand to stomach/mouth,173,01/01/1900 00:02:53
+3,2054,Hand to stomach/mouth,176,01/01/1900 00:02:56
+3,2054,Hand to stomach/mouth,192,01/01/1900 00:03:12
+3,2054,Hand to stomach/mouth,203,01/01/1900 00:03:23
+3,2054,Hand to stomach/mouth,229,01/01/1900 00:03:49
+3,2054,Hand to stomach/mouth,244,01/01/1900 00:04:04
+3,2054,Hand to stomach/mouth,256,01/01/1900 00:04:16
+3,2054,Hand to stomach/mouth,266,01/01/1900 00:04:26
+3,2054,Hand to stomach/mouth,269,01/01/1900 00:04:29
+3,2054,Hand to stomach/mouth,277,01/01/1900 00:04:37
+3,2054,Hand to stomach/mouth,289,01/01/1900 00:04:49
+3,2054,Hand to stomach/mouth,294,01/01/1900 00:04:54
+3,2054,Hand to stomach/mouth,309,01/01/1900 00:05:09
+3,2054,Hand to stomach/mouth,322,01/01/1900 00:05:22
+3,2054,Hand to stomach/mouth,339,01/01/1900 00:05:39
+3,2054,Hand to stomach/mouth,343,01/01/1900 00:05:43
+3,2054,Hand to stomach/mouth,365,01/01/1900 00:06:05
+3,2054,Hand to stomach/mouth,419,01/01/1900 00:06:59
+3,2054,Hand to stomach/mouth,444,01/01/1900 00:07:24
+3,2054,Hand to stomach/mouth,459,01/01/1900 00:07:39
+3,2054,Hand to stomach/mouth,482,01/01/1900 00:08:02
+3,2054,Hand to stomach/mouth,491,01/01/1900 00:08:11
+3,2054,Spoon/fork to mouth,210,01/01/1900 00:03:30
+3,2054,Spoon/fork to mouth,537,01/01/1900 00:08:57
+3,2054,Looking away,17,01/01/1900 00:00:17
+3,2054,Looking away,29,01/01/1900 00:00:29
+3,2054,Looking away,45,01/01/1900 00:00:45
+3,2054,Looking away,53,01/01/1900 00:00:53
+3,2054,Looking away,55,01/01/1900 00:00:55
+3,2054,Looking away,60,01/01/1900 00:01:00
+3,2054,Looking away,68,01/01/1900 00:01:08
+3,2054,Looking away,77,01/01/1900 00:01:17
+3,2054,Looking away,125,01/01/1900 00:02:05
+3,2054,Looking away,136,01/01/1900 00:02:16
+3,2054,Looking away,144,01/01/1900 00:02:24
+3,2054,Looking away,153,01/01/1900 00:02:33
+3,2054,Looking away,199,01/01/1900 00:03:19
+3,2054,Looking away,219,01/01/1900 00:03:39
+3,2054,Looking away,224,01/01/1900 00:03:44
+3,2054,Looking away,243,01/01/1900 00:04:03
+3,2054,Looking away,275,01/01/1900 00:04:35
+3,2054,Looking away,329,01/01/1900 00:05:29
+3,2054,Looking away,350,01/01/1900 00:05:50
+3,2054,Looking away,390,01/01/1900 00:06:30
+3,2054,Looking away,399,01/01/1900 00:06:39
+3,2054,Looking away,440,01/01/1900 00:07:20
+3,2054,Looking away,453,01/01/1900 00:07:33
+3,2054,Looking away,467,01/01/1900 00:07:47
+3,2054,Looking away,543,01/01/1900 00:09:03
+3,2054,Looking away,550,01/01/1900 00:09:10
+3,2054,Looking away,560,01/01/1900 00:09:20
+3,2062,Babbling,5,01/01/1900 00:00:05
+3,2062,Babbling,23,01/01/1900 00:00:23
+3,2062,Babbling,48,01/01/1900 00:00:48
+3,2062,Babbling,69,01/01/1900 00:01:09
+3,2062,Babbling,118,01/01/1900 00:01:58
+3,2062,Babbling,150,01/01/1900 00:02:30
+3,2062,Babbling,155,01/01/1900 00:02:35
+3,2062,Babbling,167,01/01/1900 00:02:47
+3,2062,Babbling,187,01/01/1900 00:03:07
+3,2062,Babbling,192,01/01/1900 00:03:12
+3,2062,Babbling,196,01/01/1900 00:03:16
+3,2062,Babbling,228,01/01/1900 00:03:48
+3,2062,Babbling,235,01/01/1900 00:03:55
+3,2062,Babbling,241,01/01/1900 00:04:01
+3,2062,Babbling,283,01/01/1900 00:04:43
+3,2062,Babbling,375,01/01/1900 00:06:15
+3,2062,Babbling,392,01/01/1900 00:06:32
+3,2062,Babbling,429,01/01/1900 00:07:09
+3,2062,Babbling,438,01/01/1900 00:07:18
+3,2062,Halt hand,129.5,01/01/1900 00:02:10
+3,2062,Mutual Gaze,193,01/01/1900 00:03:13
+3,2062,Mutual Gaze,300,01/01/1900 00:05:00
+3,2062,Mutual Gaze,325,01/01/1900 00:05:25
+3,2062,Mutual Gaze,340,01/01/1900 00:05:40
+3,2062,Mutual Gaze,345,01/01/1900 00:05:45
+3,2062,Mutual Gaze,362,01/01/1900 00:06:02
+3,2062,Mutual Gaze,373,01/01/1900 00:06:13
+3,2062,Mutual Gaze,377,01/01/1900 00:06:17
+3,2062,Turning head to caregiver,219,01/01/1900 00:03:39
+3,2062,Turning head to caregiver,290,01/01/1900 00:04:50
+3,2062,Reaching towards food,61,01/01/1900 00:01:01
+3,2062,Reaching towards food,107,01/01/1900 00:01:47
+3,2062,Reaching towards food,295,01/01/1900 00:04:55
+3,2062,Reaching towards food,311,01/01/1900 00:05:11
+3,2062,Reaching towards food,321,01/01/1900 00:05:21
+3,2062,Reaching towards food,328,01/01/1900 00:05:28
+3,2062,Reaching towards food,352,01/01/1900 00:05:52
+3,2062,Reaching towards food,358,01/01/1900 00:05:58
+3,2062,Reaching towards food,370,01/01/1900 00:06:10
+3,2062,Reaching towards food,382,01/01/1900 00:06:22
+3,2062,Reaching towards food,402,01/01/1900 00:06:42
+3,2062,Reaching towards food,417,01/01/1900 00:06:57
+3,2062,Feeding posture,196.1,01/01/1900 00:03:16
+3,2062,Hand to stomach/mouth,166,01/01/1900 00:02:46
+3,2062,Spoon/fork to mouth,12,01/01/1900 00:00:12
+3,2062,Spoon/fork to mouth,19,01/01/1900 00:00:19
+3,2062,Spoon/fork to mouth,28,01/01/1900 00:00:28
+3,2062,Spoon/fork to mouth,38,01/01/1900 00:00:38
+3,2062,Spoon/fork to mouth,43,01/01/1900 00:00:43
+3,2062,Spoon/fork to mouth,49,01/01/1900 00:00:49
+3,2062,Spoon/fork to mouth,62,01/01/1900 00:01:02
+3,2062,Spoon/fork to mouth,74,01/01/1900 00:01:14
+3,2062,Spoon/fork to mouth,83,01/01/1900 00:01:23
+3,2062,Spoon/fork to mouth,89,01/01/1900 00:01:29
+3,2062,Spoon/fork to mouth,96,01/01/1900 00:01:36
+3,2062,Spoon/fork to mouth,104,01/01/1900 00:01:44
+3,2062,Spoon/fork to mouth,110,01/01/1900 00:01:50
+3,2062,Spoon/fork to mouth,115,01/01/1900 00:01:55
+3,2062,Spoon/fork to mouth,124,01/01/1900 00:02:04
+3,2062,Spoon/fork to mouth,129,01/01/1900 00:02:09
+3,2062,Spoon/fork to mouth,158,01/01/1900 00:02:38
+3,2062,Spoon/fork to mouth,163,01/01/1900 00:02:43
+3,2062,Spoon/fork to mouth,180,01/01/1900 00:03:00
+3,2062,Spoon/fork to mouth,189,01/01/1900 00:03:09
+3,2062,Spoon/fork to mouth,198,01/01/1900 00:03:18
+3,2062,Spoon/fork to mouth,208,01/01/1900 00:03:28
+3,2062,Spoon/fork to mouth,215,01/01/1900 00:03:35
+3,2062,Spoon/fork to mouth,223,01/01/1900 00:03:43
+3,2062,Spoon/fork to mouth,242,01/01/1900 00:04:02
+3,2062,Spoon/fork to mouth,286,01/01/1900 00:04:46
+3,2062,Spoon/fork to mouth,291,01/01/1900 00:04:51
+3,2062,Spoon/fork to mouth,298,01/01/1900 00:04:58
+3,2062,Spoon/fork to mouth,307,01/01/1900 00:05:07
+3,2062,Spoon/fork to mouth,309,01/01/1900 00:05:09
+3,2062,Spoon/fork to mouth,312,01/01/1900 00:05:12
+3,2062,Spoon/fork to mouth,318,01/01/1900 00:05:18
+3,2062,Spoon/fork to mouth,322,01/01/1900 00:05:22
+3,2062,Spoon/fork to mouth,330,01/01/1900 00:05:30
+3,2062,Spoon/fork to mouth,339,01/01/1900 00:05:39
+3,2062,Spoon/fork to mouth,348,01/01/1900 00:05:48
+3,2062,Spoon/fork to mouth,356,01/01/1900 00:05:56
+3,2062,Spoon/fork to mouth,360,01/01/1900 00:06:00
+3,2062,Spoon/fork to mouth,366,01/01/1900 00:06:06
+3,2062,Spoon/fork to mouth,372,01/01/1900 00:06:12
+3,2062,Spoon/fork to mouth,378,01/01/1900 00:06:18
+3,2062,Spoon/fork to mouth,383,01/01/1900 00:06:23
+3,2062,Spoon/fork to mouth,395,01/01/1900 00:06:35
+3,2062,Spoon/fork to mouth,397,01/01/1900 00:06:37
+3,2062,Spoon/fork to mouth,404,01/01/1900 00:06:44
+3,2062,Spoon/fork to mouth,411,01/01/1900 00:06:51
+3,2062,Spoon/fork to mouth,408,01/01/1900 00:06:48
+3,2062,Looking away,496,01/01/1900 00:08:16
+3,2062,Fussing,142,01/01/1900 00:02:22
+3,2062,Lateral head shake,142.1,01/01/1900 00:02:22
+3,2062,Lateral head shake,180.1,01/01/1900 00:03:00
+3,2062,Lateral head shake,216.1,01/01/1900 00:03:36
+3,2062,Lateral head shake,242.1,01/01/1900 00:04:02
+3,2062,Saying no,130,01/01/1900 00:02:10
+3,2062,Saying no,170,01/01/1900 00:02:50
+3,2062,Hand behind head/ear/eye,172,01/01/1900 00:02:52
+3,2062,Hand behind head/ear/eye,182,01/01/1900 00:03:02
+3,2062,Hand behind head/ear/eye,212,01/01/1900 00:03:32
+3,2062,Join hands,203,01/01/1900 00:03:23
+3,2070,Babbling,25,01/01/1900 00:00:25
+3,2070,Babbling,73,01/01/1900 00:01:13
+3,2070,Babbling,101,01/01/1900 00:01:41
+3,2070,Babbling,193,01/01/1900 00:03:13
+3,2070,Babbling,220,01/01/1900 00:03:40
+3,2070,Babbling,244,01/01/1900 00:04:04
+3,2070,Babbling,253,01/01/1900 00:04:13
+3,2070,Babbling,320,01/01/1900 00:05:20
+3,2070,Babbling,338,01/01/1900 00:05:38
+3,2070,Babbling,486,01/01/1900 00:08:06
+3,2070,Mutual Gaze,80,01/01/1900 00:01:20
+3,2070,Mutual Gaze,482,01/01/1900 00:08:02
+3,2070,Reaching towards caregiver,41.5,01/01/1900 00:00:42
+3,2070,Reaching towards caregiver,118,01/01/1900 00:01:58
+3,2070,Reaching towards caregiver,473,01/01/1900 00:07:53
+3,2070,Turning head to caregiver,41,01/01/1900 00:00:41
+3,2070,turning head to caregiver,66,01/01/1900 00:01:06
+3,2070,turning head to caregiver,72,01/01/1900 00:01:12
+3,2070,turning head to caregiver,95,01/01/1900 00:01:35
+3,2070,turning head to caregiver,166,01/01/1900 00:02:46
+3,2070,turning head to caregiver,207,01/01/1900 00:03:27
+3,2070,turning head to caregiver,248,01/01/1900 00:04:08
+3,2070,turning head to caregiver,258,01/01/1900 00:04:18
+3,2070,turning head to caregiver,435,01/01/1900 00:07:15
+3,2070,turning head to caregiver,473,01/01/1900 00:07:53
+3,2070,turning head to caregiver,517,01/01/1900 00:08:37
+3,2070,Reaching towards food,7,01/01/1900 00:00:07
+3,2070,Reaching towards food,17,01/01/1900 00:00:17
+3,2070,Reaching towards food,31,01/01/1900 00:00:31
+3,2070,Reaching towards food,47,01/01/1900 00:00:47
+3,2070,Reaching towards food,61,01/01/1900 00:01:01
+3,2070,Reaching towards food,65,01/01/1900 00:01:05
+3,2070,Reaching towards food,70,01/01/1900 00:01:10
+3,2070,Reaching towards food,85,01/01/1900 00:01:25
+3,2070,Reaching towards food,91,01/01/1900 00:01:31
+3,2070,Reaching towards food,107,01/01/1900 00:01:47
+3,2070,Reaching towards food,117,01/01/1900 00:01:57
+3,2070,Reaching towards food,131,01/01/1900 00:02:11
+3,2070,Reaching towards food,149,01/01/1900 00:02:29
+3,2070,Reaching towards food,172,01/01/1900 00:02:52
+3,2070,Reaching towards food,183,01/01/1900 00:03:03
+3,2070,Reaching towards food,205,01/01/1900 00:03:25
+3,2070,Reaching towards food,215,01/01/1900 00:03:35
+3,2070,Reaching towards food,224,01/01/1900 00:03:44
+3,2070,Reaching towards food,245,01/01/1900 00:04:05
+3,2070,Reaching towards food,272,01/01/1900 00:04:32
+3,2070,Reaching towards food,275,01/01/1900 00:04:35
+3,2070,Reaching towards food,283,01/01/1900 00:04:43
+3,2070,Reaching towards food,290,01/01/1900 00:04:50
+3,2070,Reaching towards food,302,01/01/1900 00:05:02
+3,2070,Reaching towards food,315,01/01/1900 00:05:15
+3,2070,Reaching towards food,340,01/01/1900 00:05:40
+3,2070,Reaching towards food,354,01/01/1900 00:05:54
+3,2070,Reaching towards food,402,01/01/1900 00:06:42
+3,2070,Feeding posture,422,01/01/1900 00:07:02
+3,2070,Feeding posture,460,01/01/1900 00:07:40
+3,2070,Halt Hand,559,01/01/1900 00:09:19
+3,2070,Halt Hand,566,01/01/1900 00:09:26
+3,2070,Tray Pounding,530,01/01/1900 00:08:50
+3,2070,Tray Pounding,536,01/01/1900 00:08:56
+3,2070,Hand to stomach/mouth,2,01/01/1900 00:00:02
+3,2070,Hand to stomach/mouth,20,01/01/1900 00:00:20
+3,2070,Hand to stomach/mouth,67,01/01/1900 00:01:07
+3,2070,Hand to stomach/mouth,87,01/01/1900 00:01:27
+3,2070,Hand to stomach/mouth,92,01/01/1900 00:01:32
+3,2070,Hand to stomach/mouth,102,01/01/1900 00:01:42
+3,2070,Hand to stomach/mouth,118,01/01/1900 00:01:58
+3,2070,Hand to stomach/mouth,173,01/01/1900 00:02:53
+3,2070,Hand to stomach/mouth,206,01/01/1900 00:03:26
+3,2070,Hand to stomach/mouth,216,01/01/1900 00:03:36
+3,2070,Hand to stomach/mouth,225,01/01/1900 00:03:45
+3,2070,Hand to stomach/mouth,264,01/01/1900 00:04:24
+3,2070,Hand to stomach/mouth,273,01/01/1900 00:04:33
+3,2070,Hand to stomach/mouth,276,01/01/1900 00:04:36
+3,2070,Hand to stomach/mouth,284,01/01/1900 00:04:44
+3,2070,Hand to stomach/mouth,303,01/01/1900 00:05:03
+3,2070,Hand to stomach/mouth,356,01/01/1900 00:05:56
+3,2070,Hand to stomach/mouth,403,01/01/1900 00:06:43
+3,2070,Hand to stomach/mouth,423,01/01/1900 00:07:03
+3,2070,Hand to stomach/mouth,461,01/01/1900 00:07:41
+3,2070,Hand to stomach/mouth,468,01/01/1900 00:07:48
+3,2070,Head lowering,562,01/01/1900 00:09:22
+3,2070,Looking away,327,01/01/1900 00:05:27
+3,2070,Looking away,441,01/01/1900 00:07:21
+3,2070,Looking away,548,01/01/1900 00:09:08
+3,2070,Spoon/fork to mouth,32,01/01/1900 00:00:32
+3,2070,Spoon/fork to mouth,50,01/01/1900 00:00:50
+3,2070,Spoon/fork to mouth,63,01/01/1900 00:01:03
+3,2070,Spoon/fork to mouth,74,01/01/1900 00:01:14
+3,2070,Spoon/fork to mouth,108,01/01/1900 00:01:48
+3,2070,Spoon/fork to mouth,132,01/01/1900 00:02:12
+3,2070,Spoon/fork to mouth,139,01/01/1900 00:02:19
+3,2070,Spoon/fork to mouth,150,01/01/1900 00:02:30
+3,2070,Spoon/fork to mouth,157,01/01/1900 00:02:37
+3,2070,Spoon/fork to mouth,184,01/01/1900 00:03:04
+3,2070,Spoon/fork to mouth,194,01/01/1900 00:03:14
+3,2070,Spoon/fork to mouth,246,01/01/1900 00:04:06
+3,2070,Spoon/fork to mouth,291,01/01/1900 00:04:51
+3,2070,Spoon/fork to mouth,316,01/01/1900 00:05:16
+3,2070,Spoon/fork to mouth,333,01/01/1900 00:05:33
+3,2070,Spoon/fork to mouth,341,01/01/1900 00:05:41
+3,2070,Spoon/fork to mouth,374,01/01/1900 00:06:14
+3,2070,Spoon/fork to mouth,411,01/01/1900 00:06:51
+3,2070,Spoon/fork to mouth,432,01/01/1900 00:07:12
+3,2070,Spoon/fork to mouth,446,01/01/1900 00:07:26
+3,2070,Spoon/fork to mouth,477,01/01/1900 00:07:57
+3,2070,Spoon/fork to mouth,573,01/01/1900 00:09:33
+3,2082,Babbling,35,01/01/1900 00:00:35
+3,2082,Babbling,43,01/01/1900 00:00:43
+3,2082,Babbling,187,01/01/1900 00:03:07
+3,2082,Babbling,370,01/01/1900 00:06:10
+3,2082,Babbling,381,01/01/1900 00:06:21
+3,2082,Turning head to caregiver,42,01/01/1900 00:00:42
+3,2082,Turning head to caregiver,50,01/01/1900 00:00:50
+3,2082,Turning head to caregiver,90,01/01/1900 00:01:30
+3,2082,Turning head to caregiver,95,01/01/1900 00:01:35
+3,2082,Turning head to caregiver,165,01/01/1900 00:02:45
+3,2082,Turning head to caregiver,241,01/01/1900 00:04:01
+3,2082,Turning head to caregiver,267,01/01/1900 00:04:27
+3,2082,Turning head to caregiver,406,01/01/1900 00:06:46
+3,2082,Reaching towards food,0,01/01/1900 00:00:00
+3,2082,Reaching towards food,6,01/01/1900 00:00:06
+3,2082,Reaching towards food,11,01/01/1900 00:00:11
+3,2082,Reaching towards food,32,01/01/1900 00:00:32
+3,2082,Reaching towards food,38,01/01/1900 00:00:38
+3,2082,Reaching towards food,45,01/01/1900 00:00:45
+3,2082,Reaching towards food,82,01/01/1900 00:01:22
+3,2082,Reaching towards food,109,01/01/1900 00:01:49
+3,2082,Reaching towards food,128,01/01/1900 00:02:08
+3,2082,Reaching towards food,142,01/01/1900 00:02:22
+3,2082,Reaching towards food,152,01/01/1900 00:02:32
+3,2082,Reaching towards food,181,01/01/1900 00:03:01
+3,2082,Reaching towards food,194,01/01/1900 00:03:14
+3,2082,Reaching towards food,200,01/01/1900 00:03:20
+3,2082,Reaching towards food,233,01/01/1900 00:03:53
+3,2082,Reaching towards food,237,01/01/1900 00:03:57
+3,2082,Reaching towards food,326,01/01/1900 00:05:26
+3,2082,Reaching towards food,330,01/01/1900 00:05:30
+3,2082,Reaching towards food,339,01/01/1900 00:05:39
+3,2082,Reaching towards food,346,01/01/1900 00:05:46
+3,2082,Reaching towards food,361,01/01/1900 00:06:01
+3,2082,Reaching towards food,388,01/01/1900 00:06:28
+3,2082,Hand to stomach/mouth,16,01/01/1900 00:00:16
+3,2082,Hand to stomach/mouth,26,01/01/1900 00:00:26
+3,2082,Hand to stomach/mouth,41,01/01/1900 00:00:41
+3,2082,Hand to stomach/mouth,47,01/01/1900 00:00:47
+3,2082,Hand to stomach/mouth,52,01/01/1900 00:00:52
+3,2082,Hand to stomach/mouth,76,01/01/1900 00:01:16
+3,2082,Hand to stomach/mouth,87,01/01/1900 00:01:27
+3,2082,Hand to stomach/mouth,110,01/01/1900 00:01:50
+3,2082,Hand to stomach/mouth,113,01/01/1900 00:01:53
+3,2082,Hand to stomach/mouth,124,01/01/1900 00:02:04
+3,2082,Hand to stomach/mouth,129,01/01/1900 00:02:09
+3,2082,Hand to stomach/mouth,133,01/01/1900 00:02:13
+3,2082,Hand to stomach/mouth,158,01/01/1900 00:02:38
+3,2082,Hand to stomach/mouth,163,01/01/1900 00:02:43
+3,2082,Hand to stomach/mouth,171,01/01/1900 00:02:51
+3,2082,Hand to stomach/mouth,183,01/01/1900 00:03:03
+3,2082,Hand to stomach/mouth,188,01/01/1900 00:03:08
+3,2082,Hand to stomach/mouth,244,01/01/1900 00:04:04
+3,2082,Hand to stomach/mouth,248,01/01/1900 00:04:08
+3,2082,Hand to stomach/mouth,261,01/01/1900 00:04:21
+3,2082,Hand to stomach/mouth,271,01/01/1900 00:04:31
+3,2082,Hand to stomach/mouth,275,01/01/1900 00:04:35
+3,2082,Hand to stomach/mouth,280,01/01/1900 00:04:40
+3,2082,Hand to stomach/mouth,284,01/01/1900 00:04:44
+3,2082,Hand to stomach/mouth,293,01/01/1900 00:04:53
+3,2082,Hand to stomach/mouth,306,01/01/1900 00:05:06
+3,2082,Hand to stomach/mouth,315,01/01/1900 00:05:15
+3,2082,Hand to stomach/mouth,319,01/01/1900 00:05:19
+3,2082,Hand to stomach/mouth,332,01/01/1900 00:05:32
+3,2082,Looking away,64,01/01/1900 00:01:04
+3,2082,Looking away,96,01/01/1900 00:01:36
+3,2082,Looking away,120,01/01/1900 00:02:00
+3,2082,Looking away,176,01/01/1900 00:02:56
+3,2082,Looking away,209,01/01/1900 00:03:29
+3,2082,Looking away,216,01/01/1900 00:03:36
+3,2082,Looking away,221,01/01/1900 00:03:41
+3,2082,Looking away,259,01/01/1900 00:04:19
+3,2082,Looking away,300,01/01/1900 00:05:00
+3,2082,Hand to stomach/mouth,362,01/01/1900 00:06:02
+3,2082,Hand to stomach/mouth,366,01/01/1900 00:06:06
+3,2082,Hand to stomach/mouth,374,01/01/1900 00:06:14
+3,2082,Hand to stomach/mouth,377,01/01/1900 00:06:17
+3,2082,Hand to stomach/mouth,390,01/01/1900 00:06:30
+3,2082,Hand to stomach/mouth,395,01/01/1900 00:06:35
+3,2055,Babbling,454,01/01/1900 00:07:34
+3,2055,Babbling,539,01/01/1900 00:08:59
+3,2055,Babbling,904,01/01/1900 00:15:04
+3,2055,Mutual Gaze,332,01/01/1900 00:05:32
+3,2055,Mutual Gaze,402,01/01/1900 00:06:42
+3,2055,Mutual Gaze,406,01/01/1900 00:06:46
+3,2055,Mutual Gaze,411,01/01/1900 00:06:51
+3,2055,Mutual Gaze,418,01/01/1900 00:06:58
+3,2055,Mutual Gaze,427,01/01/1900 00:07:07
+3,2055,Mutual Gaze,443,01/01/1900 00:07:23
+3,2055,Mutual Gaze,483,01/01/1900 00:08:03
+3,2055,Mutual Gaze,718,01/01/1900 00:11:58
+3,2055,Reaching towards food,539,01/01/1900 00:08:59
+3,2055,Hand to stomach/mouth,41,01/01/1900 00:00:41
+3,2055,Hand to stomach/mouth,55,01/01/1900 00:00:55
+3,2055,Hand to stomach/mouth,65,01/01/1900 00:01:05
+3,2055,Hand to stomach/mouth,79,01/01/1900 00:01:19
+3,2055,Hand to stomach/mouth,109,01/01/1900 00:01:49
+3,2055,Hand to stomach/mouth,112,01/01/1900 00:01:52
+3,2055,Hand to stomach/mouth,116,01/01/1900 00:01:56
+3,2055,Hand to stomach/mouth,118,01/01/1900 00:01:58
+3,2055,Hand to stomach/mouth,127,01/01/1900 00:02:07
+3,2055,Hand to stomach/mouth,221,01/01/1900 00:03:41
+3,2055,Hand to stomach/mouth,225,01/01/1900 00:03:45
+3,2055,Hand to stomach/mouth,231,01/01/1900 00:03:51
+3,2055,Hand to stomach/mouth,240,01/01/1900 00:04:00
+3,2055,Hand to stomach/mouth,246,01/01/1900 00:04:06
+3,2055,Hand to stomach/mouth,250,01/01/1900 00:04:10
+3,2055,Hand to stomach/mouth,265,01/01/1900 00:04:25
+3,2055,Hand to stomach/mouth,289,01/01/1900 00:04:49
+3,2055,Hand to stomach/mouth,292,01/01/1900 00:04:52
+3,2055,Hand to stomach/mouth,295,01/01/1900 00:04:55
+3,2055,Hand to stomach/mouth,319,01/01/1900 00:05:19
+3,2055,Hand to stomach/mouth,326,01/01/1900 00:05:26
+3,2055,Hand to stomach/mouth,383,01/01/1900 00:06:23
+3,2055,Hand to stomach/mouth,394,01/01/1900 00:06:34
+3,2055,Hand to stomach/mouth,406,01/01/1900 00:06:46
+3,2055,Hand to stomach/mouth,418,01/01/1900 00:06:58
+3,2055,Hand to stomach/mouth,481,01/01/1900 00:08:01
+3,2055,Hand to stomach/mouth,487,01/01/1900 00:08:07
+3,2055,Hand to stomach/mouth,492,01/01/1900 00:08:12
+3,2055,Hand to stomach/mouth,495,01/01/1900 00:08:15
+3,2055,Hand to stomach/mouth,497,01/01/1900 00:08:17
+3,2055,Hand to stomach/mouth,502,01/01/1900 00:08:22
+3,2055,Hand to stomach/mouth,515,01/01/1900 00:08:35
+3,2055,Hand to stomach/mouth,520,01/01/1900 00:08:40
+3,2055,Hand to stomach/mouth,523,01/01/1900 00:08:43
+3,2055,Hand to stomach/mouth,525,01/01/1900 00:08:45
+3,2055,Hand to stomach/mouth,542,01/01/1900 00:09:02
+3,2055,Hand to stomach/mouth,552,01/01/1900 00:09:12
+3,2055,Hand to stomach/mouth,565,01/01/1900 00:09:25
+3,2055,Hand to stomach/mouth,579,01/01/1900 00:09:39
+3,2055,Hand to stomach/mouth,584,01/01/1900 00:09:44
+3,2055,Hand to stomach/mouth,590,01/01/1900 00:09:50
+3,2055,Hand to stomach/mouth,632,01/01/1900 00:10:32
+3,2055,Hand to stomach/mouth,636,01/01/1900 00:10:36
+3,2055,Hand to stomach/mouth,657,01/01/1900 00:10:57
+3,2055,Hand to stomach/mouth,679,01/01/1900 00:11:19
+3,2055,Hand to stomach/mouth,704,01/01/1900 00:11:44
+3,2055,Hand to stomach/mouth,707,01/01/1900 00:11:47
+3,2055,Hand to stomach/mouth,791,01/01/1900 00:13:11
+3,2055,Hand to stomach/mouth,814,01/01/1900 00:13:34
+3,2055,Hand to stomach/mouth,847,01/01/1900 00:14:07
+3,2055,Head lowering,341,01/01/1900 00:05:41
+3,2055,Looking away,121,01/01/1900 00:02:01
+3,2055,Fussing,941,01/01/1900 00:15:41
+3,2055,Lateral head shake,123,01/01/1900 00:02:03
+3,2055,Hand behind head/ear/eye,439,01/01/1900 00:07:19
+3,2055,Pulling away,923,01/01/1900 00:15:23
+3,2059,Babbling,51,01/01/1900 00:00:51
+3,2059,Babbling,92,01/01/1900 00:01:32
+3,2059,Babbling,139,01/01/1900 00:02:19
+3,2059,Babbling,285,01/01/1900 00:04:45
+3,2059,Babbling,576,01/01/1900 00:09:36
+3,2059,Babbling,582,01/01/1900 00:09:42
+3,2059,Babbling,643,01/01/1900 00:10:43
+3,2059,Babbling,711,01/01/1900 00:11:51
+3,2059,Babbling,868,01/01/1900 00:14:28
+3,2059,Babbling,1214,01/01/1900 00:20:14
+3,2059,Babbling,1331,01/01/1900 00:22:11
+3,2059,Babbling,1425,01/01/1900 00:23:45
+3,2059,Babbling,1442,01/01/1900 00:24:02
+3,2059,Babbling,1455,01/01/1900 00:24:15
+3,2059,Babbling,1474,01/01/1900 00:24:34
+3,2059,Babbling,1494,01/01/1900 00:24:54
+3,2059,Halt hand,27,01/01/1900 00:00:27
+3,2059,Reaching towards caregiver,1022,01/01/1900 00:17:02
+3,2059,Reaching towards caregiver,1433,01/01/1900 00:23:53
+3,2059,Reaching towards food,597,01/01/1900 00:09:57
+3,2059,Reaching towards food,704,01/01/1900 00:11:44
+3,2059,Reaching towards food,744,01/01/1900 00:12:24
+3,2059,Reaching towards food,793,01/01/1900 00:13:13
+3,2059,Reaching towards food,929,01/01/1900 00:15:29
+3,2059,Reaching towards food,1113,01/01/1900 00:18:33
+3,2059,Reaching towards food,1215,01/01/1900 00:20:15
+3,2059,Back arching,522,01/01/1900 00:08:42
+3,2059,Back arching,1269,01/01/1900 00:21:09
+3,2059,Hand to stomach/mouth,276,01/01/1900 00:04:36
+3,2059,Hand to stomach/mouth,553,01/01/1900 00:09:13
+3,2059,Hand to stomach/mouth,750,01/01/1900 00:12:30
+3,2059,Hand to stomach/mouth,830,01/01/1900 00:13:50
+3,2059,Hand to stomach/mouth,882,01/01/1900 00:14:42
+3,2059,Hand to stomach/mouth,904,01/01/1900 00:15:04
+3,2059,Spoon/fork to mouth,180,01/01/1900 00:03:00
+3,2059,Spoon/fork to mouth,191,01/01/1900 00:03:11
+3,2059,Spoon/fork to mouth,229,01/01/1900 00:03:49
+3,2059,Spoon/fork to mouth,245,01/01/1900 00:04:05
+3,2059,Spoon/fork to mouth,255,01/01/1900 00:04:15
+3,2059,Spoon/fork to mouth,264,01/01/1900 00:04:24
+3,2059,Spoon/fork to mouth,277,01/01/1900 00:04:37
+3,2059,Spoon/fork to mouth,289,01/01/1900 00:04:49
+3,2059,Spoon/fork to mouth,335,01/01/1900 00:05:35
+3,2059,Spoon/fork to mouth,373,01/01/1900 00:06:13
+3,2059,Spoon/fork to mouth,384,01/01/1900 00:06:24
+3,2059,Spoon/fork to mouth,398,01/01/1900 00:06:38
+3,2059,Spoon/fork to mouth,410,01/01/1900 00:06:50
+3,2059,Spoon/fork to mouth,429,01/01/1900 00:07:09
+3,2059,Spoon/fork to mouth,487,01/01/1900 00:08:07
+3,2059,Spoon/fork to mouth,531,01/01/1900 00:08:51
+3,2059,Spoon/fork to mouth,542,01/01/1900 00:09:02
+3,2059,Spoon/fork to mouth,603,01/01/1900 00:10:03
+3,2059,Spoon/fork to mouth,612,01/01/1900 00:10:12
+3,2059,Spoon/fork to mouth,626,01/01/1900 00:10:26
+3,2059,Spoon/fork to mouth,643,01/01/1900 00:10:43
+3,2059,Spoon/fork to mouth,898,01/01/1900 00:14:58
+3,2059,Spoon/fork to mouth,911,01/01/1900 00:15:11
+3,2059,Spoon/fork to mouth,934,01/01/1900 00:15:34
+3,2059,Spoon/fork to mouth,950,01/01/1900 00:15:50
+3,2059,Spoon/fork to mouth,979,01/01/1900 00:16:19
+3,2059,Spoon/fork to mouth,992,01/01/1900 00:16:32
+3,2059,Spoon/fork to mouth,1008,01/01/1900 00:16:48
+3,2059,Spoon/fork to mouth,1091,01/01/1900 00:18:11
+3,2059,Spoon/fork to mouth,1097,01/01/1900 00:18:17
+3,2059,Spoon/fork to mouth,1119,01/01/1900 00:18:39
+3,2059,Spoon/fork to mouth,1127,01/01/1900 00:18:47
+3,2059,Spoon/fork to mouth,1146,01/01/1900 00:19:06
+3,2059,Spoon/fork to mouth,1175,01/01/1900 00:19:35
+3,2059,Spoon/fork to mouth,1186,01/01/1900 00:19:46
+3,2059,Spoon/fork to mouth,1196,01/01/1900 00:19:56
+3,2059,Spoon/fork to mouth,1207,01/01/1900 00:20:07
+3,2059,Spoon/fork to mouth,1230,01/01/1900 00:20:30
+3,2059,Spoon/fork to mouth,1236,01/01/1900 00:20:36
+3,2059,Spoon/fork to mouth,1276,01/01/1900 00:21:16
+3,2059,Spoon/fork to mouth,1282,01/01/1900 00:21:22
+3,2059,Spoon/fork to mouth,1290,01/01/1900 00:21:30
+3,2059,Spoon/fork to mouth,1298,01/01/1900 00:21:38
+3,2059,Spoon/fork to mouth,1309,01/01/1900 00:21:49
+3,2059,Spoon/fork to mouth,1325,01/01/1900 00:22:05
+3,2059,Spoon/fork to mouth,1340,01/01/1900 00:22:20
+3,2059,Spoon/fork to mouth,1372,01/01/1900 00:22:52
+3,2059,Head lowering,1,01/01/1900 00:00:01
+3,2059,Head lowering,4,01/01/1900 00:00:04
+3,2059,Head lowering,12,01/01/1900 00:00:12
+3,2059,Head lowering,88,01/01/1900 00:01:28
+3,2059,Head lowering,211,01/01/1900 00:03:31
+3,2059,Head lowering,1154,01/01/1900 00:19:14
+3,2059,Head lowering,1159,01/01/1900 00:19:19
+3,2059,Looking away,4,01/01/1900 00:00:04
+3,2059,Looking away,12,01/01/1900 00:00:12
+3,2059,Looking away,77,01/01/1900 00:01:17
+3,2059,Choking,404,01/01/1900 00:09:40
+3,2059,Choking,629,01/01/1900 00:10:29
+3,2059,Choking,999,01/01/1900 00:16:39
+3,2059,Choking,1046,01/01/1900 00:17:26
+3,2059,Crying,1014,01/01/1900 00:16:54
+3,2059,Fussing,55,01/01/1900 00:00:55
+3,2059,Fussing,146,01/01/1900 00:02:26
+3,2059,Fussing,249,01/01/1900 00:04:09
+3,2059,Fussing,779,01/01/1900 00:12:59
+3,2059,Fussing,1069,01/01/1900 00:17:49
+3,2059,Fussing,1221,01/01/1900 00:20:21
+3,2059,Fussing,1225,01/01/1900 00:20:25
+3,2059,Fussing,1518,01/01/1900 00:25:18
+3,2059,Pulling away,26,01/01/1900 00:00:26
+3,2059,Pulling away,106,01/01/1900 00:01:46
+3,2059,Pulling away,136,01/01/1900 00:02:16
+3,2059,Pulling away,139,01/01/1900 00:02:19
+3,2059,Pulling away,148,01/01/1900 00:02:28
+3,2059,Pulling away,214,01/01/1900 00:03:34
+3,2059,Pulling away,461,01/01/1900 00:07:41
+3,2059,Pulling away,478,01/01/1900 00:07:58
+3,2059,Pulling away,1104,01/01/1900 00:18:24
+3,2059,Pulling away,1114,01/01/1900 00:18:34
+3,2059,Pulling away,1140,01/01/1900 00:19:00
+3,2059,Pushing away,12,01/01/1900 00:00:12
+3,2059,Pushing away,62,01/01/1900 00:01:02
+3,2059,Pushing away,1159,01/01/1900 00:19:19
+3,2059,Pushing away,1402,01/01/1900 00:23:22
+3,2059,Hand behind head/ear/eye,77,01/01/1900 00:01:17
+3,2059,Hand behind head/ear/eye,108,01/01/1900 00:01:48
+3,2059,Hand behind head/ear/eye,298,01/01/1900 00:04:58
+3,2059,Hand behind head/ear/eye,316,01/01/1900 00:05:16
+3,2059,Hand behind head/ear/eye,380,01/01/1900 00:06:20
+3,2059,Hand behind head/ear/eye,423,01/01/1900 00:07:03
+3,2059,Hand behind head/ear/eye,478,01/01/1900 00:07:58
+3,2059,Hand behind head/ear/eye,496,01/01/1900 00:08:16
+3,2059,Hand behind head/ear/eye,1111,01/01/1900 00:18:31
+3,2059,Head raising,98,01/01/1900 00:01:38
+3,2067,Babbling,837,01/01/1900 00:13:57
+3,2067,Babbling,1002,01/01/1900 00:16:42
+3,2067,Babbling,1198,01/01/1900 00:19:58
+3,2067,Babbling,1310,01/01/1900 00:21:50
+3,2067,Reaching towards caregiver,329,01/01/1900 00:05:29
+3,2067,Reaching towards caregiver,396,01/01/1900 00:06:36
+3,2067,Turning head to caregiver,1027,01/01/1900 00:17:07
+3,2067,Reaching towards food,848,01/01/1900 00:14:08
+3,2067,Reaching towards food,1065,01/01/1900 00:17:45
+3,2067,Reaching towards food,1278,01/01/1900 00:21:18
+3,2067,Back arching,1315,01/01/1900 00:21:55
+3,2067,Back arching,1347,01/01/1900 00:22:27
+3,2067,Hand to stomach/mouth,0,01/01/1900 00:00:00
+3,2067,Hand to stomach/mouth,26,01/01/1900 00:00:26
+3,2067,Hand to stomach/mouth,239,01/01/1900 00:03:59
+3,2067,Hand to stomach/mouth,255,01/01/1900 00:04:15
+3,2067,Hand to stomach/mouth,264,01/01/1900 00:04:24
+3,2067,Hand to stomach/mouth,276,01/01/1900 00:04:36
+3,2067,Hand to stomach/mouth,281,01/01/1900 00:04:41
+3,2067,Hand to stomach/mouth,316,01/01/1900 00:05:16
+3,2067,Hand to stomach/mouth,323,01/01/1900 00:05:23
+3,2067,Hand to stomach/mouth,332,01/01/1900 00:05:32
+3,2067,Hand to stomach/mouth,341,01/01/1900 00:05:41
+3,2067,Hand to stomach/mouth,376,01/01/1900 00:06:16
+3,2067,Hand to stomach/mouth,400,01/01/1900 00:06:40
+3,2067,Hand to stomach/mouth,407,01/01/1900 00:06:47
+3,2067,Hand to stomach/mouth,424,01/01/1900 00:07:04
+3,2067,Hand to stomach/mouth,475,01/01/1900 00:07:55
+3,2067,Hand to stomach/mouth,478,01/01/1900 00:07:58
+3,2067,Hand to stomach/mouth,606,01/01/1900 00:10:06
+3,2067,Hand to stomach/mouth,634,01/01/1900 00:10:34
+3,2067,Hand to stomach/mouth,648,01/01/1900 00:10:48
+3,2067,Hand to stomach/mouth,671,01/01/1900 00:11:11
+3,2067,Hand to stomach/mouth,681,01/01/1900 00:11:21
+3,2067,Hand to stomach/mouth,701,01/01/1900 00:11:41
+3,2067,Hand to stomach/mouth,715,01/01/1900 00:11:55
+3,2067,Hand to stomach/mouth,758,01/01/1900 00:12:38
+3,2067,Hand to stomach/mouth,770,01/01/1900 00:12:50
+3,2067,Hand to stomach/mouth,783,01/01/1900 00:13:03
+3,2067,Hand to stomach/mouth,793,01/01/1900 00:13:13
+3,2067,Hand to stomach/mouth,804,01/01/1900 00:13:24
+3,2067,Hand to stomach/mouth,810,01/01/1900 00:13:30
+3,2067,Hand to stomach/mouth,822,01/01/1900 00:13:42
+3,2067,Hand to stomach/mouth,830,01/01/1900 00:13:50
+3,2067,Hand to stomach/mouth,910,01/01/1900 00:15:10
+3,2067,Hand to stomach/mouth,917,01/01/1900 00:15:17
+3,2067,Hand to stomach/mouth,923,01/01/1900 00:15:23
+3,2067,Hand to stomach/mouth,932,01/01/1900 00:15:32
+3,2067,Hand to stomach/mouth,1055,01/01/1900 00:17:35
+3,2067,Hand to stomach/mouth,1078,01/01/1900 00:17:58
+3,2067,Hand to stomach/mouth,1116,01/01/1900 00:18:36
+3,2067,Hand to stomach/mouth,1129,01/01/1900 00:18:49
+3,2067,Hand to stomach/mouth,1205,01/01/1900 00:20:05
+3,2067,Hand to stomach/mouth,1216,01/01/1900 00:20:16
+3,2067,Hand to stomach/mouth,1241,01/01/1900 00:20:41
+3,2067,Hand to stomach/mouth,1260,01/01/1900 00:21:00
+3,2067,Hand to stomach/mouth,1321,01/01/1900 00:22:01
+3,2067,Looking away,387,01/01/1900 00:06:27
+3,2067,Looking away,658,01/01/1900 00:10:58
+3,2067,Looking away,746,01/01/1900 00:12:26
+3,2067,Choking,173,01/01/1900 00:02:53
+3,2067,Choking,940,01/01/1900 00:15:40
+3,2067,Crying,1344,01/01/1900 00:22:24
+3,2067,Lateral head shake,345,01/01/1900 00:05:45
+3,2067,Lateral head shake,349,01/01/1900 00:05:49
+3,2067,Lateral head shake,464,01/01/1900 00:07:44
+3,2067,Lateral head shake,466,01/01/1900 00:07:46
+3,2067,Lateral head shake,616,01/01/1900 00:10:16
+3,2067,Lateral head shake,655,01/01/1900 00:10:55
+3,2067,Lateral head shake,656,01/01/1900 00:10:56
+3,2067,Lateral head shake,1037,01/01/1900 00:17:17
+3,2067,Pulling away,621,01/01/1900 00:10:21
+3,2067,Pushing away,349,01/01/1900 00:05:49
+3,2067,Pushing away,468,01/01/1900 00:07:48
+3,2067,Hand behind head/ear/eye,54,01/01/1900 00:00:54
+3,2067,Hand behind head/ear/eye,173,01/01/1900 00:02:53
+3,2067,Hand behind head/ear/eye,798,01/01/1900 00:13:18
+3,2067,Hand behind head/ear/eye,1316,01/01/1900 00:21:56
+3,2067,Hand behind head/ear/eye,1339,01/01/1900 00:22:19
+3,2067,Hand behind head/ear/eye,1347,01/01/1900 00:22:27
+3,2067,Hand behind head/ear/eye,1361,01/01/1900 00:22:41
+3,2071,Babbling,6,01/01/1900 00:00:06
+3,2071,Babbling,15,01/01/1900 00:00:15
+3,2071,Babbling,229,01/01/1900 00:03:49
+3,2071,Reaching towards food,28,01/01/1900 00:00:28
+3,2071,Reaching towards food,495,01/01/1900 00:08:15
+3,2071,Reaching towards food,525,01/01/1900 00:08:45
+3,2071,Reaching towards food,536,01/01/1900 00:08:56
+3,2071,Tray pounding,483,01/01/1900 00:08:03
+3,2071,Back arching,417,01/01/1900 00:06:57
+3,2071,Hand to stomach/mouth,67,01/01/1900 00:01:07
+3,2071,Spoon/fork to mouth,128,01/01/1900 00:02:08
+3,2071,Spoon/fork to mouth,180,01/01/1900 00:03:00
+3,2071,Spoon/fork to mouth,189,01/01/1900 00:03:09
+3,2071,Spoon/fork to mouth,463,01/01/1900 00:07:43
+3,2071,Spoon/fork to mouth,532,01/01/1900 00:08:52
+3,2071,Looking away,587,01/01/1900 00:09:47
+3,2071,Crying,360,01/01/1900 00:06:00
+3,2071,Fussing,265,01/01/1900 00:04:25
+3,2071,Fussing,291,01/01/1900 00:04:51
+3,2071,Pulling away,279,01/01/1900 00:04:39
+3,2071,Hand behind head/ear/eye,280,01/01/1900 00:04:40
+3,2078,Babbling,413,01/01/1900 00:06:53
+3,2078,Babbling,1400,01/01/1900 00:23:20
+3,2078,Mutual Gaze,226,01/01/1900 00:03:46
+3,2078,Mutual Gaze,271,01/01/1900 00:04:31
+3,2078,Mutual Gaze,337,01/01/1900 00:05:37
+3,2078,Reaching towards food,38,01/01/1900 00:00:38
+3,2078,Reaching towards food,91,01/01/1900 00:01:31
+3,2078,Reaching towards food,109,01/01/1900 00:01:49
+3,2078,Reaching towards food,142,01/01/1900 00:02:22
+3,2078,Reaching towards food,236,01/01/1900 00:03:56
+3,2078,Reaching towards food,256,01/01/1900 00:04:16
+3,2078,Reaching towards food,358,01/01/1900 00:05:58
+3,2078,Reaching towards food,395,01/01/1900 00:06:35
+3,2078,Reaching towards food,512,01/01/1900 00:08:32
+3,2078,Reaching towards food,631,01/01/1900 00:10:31
+3,2078,Hand to stomach/mouth,3,01/01/1900 00:00:03
+3,2078,Hand to stomach/mouth,24,01/01/1900 00:00:24
+3,2078,Hand to stomach/mouth,60,01/01/1900 00:01:00
+3,2078,Hand to stomach/mouth,72,01/01/1900 00:01:12
+3,2078,Hand to stomach/mouth,82,01/01/1900 00:01:22
+3,2078,Hand to stomach/mouth,156,01/01/1900 00:02:36
+3,2078,Hand to stomach/mouth,182,01/01/1900 00:03:02
+3,2078,Hand to stomach/mouth,195,01/01/1900 00:03:15
+3,2078,Hand to stomach/mouth,232,01/01/1900 00:03:52
+3,2078,Hand to stomach/mouth,806,01/01/1900 00:13:26
+3,2078,Hand to stomach/mouth,819,01/01/1900 00:13:39
+3,2078,Hand to stomach/mouth,849,01/01/1900 00:14:09
+3,2078,Hand to stomach/mouth,1274,01/01/1900 00:21:14
+3,2078,Hand to stomach/mouth,1310,01/01/1900 00:21:50
+3,2078,Hand to stomach/mouth,1322,01/01/1900 00:22:02
+3,2078,Spoon/fork to mouth,92,01/01/1900 00:01:32
+3,2078,Spoon/fork to mouth,106,01/01/1900 00:01:46
+3,2078,Spoon/fork to mouth,117,01/01/1900 00:01:57
+3,2078,Spoon/fork to mouth,136,01/01/1900 00:02:16
+3,2078,Spoon/fork to mouth,151,01/01/1900 00:02:31
+3,2078,Spoon/fork to mouth,212,01/01/1900 00:03:32
+3,2078,Spoon/fork to mouth,245,01/01/1900 00:04:05
+3,2078,Spoon/fork to mouth,260,01/01/1900 00:04:20
+3,2078,Spoon/fork to mouth,283,01/01/1900 00:04:43
+3,2078,Spoon/fork to mouth,302,01/01/1900 00:05:02
+3,2078,Spoon/fork to mouth,323,01/01/1900 00:05:23
+3,2078,Spoon/fork to mouth,359,01/01/1900 00:05:59
+3,2078,Spoon/fork to mouth,371,01/01/1900 00:06:11
+3,2078,Spoon/fork to mouth,387,01/01/1900 00:06:27
+3,2078,Spoon/fork to mouth,401,01/01/1900 00:06:41
+3,2078,Spoon/fork to mouth,445,01/01/1900 00:07:25
+3,2078,Spoon/fork to mouth,457,01/01/1900 00:07:37
+3,2078,Spoon/fork to mouth,477,01/01/1900 00:07:57
+3,2078,Spoon/fork to mouth,488,01/01/1900 00:08:08
+3,2078,Spoon/fork to mouth,514,01/01/1900 00:08:34
+3,2078,Spoon/fork to mouth,529,01/01/1900 00:08:49
+3,2078,Spoon/fork to mouth,546,01/01/1900 00:09:06
+3,2078,Spoon/fork to mouth,562,01/01/1900 00:09:22
+3,2078,Spoon/fork to mouth,576,01/01/1900 00:09:36
+3,2078,Spoon/fork to mouth,619,01/01/1900 00:10:19
+3,2078,Spoon/fork to mouth,645,01/01/1900 00:10:45
+3,2078,Spoon/fork to mouth,665,01/01/1900 00:11:05
+3,2078,Spoon/fork to mouth,697,01/01/1900 00:11:37
+3,2078,Crying,728,01/01/1900 00:12:08
+3,2078,Crying,737,01/01/1900 00:12:17
+3,2078,Crying,772,01/01/1900 00:12:52
+3,2078,Fussing,11,01/01/1900 00:00:11
+3,2078,Fussing,44,01/01/1900 00:00:44
+3,2078,Fussing,255,01/01/1900 00:04:15
+3,2078,Fussing,1042,01/01/1900 00:17:22
+3,2078,Fussing,1281,01/01/1900 00:21:21
+3,2078,Hand behind head/ear/eye,1372,01/01/1900 00:22:52
+3,2081,Babbling,1,01/01/1900 00:00:01
+3,2081,Babbling,20,01/01/1900 00:00:20
+3,2081,Babbling,40,01/01/1900 00:00:40
+3,2081,Babbling,137,01/01/1900 00:02:17
+3,2081,Babbling,139,01/01/1900 00:02:19
+3,2081,Babbling,148,01/01/1900 00:02:28
+3,2081,Babbling,204,01/01/1900 00:03:24
+3,2081,Babbling,205,01/01/1900 00:03:25
+3,2081,Babbling,207,01/01/1900 00:03:27
+3,2081,Babbling,217,01/01/1900 00:03:37
+3,2081,Babbling,223,01/01/1900 00:03:43
+3,2081,Babbling,232,01/01/1900 00:03:52
+3,2081,Babbling,236,01/01/1900 00:03:56
+3,2081,Babbling,242,01/01/1900 00:04:02
+3,2081,Babbling,246,01/01/1900 00:04:06
+3,2081,Babbling,251,01/01/1900 00:04:11
+3,2081,Babbling,256,01/01/1900 00:04:16
+3,2081,Babbling,261,01/01/1900 00:04:21
+3,2081,Babbling,269,01/01/1900 00:04:29
+3,2081,Babbling,279,01/01/1900 00:04:39
+3,2081,Babbling,286,01/01/1900 00:04:46
+3,2081,Babbling,297,01/01/1900 00:04:57
+3,2081,Babbling,314,01/01/1900 00:05:14
+3,2081,Babbling,317,01/01/1900 00:05:17
+3,2081,Babbling,339,01/01/1900 00:05:39
+3,2081,Babbling,344,01/01/1900 00:05:44
+3,2081,Babbling,352,01/01/1900 00:05:52
+3,2081,Babbling,368,01/01/1900 00:06:08
+3,2081,Babbling,375,01/01/1900 00:06:15
+3,2081,Babbling,377,01/01/1900 00:06:17
+3,2081,Babbling,382,01/01/1900 00:06:22
+3,2081,Babbling,392,01/01/1900 00:06:32
+3,2081,Babbling,394,01/01/1900 00:06:34
+3,2081,Babbling,428,01/01/1900 00:07:08
+3,2081,Babbling,471,01/01/1900 00:07:51
+3,2081,Babbling,473,01/01/1900 00:07:53
+3,2081,Babbling,478,01/01/1900 00:07:58
+3,2081,Babbling,500,01/01/1900 00:08:20
+3,2081,Babbling,503,01/01/1900 00:08:23
+3,2081,Babbling,505,01/01/1900 00:08:25
+3,2081,Babbling,522,01/01/1900 00:08:42
+3,2081,Babbling,546,01/01/1900 00:09:06
+3,2081,Babbling,548,01/01/1900 00:09:08
+3,2081,Babbling,559,01/01/1900 00:09:19
+3,2081,Babbling,563,01/01/1900 00:09:23
+3,2081,Babbling,583,01/01/1900 00:09:43
+3,2081,Babbling,585,01/01/1900 00:09:45
+3,2081,Babbling,593,01/01/1900 00:09:53
+3,2081,Babbling,597,01/01/1900 00:09:57
+3,2081,Babbling,631,01/01/1900 00:10:31
+3,2081,Babbling,636,01/01/1900 00:10:36
+3,2081,Babbling,643,01/01/1900 00:10:43
+3,2081,Babbling,664,01/01/1900 00:11:04
+3,2081,Babbling,669,01/01/1900 00:11:09
+3,2081,Babbling,674,01/01/1900 00:11:14
+3,2081,Babbling,693,01/01/1900 00:11:33
+3,2081,Babbling,727,01/01/1900 00:12:07
+3,2081,Babbling,730,01/01/1900 00:12:10
+3,2081,Babbling,763,01/01/1900 00:12:43
+3,2081,Babbling,797,01/01/1900 00:13:17
+3,2081,Babbling,822,01/01/1900 00:13:42
+3,2081,Babbling,837,01/01/1900 00:13:57
+3,2081,Babbling,866,01/01/1900 00:14:26
+3,2081,Babbling,872,01/01/1900 00:14:32
+3,2081,Babbling,906,01/01/1900 00:15:06
+3,2081,Babbling,935,01/01/1900 00:15:35
+3,2081,Babbling,942,01/01/1900 00:15:42
+3,2081,Babbling,956,01/01/1900 00:15:56
+3,2081,Babbling,975,01/01/1900 00:16:15
+3,2081,Babbling,1000,01/01/1900 00:16:40
+3,2081,Babbling,1010,01/01/1900 00:16:50
+3,2081,Babbling,1071,01/01/1900 00:17:51
+3,2081,Babbling,1131,01/01/1900 00:18:51
+3,2081,Babbling,1143,01/01/1900 00:19:03
+3,2081,Babbling,1175,01/01/1900 00:19:35
+3,2081,Babbling,1181,01/01/1900 00:19:41
+3,2081,Babbling,1201,01/01/1900 00:20:01
+3,2081,Babbling,1225,01/01/1900 00:20:25
+3,2081,Babbling,1256,01/01/1900 00:20:56
+3,2081,Babbling,1270,01/01/1900 00:21:10
+3,2081,Babbling,1302,01/01/1900 00:21:42
+3,2081,Babbling,1361,01/01/1900 00:22:41
+3,2081,Babbling,1370,01/01/1900 00:22:50
+3,2081,Babbling,1375,01/01/1900 00:22:55
+3,2081,Babbling,1378,01/01/1900 00:22:58
+3,2081,Babbling,1384,01/01/1900 00:23:04
+3,2081,Babbling,1386,01/01/1900 00:23:06
+3,2081,Babbling,1405,01/01/1900 00:23:25
+3,2081,Babbling,1421,01/01/1900 00:23:41
+3,2081,Babbling,1445,01/01/1900 00:24:05
+3,2081,Babbling,1483,01/01/1900 00:24:43
+3,2081,Babbling,1496,01/01/1900 00:24:56
+3,2081,Babbling,1594,01/01/1900 00:26:34
+3,2081,Babbling,1601,01/01/1900 00:26:41
+3,2081,Babbling,1616,01/01/1900 00:26:56
+3,2081,Babbling,1638,01/01/1900 00:27:18
+3,2081,Babbling,1695,01/01/1900 00:28:15
+3,2081,Babbling,1702,01/01/1900 00:28:22
+3,2081,Babbling,1716,01/01/1900 00:28:36
+3,2081,Babbling,1732,01/01/1900 00:28:52
+3,2081,Babbling,1737,01/01/1900 00:28:57
+3,2081,Babbling,1801,01/01/1900 00:30:01
+3,2081,Babbling,1822,01/01/1900 00:30:22
+3,2081,Feeding sounds,126,01/01/1900 00:02:06
+3,2081,Feeding sounds,135,01/01/1900 00:02:15
+3,2081,Feeding sounds,148,01/01/1900 00:02:28
+3,2081,Feeding sounds,167,01/01/1900 00:02:47
+3,2081,Feeding sounds,201,01/01/1900 00:03:21
+3,2081,Feeding sounds,211,01/01/1900 00:03:31
+3,2081,Feeding sounds,225,01/01/1900 00:03:45
+3,2081,Feeding sounds,254,01/01/1900 00:04:14
+3,2081,Feeding sounds,305,01/01/1900 00:05:05
+3,2081,Feeding sounds,322,01/01/1900 00:05:22
+3,2081,Feeding sounds,343,01/01/1900 00:05:43
+3,2081,Feeding sounds,356,01/01/1900 00:05:56
+3,2081,Feeding sounds,359,01/01/1900 00:05:59
+3,2081,Feeding sounds,379,01/01/1900 00:06:19
+3,2081,Feeding sounds,415,01/01/1900 00:06:55
+3,2081,Feeding sounds,440,01/01/1900 00:07:20
+3,2081,Feeding sounds,450,01/01/1900 00:07:30
+3,2081,Feeding sounds,452,01/01/1900 00:07:32
+3,2081,Feeding sounds,490,01/01/1900 00:08:10
+3,2081,Feeding sounds,557,01/01/1900 00:09:17
+3,2081,Feeding sounds,570,01/01/1900 00:09:30
+3,2081,Feeding sounds,576,01/01/1900 00:09:36
+3,2081,Feeding sounds,607,01/01/1900 00:10:07
+3,2081,Feeding sounds,614,01/01/1900 00:10:14
+3,2081,Feeding sounds,698,01/01/1900 00:11:38
+3,2081,Feeding sounds,884,01/01/1900 00:14:44
+3,2081,Feeding sounds,1228,01/01/1900 00:20:28
+3,2081,Feeding sounds,1254,01/01/1900 00:20:54
+3,2081,Feeding sounds,1294,01/01/1900 00:21:34
+3,2081,Feeding sounds,1605,01/01/1900 00:26:45
+3,2081,Mutual Gaze,77,01/01/1900 00:01:17
+3,2081,Mutual Gaze,92,01/01/1900 00:01:32
+3,2081,Mutual Gaze,172,01/01/1900 00:02:52
+3,2081,Mutual Gaze,1186,01/01/1900 00:19:46
+3,2081,Mutual Gaze,206,01/01/1900 00:03:26
+3,2081,Mutual Gaze,229,01/01/1900 00:03:49
+3,2081,Mutual Gaze,244,01/01/1900 00:04:04
+3,2081,Mutual Gaze,259,01/01/1900 00:04:19
+3,2081,Mutual Gaze,265,01/01/1900 00:04:25
+3,2081,Mutual Gaze,281,01/01/1900 00:04:41
+3,2081,Mutual Gaze,283,01/01/1900 00:04:43
+3,2081,Mutual Gaze,291,01/01/1900 00:04:51
+3,2081,Mutual Gaze,312,01/01/1900 00:05:12
+3,2081,Mutual Gaze,315,01/01/1900 00:05:15
+3,2081,Mutual Gaze,326,01/01/1900 00:05:26
+3,2081,Mutual Gaze,345,01/01/1900 00:05:45
+3,2081,Mutual Gaze,350,01/01/1900 00:05:50
+3,2081,Mutual Gaze,493,01/01/1900 00:08:13
+3,2081,Mutual Gaze,511,01/01/1900 00:08:31
+3,2081,Mutual Gaze,535,01/01/1900 00:08:55
+3,2081,Mutual Gaze,618,01/01/1900 00:10:18
+3,2081,Mutual Gaze,654,01/01/1900 00:10:54
+3,2081,Mutual Gaze,753,01/01/1900 00:12:33
+3,2081,Mutual Gaze,758,01/01/1900 00:12:38
+3,2081,Mutual Gaze,764,01/01/1900 00:12:44
+3,2081,Mutual Gaze,796,01/01/1900 00:13:16
+3,2081,Mutual Gaze,1005,01/01/1900 00:16:45
+3,2081,Mutual Gaze,1043,01/01/1900 00:17:23
+3,2081,Mutual Gaze,1068,01/01/1900 00:17:48
+3,2081,Mutual Gaze,1100,01/01/1900 00:18:20
+3,2081,Mutual Gaze,1108,01/01/1900 00:18:28
+3,2081,Mutual Gaze,1127,01/01/1900 00:18:47
+3,2081,Mutual Gaze,1143,01/01/1900 00:19:03
+3,2081,Mutual Gaze,1169,01/01/1900 00:19:29
+3,2081,Mutual Gaze,1247,01/01/1900 00:20:47
+3,2081,Mutual Gaze,1260,01/01/1900 00:21:00
+3,2081,Mutual Gaze,1264,01/01/1900 00:21:04
+3,2081,Mutual Gaze,1291,01/01/1900 00:21:31
+3,2081,Mutual Gaze,1302,01/01/1900 00:21:42
+3,2081,Mutual Gaze,1437,01/01/1900 00:23:57
+3,2081,Mutual Gaze,1440,01/01/1900 00:24:00
+3,2081,Mutual Gaze,1538,01/01/1900 00:25:38
+3,2081,Mutual Gaze,1550,01/01/1900 00:25:50
+3,2081,Mutual Gaze,1605,01/01/1900 00:26:45
+3,2081,Mutual Gaze,1625,01/01/1900 00:27:05
+3,2081,Mutual Gaze,1638,01/01/1900 00:27:18
+3,2081,Mutual Gaze,1758,01/01/1900 00:29:18
+3,2081,Mutual Gaze,1779,01/01/1900 00:29:39
+3,2081,Mutual Gaze,1835,01/01/1900 00:30:35
+3,2081,Reaching towards caregiver,349,01/01/1900 00:05:49
+3,2081,Reaching towards caregiver,412,01/01/1900 00:06:52
+3,2081,Reaching towards caregiver,448,01/01/1900 00:07:28
+3,2081,Reaching towards caregiver,493,01/01/1900 00:08:13
+3,2081,Reaching towards caregiver,534,01/01/1900 00:08:54
+3,2081,Reaching towards caregiver,563,01/01/1900 00:09:23
+3,2081,Reaching towards caregiver,585,01/01/1900 00:09:45
+3,2081,Reaching towards caregiver,595,01/01/1900 00:09:55
+3,2081,Reaching towards caregiver,663,01/01/1900 00:11:03
+3,2081,Reaching towards caregiver,669,01/01/1900 00:11:09
+3,2081,Reaching towards caregiver,852,01/01/1900 00:14:12
+3,2081,Reaching towards caregiver,897,01/01/1900 00:14:57
+3,2081,Reaching towards caregiver,957,01/01/1900 00:15:57
+3,2081,Reaching towards caregiver,966,01/01/1900 00:16:06
+3,2081,Reaching towards caregiver,996,01/01/1900 00:16:36
+3,2081,Reaching towards caregiver,1010,01/01/1900 00:16:50
+3,2081,Reaching towards caregiver,1017,01/01/1900 00:16:57
+3,2081,Reaching towards caregiver,1027,01/01/1900 00:17:07
+3,2081,Reaching towards caregiver,1061,01/01/1900 00:17:41
+3,2081,Reaching towards caregiver,1106,01/01/1900 00:18:26
+3,2081,Reaching towards caregiver,1113,01/01/1900 00:18:33
+3,2081,Reaching towards caregiver,1143,01/01/1900 00:19:03
+3,2081,Reaching towards caregiver,1161,01/01/1900 00:19:21
+3,2081,Reaching towards caregiver,1182,01/01/1900 00:19:42
+3,2081,Reaching towards caregiver,1273,01/01/1900 00:21:13
+3,2081,Reaching towards caregiver,1338,01/01/1900 00:22:18
+3,2081,Reaching towards caregiver,1727,01/01/1900 00:28:47
+3,2081,Turning head to caregiver,491,01/01/1900 00:08:11
+3,2081,Turning head to caregiver,686,01/01/1900 00:11:26
+3,2081,Turning head to caregiver,802,01/01/1900 00:13:22
+3,2081,Turning head to caregiver,904,01/01/1900 00:15:04
+3,2081,Turning head to caregiver,981,01/01/1900 00:16:21
+3,2081,Turning head to caregiver,1051,01/01/1900 00:17:31
+3,2081,Turning head to caregiver,1081,01/01/1900 00:18:01
+3,2081,Turning head to caregiver,1187,01/01/1900 00:19:47
+3,2081,Head raising,50,01/01/1900 00:00:50
+3,2081,Back arching,1179,01/01/1900 00:19:39
+3,2081,Choking,928,01/01/1900 00:15:28
+3,2081,Choking,930,01/01/1900 00:15:30
+3,2081,Choking,948,01/01/1900 00:15:48
+3,2081,Halt hand,641,01/01/1900 00:10:41
+3,2081,Halt hand,646,01/01/1900 00:10:46
+3,2081,Halt hand,708,01/01/1900 00:11:48
+3,2081,Halt hand,711,01/01/1900 00:11:51
+3,2081,Halt hand,779,01/01/1900 00:12:59
+3,2081,Halt hand,786,01/01/1900 00:13:06
+3,2081,Halt hand,867,01/01/1900 00:14:27
+3,2081,Lateral head shake,93,01/01/1900 00:01:33
+3,2081,Lateral head shake,205,01/01/1900 00:03:25
+3,2081,Lateral head shake,236,01/01/1900 00:03:56
+3,2081,Lateral head shake,239,01/01/1900 00:03:59
+3,2081,Lateral head shake,363,01/01/1900 00:06:03
+3,2081,Lateral head shake,384,01/01/1900 00:06:24
+3,2081,Lateral head shake,385,01/01/1900 00:06:25
+3,2081,Lateral head shake,496,01/01/1900 00:08:16
+3,2081,Lateral head shake,501,01/01/1900 00:08:21
+3,2081,Lateral head shake,505,01/01/1900 00:08:25
+3,2081,Lateral head shake,507,01/01/1900 00:08:27
+3,2081,Lateral head shake,564,01/01/1900 00:09:24
+3,2081,Lateral head shake,593,01/01/1900 00:09:53
+3,2081,Lateral head shake,594,01/01/1900 00:09:54
+3,2081,Lateral head shake,597,01/01/1900 00:09:57
+3,2081,Lateral head shake,609,01/01/1900 00:10:09
+3,2081,Lateral head shake,638,01/01/1900 00:10:38
+3,2081,Lateral head shake,681,01/01/1900 00:11:21
+3,2081,Lateral head shake,816,01/01/1900 00:13:36
+3,2081,Lateral head shake,866,01/01/1900 00:14:26
+3,2081,Lateral head shake,867,01/01/1900 00:14:27
+3,2081,Lateral head shake,910,01/01/1900 00:15:10
+3,2081,Lateral head shake,912,01/01/1900 00:15:12
+3,2081,Lateral head shake,1059,01/01/1900 00:17:39
+3,2081,Lateral head shake,1157,01/01/1900 00:19:17
+3,2081,Lateral head shake,1546,01/01/1900 00:25:46
+3,2081,Lateral head shake,1602,01/01/1900 00:26:42
+3,2081,Lateral head shake,1614,01/01/1900 00:26:54
+3,2081,Lateral head shake,1617,01/01/1900 00:26:57
+3,2081,Lateral head shake,1649,01/01/1900 00:27:29
+3,2081,Lateral head shake,1705,01/01/1900 00:28:25
+3,2081,Lateral head shake,1716,01/01/1900 00:28:36
+3,2081,Lateral head shake,1807,01/01/1900 00:30:07
+3,2081,Lateral head shake,1809,01/01/1900 00:30:09
+3,2081,Pulling away,394,01/01/1900 00:06:34
+3,2081,Pulling away,463,01/01/1900 00:07:43
+3,2081,Pulling away,539,01/01/1900 00:08:59
+3,2081,Pulling away,641,01/01/1900 00:10:41
+3,2081,Pulling away,677,01/01/1900 00:11:17
+3,2081,Pulling away,916,01/01/1900 00:15:16
+3,2081,Spitting,950,01/01/1900 00:15:50
+3,2081,Spitting,1078,01/01/1900 00:17:58
+3,2081,Tray pounding,38,01/01/1900 00:00:38
+3,2081,Tray pounding,315,01/01/1900 00:05:15
+3,2081,Tray pounding,331,01/01/1900 00:05:31
+3,2081,Tray pounding,333,01/01/1900 00:05:33
+3,2081,Tray pounding,340,01/01/1900 00:05:40
+3,2081,Tray pounding,346,01/01/1900 00:05:46
+3,2081,Tray pounding,701,01/01/1900 00:11:41
+3,2081,Tray pounding,721,01/01/1900 00:12:01
+3,2081,Tray pounding,775,01/01/1900 00:12:55
+3,2081,Tray pounding,938,01/01/1900 00:15:38
+3,2081,Tray pounding,1163,01/01/1900 00:19:23
+3,2081,Tray pounding,1416,01/01/1900 00:23:36
+3,2081,Tray pounding,1508,01/01/1900 00:25:08
+3,2081,Tray pounding,1514,01/01/1900 00:25:14
+3,2081,Tray pounding,1774,01/01/1900 00:29:34
+3,2081,Hand behind head/ear/eye,295,01/01/1900 00:04:55
+3,2081,Hand to stomach/mouth,92,01/01/1900 00:01:32
+3,2081,Hand to stomach/mouth,100,01/01/1900 00:01:40
+3,2081,Hand to stomach/mouth,107,01/01/1900 00:01:47
+3,2081,Hand to stomach/mouth,115,01/01/1900 00:01:55
+3,2081,Hand to stomach/mouth,121,01/01/1900 00:02:01
+3,2081,Hand to stomach/mouth,127,01/01/1900 00:02:07
+3,2081,Hand to stomach/mouth,130,01/01/1900 00:02:10
+3,2081,Hand to stomach/mouth,138,01/01/1900 00:02:18
+3,2081,Hand to stomach/mouth,146,01/01/1900 00:02:26
+3,2081,Hand to stomach/mouth,153,01/01/1900 00:02:33
+3,2081,Hand to stomach/mouth,172,01/01/1900 00:02:52
+3,2081,Hand to stomach/mouth,183,01/01/1900 00:03:03
+3,2081,Hand to stomach/mouth,191,01/01/1900 00:03:11
+3,2081,Hand to stomach/mouth,202,01/01/1900 00:03:22
+3,2081,Hand to stomach/mouth,220,01/01/1900 00:03:40
+3,2081,Hand to stomach/mouth,231,01/01/1900 00:03:51
+3,2081,Hand to stomach/mouth,243,01/01/1900 00:04:03
+3,2081,Hand to stomach/mouth,247,01/01/1900 00:04:07
+3,2081,Hand to stomach/mouth,254,01/01/1900 00:04:14
+3,2081,Hand to stomach/mouth,277,01/01/1900 00:04:37
+3,2081,Hand to stomach/mouth,283,01/01/1900 00:04:43
+3,2081,Hand to stomach/mouth,288,01/01/1900 00:04:48
+3,2081,Hand to stomach/mouth,304,01/01/1900 00:05:04
+3,2081,Hand to stomach/mouth,312,01/01/1900 00:05:12
+3,2081,Hand to stomach/mouth,329,01/01/1900 00:05:29
+3,2081,Hand to stomach/mouth,337,01/01/1900 00:05:37
+3,2081,Hand to stomach/mouth,350,01/01/1900 00:05:50
+3,2081,Hand to stomach/mouth,377,01/01/1900 00:06:17
+3,2081,Hand to stomach/mouth,396,01/01/1900 00:06:36
+3,2081,Hand to stomach/mouth,405,01/01/1900 00:06:45
+3,2081,Hand to stomach/mouth,423,01/01/1900 00:07:03
+3,2081,Hand to stomach/mouth,434,01/01/1900 00:07:14
+3,2081,Hand to stomach/mouth,445,01/01/1900 00:07:25
+3,2081,Hand to stomach/mouth,456,01/01/1900 00:07:36
+3,2081,Hand to stomach/mouth,474,01/01/1900 00:07:54
+3,2081,Hand to stomach/mouth,483,01/01/1900 00:08:03
+3,2081,Hand to stomach/mouth,487,01/01/1900 00:08:07
+3,2081,Hand to stomach/mouth,499,01/01/1900 00:08:19
+3,2081,Hand to stomach/mouth,510,01/01/1900 00:08:30
+3,2081,Hand to stomach/mouth,524,01/01/1900 00:08:44
+3,2081,Hand to stomach/mouth,530,01/01/1900 00:08:50
+3,2081,Hand to stomach/mouth,552,01/01/1900 00:09:12
+3,2081,Hand to stomach/mouth,568,01/01/1900 00:09:28
+3,2081,Hand to stomach/mouth,579,01/01/1900 00:09:39
+3,2081,Hand to stomach/mouth,605,01/01/1900 00:10:05
+3,2081,Hand to stomach/mouth,612,01/01/1900 00:10:12
+3,2081,Hand to stomach/mouth,631,01/01/1900 00:10:31
+3,2081,Hand to stomach/mouth,653,01/01/1900 00:10:53
+3,2081,Hand to stomach/mouth,674,01/01/1900 00:11:14
+3,2081,Hand to stomach/mouth,750,01/01/1900 00:12:30
+3,2081,Hand to stomach/mouth,756,01/01/1900 00:12:36
+3,2081,Hand to stomach/mouth,792,01/01/1900 00:13:12
+3,2081,Hand to stomach/mouth,840,01/01/1900 00:14:00
+3,2081,Hand to stomach/mouth,896,01/01/1900 00:14:56
+3,2081,Hand to stomach/mouth,935,01/01/1900 00:15:35
+3,2081,Hand to stomach/mouth,941,01/01/1900 00:15:41
+3,2081,Hand to stomach/mouth,1068,01/01/1900 00:17:48
+3,2081,Hand to stomach/mouth,1074,01/01/1900 00:17:54
+3,2081,Hand to stomach/mouth,1094,01/01/1900 00:18:14
+3,2081,Hand to stomach/mouth,1096,01/01/1900 00:18:16
+3,2081,Hand to stomach/mouth,1100,01/01/1900 00:18:20
+3,2081,Hand to stomach/mouth,1112,01/01/1900 00:18:32
+3,2081,Hand to stomach/mouth,1123,01/01/1900 00:18:43
+3,2081,Hand to stomach/mouth,1126,01/01/1900 00:18:46
+3,2081,Hand to stomach/mouth,1130,01/01/1900 00:18:50
+3,2081,Hand to stomach/mouth,1136,01/01/1900 00:18:56
+3,2081,Hand to stomach/mouth,1164,01/01/1900 00:19:24
+3,2081,Hand to stomach/mouth,1169,01/01/1900 00:19:29
+3,2081,Hand to stomach/mouth,1175,01/01/1900 00:19:35
+3,2081,Hand to stomach/mouth,1197,01/01/1900 00:19:57
+3,2081,Hand to stomach/mouth,1223,01/01/1900 00:20:23
+3,2081,Hand to stomach/mouth,1241,01/01/1900 00:20:41
+3,2081,Hand to stomach/mouth,1249,01/01/1900 00:20:49
+3,2081,Hand to stomach/mouth,1260,01/01/1900 00:21:00
+3,2081,Hand to stomach/mouth,1273,01/01/1900 00:21:13
+3,2081,Hand to stomach/mouth,1350,01/01/1900 00:22:30
+3,2081,Hand to stomach/mouth,1366,01/01/1900 00:22:46
+3,2081,Hand to stomach/mouth,1378,01/01/1900 00:22:58
+3,2081,Hand to stomach/mouth,1410,01/01/1900 00:23:30
+3,2081,Hand to stomach/mouth,1426,01/01/1900 00:23:46
+3,2081,Hand to stomach/mouth,1496,01/01/1900 00:24:56
+3,2081,Hand to stomach/mouth,1725,01/01/1900 00:28:45
+3,2081,Hand to stomach/mouth,1791,01/01/1900 00:29:51
+3,2081,Hand to stomach/mouth,1802,01/01/1900 00:30:02
+3,2081,Head lowering,430,01/01/1900 00:07:10
+3,2081,Head lowering,658,01/01/1900 00:10:58
+3,2081,Head lowering,687,01/01/1900 00:11:27
+3,2081,Head lowering,762,01/01/1900 00:12:42
+3,2081,Head lowering,767,01/01/1900 00:12:47
+3,2081,Head lowering,1117,01/01/1900 00:18:37
+3,2081,Head lowering,1873,01/01/1900 00:31:13
+3,2081,Join hands,95,01/01/1900 00:01:35
+3,2081,Join hands,104,01/01/1900 00:01:44
+3,2081,Tongue show,1437,01/01/1900 00:23:57
+3,2081,Looking away,34,01/01/1900 00:00:34
+3,2081,Looking away,164,01/01/1900 00:02:44
+3,2081,Looking away,204,01/01/1900 00:03:24
+3,2081,Looking away,248,01/01/1900 00:04:08
+3,2081,Looking away,288,01/01/1900 00:04:48
+3,2081,Looking away,335,01/01/1900 00:05:35
+3,2081,Looking away,353,01/01/1900 00:05:53
+3,2081,Looking away,362,01/01/1900 00:06:02
+3,2081,Looking away,523,01/01/1900 00:08:43
+3,2081,Looking away,526,01/01/1900 00:08:46
+3,2081,Looking away,772,01/01/1900 00:12:52
+3,2081,Looking away,920,01/01/1900 00:15:20
+3,2081,Looking away,957,01/01/1900 00:15:57
+3,2081,Looking away,937,01/01/1900 00:15:37
+3,2081,Looking away,974,01/01/1900 00:16:14
+3,2081,Looking away,997,01/01/1900 00:16:37
+3,2081,Looking away,1046,01/01/1900 00:17:26
+3,2081,Looking away,1593,01/01/1900 00:26:33
+3,2081,Looking away,1702,01/01/1900 00:28:22
+3,2081,Looking away,1704,01/01/1900 00:28:24
