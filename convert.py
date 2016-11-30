@@ -2,9 +2,9 @@
 
 import csv
 import datetime
+import pandas as pd
 
-
-originalFile = open('./report_4.csv', newline='')
+originalFile = open('./report4.csv', newline='')
 reader = csv.reader(originalFile, delimiter=',', quotechar='"')
 
 reader.__next__()
@@ -20,10 +20,10 @@ with open('event_log_4.csv', 'w') as csvfile:
     writer.writeheader()
 
     for row in reader:
-        paths = row[1].split(', ')
+        paths = row[3].split(', ')
         for path in paths:
             writer.writerow({'Patient': row[0], 'Activity': path, 'Timestamp': timestamp})
             timestamp+=one_day
-        writer.writerow({'Patient': row[0], 'Activity': row[2], 'Timestamp': timestamp})
+        writer.writerow({'Patient': row[0], 'Activity': row[4], 'Timestamp': timestamp})
 
 originalFile.close

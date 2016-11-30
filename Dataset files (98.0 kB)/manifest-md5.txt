@@ -1,0 +1,8 @@
+1f33ae77ead14a3ab3751acdf417dfde data/edited_hh102_labour.xes.gz
+0e488f259dd8fdea888f5d71399fcb09 data/edited_hh110_labour.xes.gz
+c2279a0afaf73b329e7e33f03f15dac0 data/edited_hh102_weekends.xes.gz
+6d645ae4395f859b4c1de556f0e85a4b data/activitylog_uci_detailed_labour.xes.gz
+cad617a450b5f679669707db384b41f6 data/activitylog_uci_detailed_weekends.xes.gz
+02262e1a2e08f4d2ac6e14804ee28bfc data/edited_hh104_labour.xes.gz
+8be40bc1e982a514fb1097a8ab16f554 data/edited_hh104_weekends.xes.gz
+5c128e9bd4e053b91252078e7d772e48 data/edited_hh110_weekends.xes.gz

@@ -1,0 +1,4 @@
+Mime-Types: gz=application/x-gzip
+Bagging-Date: 2015-11-03
+Bag-Size: 95.6 kB.8
+Payload-Oxum: 97943

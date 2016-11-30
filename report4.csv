@@ -1,0 +1,501 @@
+Patient,Sex,Age,All Paths,Outcome,Time (hr),Cost (GBP)
+1,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+2,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+3,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+4,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+5,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+6,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+7,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+8,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+9,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+10,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+11,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+12,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+13,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+14,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+15,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+16,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+17,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+18,F,< 14,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+19,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+20,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+21,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+22,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+23,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+24,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+25,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+26,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+27,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+28,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 7, Path 9, Path 11",Outcome 1,10,0
+29,M,< 14,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+30,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+31,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 7, Path 9, Path 11",Outcome 1,10,0
+32,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+33,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+34,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+35,M,< 14,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+36,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 7, Path 9, Path 11",Outcome 1,10,0
+37,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+38,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+39,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+40,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+41,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+42,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+43,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+44,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+45,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+46,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+47,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+48,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+49,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+50,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+51,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+52,F,< 14,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+53,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+54,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+55,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+56,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+57,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+58,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+59,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+60,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+61,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+62,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+63,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+64,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+65,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+66,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+67,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+68,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+69,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+70,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+71,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+72,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+73,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+74,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+75,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+76,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+77,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+78,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+79,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+80,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+81,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+82,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+83,M,< 14,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+84,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+85,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+86,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+87,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+88,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+89,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+90,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+91,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+92,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+93,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+94,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+95,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+96,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+97,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+98,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+99,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+100,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+101,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+102,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+103,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+104,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+105,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+106,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+107,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+108,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+109,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+110,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+111,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+112,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+113,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+114,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+115,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+116,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+117,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+118,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+119,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+120,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+121,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 7, Path 9, Path 11",Outcome 1,10,0
+122,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+123,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+124,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+125,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+126,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+127,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+128,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+129,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+130,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+131,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+132,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+133,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+134,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+135,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+136,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+137,M,< 14,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+138,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+139,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+140,M,< 14,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+141,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+142,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+143,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+144,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+145,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+146,M,< 14,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+147,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+148,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+149,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+150,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+151,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+152,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+153,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+154,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+155,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 7, Path 9, Path 11",Outcome 1,10,0
+156,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+157,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+158,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+159,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+160,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+161,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+162,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+163,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+164,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+165,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+166,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+167,M,< 14,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+168,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+169,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+170,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+171,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+172,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+173,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+174,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+175,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+176,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 7, Path 9, Path 11",Outcome 1,10,0
+177,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+178,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+179,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+180,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+181,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+182,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+183,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+184,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+185,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+186,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+187,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+188,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+189,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+190,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+191,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+192,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+193,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+194,M,< 14,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+195,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+196,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+197,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+198,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+199,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+200,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+201,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+202,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+203,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+204,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+205,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+206,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+207,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+208,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+209,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+210,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+211,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+212,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+213,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+214,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+215,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+216,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+217,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+218,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+219,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+220,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+221,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+222,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+223,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+224,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+225,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+226,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+227,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+228,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+229,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+230,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+231,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+232,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+233,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+234,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+235,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+236,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+237,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+238,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+239,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+240,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+241,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+242,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+243,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+244,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+245,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+246,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+247,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+248,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+249,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+250,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 7, Path 9, Path 11",Outcome 1,10,0
+251,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+252,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+253,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+254,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+255,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+256,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+257,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+258,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+259,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+260,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+261,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+262,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+263,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+264,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+265,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+266,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+267,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+268,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+269,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+270,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+271,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+272,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+273,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+274,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+275,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+276,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+277,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+278,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+279,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+280,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+281,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+282,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+283,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+284,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+285,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+286,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+287,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+288,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+289,M,< 14,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+290,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+291,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+292,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+293,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+294,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+295,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+296,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+297,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+298,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+299,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+300,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+301,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+302,M,< 14,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+303,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+304,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+305,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+306,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+307,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+308,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+309,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+310,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+311,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+312,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+313,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+314,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+315,M,< 14,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+316,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+317,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+318,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+319,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+320,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+321,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+322,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+323,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+324,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+325,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+326,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+327,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+328,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+329,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+330,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+331,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+332,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+333,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+334,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+335,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+336,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+337,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+338,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+339,F,< 14,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+340,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+341,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+342,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+343,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+344,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+345,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+346,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+347,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+348,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+349,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+350,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+351,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+352,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+353,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+354,F,< 14,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+355,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+356,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+357,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+358,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+359,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+360,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+361,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+362,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+363,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+364,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+365,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+366,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+367,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+368,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+369,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+370,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+371,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+372,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+373,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+374,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+375,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+376,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+377,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+378,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+379,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+380,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+381,M,< 14,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+382,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+383,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+384,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+385,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+386,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+387,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+388,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+389,M,< 14,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+390,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+391,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 7, Path 9, Path 11",Outcome 1,10,0
+392,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+393,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+394,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+395,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+396,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+397,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+398,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+399,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+400,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+401,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+402,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+403,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+404,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+405,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+406,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+407,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+408,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+409,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+410,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 7, Path 9, Path 11",Outcome 1,10,0
+411,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+412,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+413,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+414,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+415,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+416,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+417,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+418,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+419,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+420,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+421,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 7, Path 9, Path 11",Outcome 1,10,0
+422,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+423,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+424,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+425,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+426,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+427,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+428,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+429,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+430,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+431,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+432,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+433,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+434,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+435,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+436,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+437,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+438,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+439,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+440,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+441,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+442,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+443,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+444,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+445,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+446,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+447,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+448,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+449,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+450,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+451,F,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 11",Outcome 1,10,0
+452,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+453,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+454,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+455,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+456,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+457,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+458,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+459,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+460,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+461,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+462,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+463,M,< 14,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+464,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+465,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+466,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 7, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+467,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+468,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+469,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+470,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+471,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+472,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+473,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+474,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+475,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+476,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+477,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+478,M,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 18",Outcome 2,0,0
+479,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+480,F,> 15,"Order Placed, Path 2, Path 14, Path 15, Path 16, Path 17",Outcome 1,0,0
+481,M,> 15,"Order Placed, Path 2, Path 4, Path 6, Path 17",Outcome 1,0,0
+482,F,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+483,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+484,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+485,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+486,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+487,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+488,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+489,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+490,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+491,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+492,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+493,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+494,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+495,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+496,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+497,M,< 14,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 10, Path 12, Path 13",Outcome 1,0,0
+498,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+499,F,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
+500,M,> 15,"Order Placed, Path 3, Path 5, Path 8, Path 9, Path 11",Outcome 1,10,0
